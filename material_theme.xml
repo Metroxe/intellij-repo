@@ -9,6 +9,6 @@
     <option name="accentColor" value="b474f6" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
-    <option name="themedScrollbars" value="false" />
+    <option name="darkTitleBar" value="true" />
   </component>
 </application>
