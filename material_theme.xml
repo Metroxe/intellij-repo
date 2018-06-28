@@ -1,14 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.0.1" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="highlightColor" value="b474f6" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="customTreeIndent" value="8" />
     <option name="accentColor" value="b474f6" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
     <option name="darkTitleBar" value="true" />
+    <option name="userId" value="3158f13d:1644528e02b:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
