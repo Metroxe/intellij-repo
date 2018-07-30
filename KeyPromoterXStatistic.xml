@@ -46,7 +46,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -63,6 +63,14 @@
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌘1' or '⌃Space'</ShortCut>
+          <Description>Project</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
