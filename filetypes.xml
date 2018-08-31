@@ -4,6 +4,7 @@
       <mapping ext="s" type="Assembly File" />
       <mapping pattern="RxToMeContainer" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
