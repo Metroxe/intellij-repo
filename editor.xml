@@ -2,6 +2,8 @@
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
 </application>
