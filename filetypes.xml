@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="s" type="Assembly File" />
-      <mapping pattern="RxToMeContainer" type="PLAIN_TEXT" />
+      <mapping pattern="timemask" type="PLAIN_TEXT" />
       <mapping pattern="SDK" type="PLAIN_TEXT" />
+      <mapping pattern="RxToMeContainer" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="s" type="Assembly File" />
     </extensionMap>
   </component>
 </application>

@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="CodeCompletion" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
