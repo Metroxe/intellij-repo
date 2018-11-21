@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="timemask" type="PLAIN_TEXT" />
       <mapping pattern="SDK" type="PLAIN_TEXT" />
       <mapping pattern="RxToMeContainer" type="PLAIN_TEXT" />
