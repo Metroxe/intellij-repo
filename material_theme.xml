@@ -1,16 +1,19 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.7.2" />
+    <option name="version" value="2.10.6" />
     <option name="highlightColor" value="b474f6" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="b474f6" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="25" />
+    <option name="tabsHeight" value="18" />
     <option name="darkTitleBar" value="true" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="userId" value="3158f13d:1644528e02b:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="isCompactMenus" value="true" />
   </component>
 </application>
