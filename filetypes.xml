@@ -2,13 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="s" type="Assembly File" />
-      <mapping pattern="SDK" type="PLAIN_TEXT" />
-      <mapping pattern="timemask" type="PLAIN_TEXT" />
-      <mapping pattern="RxToMeContainer" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
