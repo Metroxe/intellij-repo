@@ -8,12 +8,12 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1558493496288">
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1558495944101">
         <mark key="'" line="35" column="33" />
-        <mark key="[" line="47" column="57" />
-        <mark key="]" line="30" column="80" />
-        <mark key="^" line="30" column="80" />
-        <mark key="." line="30" column="80" />
+        <mark key="[" line="48" column="71" />
+        <mark key="]" line="48" column="80" />
+        <mark key="^" line="48" column="80" />
+        <mark key="." line="48" column="80" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/com/company/Main.java" timestamp="1499356292875">
         <mark key="[" line="5" column="26" />
@@ -64,7 +64,7 @@
         <text encoding="base64">CgovLyBFYWNoIHN0cmluZyBpcyBhbiBJU09zdHJpbmcgb2YgdGhlIGRhdGUuCmludGVyZmFjZSBJU3VtbWFyeVJlc3BvbnNlIGV4dGVuZHMgSUdlbmVyaWNSZXNwb25zZSB7Cglba2V5OiBzdHJpbmddOiBJRGF5U3VtbWFyeTsKfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CVtrZXk6IHN0cmluZ106IElEYXlTdW1tYXJ5Owo=</text>
@@ -94,7 +94,7 @@
         <text>help</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
