@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/IdeaProjects/untitled/src/com/company/Main.java" timestamp="1499356292875">
         <mark key="[" line="5" column="26" />
       </file>
+      <file name="/Dummy.vm" timestamp="1558489348102">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" timestamp="1558489059834">
+        <mark key="k" line="5" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
@@ -20,5 +26,8 @@
       <history-input />
     </history>
     <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
