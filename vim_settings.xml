@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1558664515804">
@@ -8,13 +8,12 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1558665083268">
-        <mark key="'" line="43" column="16" />
-        <mark key="j" line="37" column="19" />
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="39" />
-        <mark key="." line="50" column="39" />
-        <mark key="^" line="52" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1558667710592">
+        <mark key="'" line="83" column="54" />
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" timestamp="1558499532590">
         <mark key="'" line="0" column="0" />
@@ -37,43 +36,93 @@
       <jump line="46" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" />
       <jump line="43" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
+      <jump line="36" column="43" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
+      <jump line="109" column="4" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
+      <jump line="96" column="54" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>textFormatter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlmb3IgKGNvbnN0IHJvdyBvZiByZXN1bHRzKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>textFormatter</text>
+        <text>void</text>
       </register>
       <register name="0" type="4">
         <text>object</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHthcnJheX0gZnJvbSAicHJvcC10eXBlcyI7Cg==</text>
+        <text encoding="base64">CQlmb3IgKGNvbnN0IHJvdyBvZiByZXN1bHRzKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zdCBwcmltYXJ5S2V5czoge1trZXk6IHN0cmluZ106IGJvb2xlYW59ID0ge307Cg==</text>
+        <text encoding="base64">CQkJYWRkVG9OZXdSZXN1bHRzKHJvdyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJaWYgKCFwcmltYXJ5S2V5ZGRzZGRkZGRkW3Jvdy5zdWJtaXNzaW9uVGltZVN0YW1wXSkgewo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcHJpbWFyeUtleXNbcm93LnN1Ym1pc3Npb25UaW1lU3RhbXBdID0gdHJ1ZTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQllbmRUaW1lOiB0aGlzLnRleHRGb3JtYXR0ZXIobW9tZW50KHN0YXJ0U3RyaW5nKS5ob3VycygyMykubWludXRlcyg1OSkpLAo=</text>
+      <register name="5" type="4">
+        <text>const summaries: ISubmission[] = [];
+		for (const row of results) {
+			const submissionTimeStamp: Moment = Summary.convertToDate(row.submissionTimeStamp);
+			const startDate: Moment = Summary.convertToDate(row.startTime);
+			const endDate: Moment = Summary.convertToDate(row.endTime);
+			const startString: string = startDate.format(&quot;DD/MM/YYYY&quot;);
+			const endString: string = endDate.format(&quot;DD/MM/YYYY&quot;);
+			const minutes: number = Math.floor(endDate.diff(startDate, &quot;minutes&quot;) % 60);
+			const hours: number = Math.floor(endDate.diff(startDate, &quot;hours&quot;));
+
+			if (startString === endString) {
+				summaries.push({
+					formName: row.form,
+					date: submissionTimeStamp,
+					loggedTime: {hours, minutes},
+				});
+			} else {
+				results.push({
+					startTime: row.startTime,
+					endTime: Summary.textFormatter(moment(startDate).hours(23).minutes(59).toDate()),
+					formName: row.form,
+					submissionTimeStamp: row.submissionTimeStamp,
+				});
+				results.push({
+					startTime: Summary.textFormatter(moment(startDate).hours(0).minutes(0).add(1, &quot;day&quot;).toDate()),
+					endTime: row.endTime,
+					formName: row.form,
+					submissionTimeStamp: row.submissionTimeStamp,
+				});
+			}
+		}
+
+		for (const sum of summaries) {
+			const key: string = sum.date.format(&quot;DD/MM/YYYY&quot;);
+
+			if (!summary.hasOwnProperty(key)) {
+				summary[key] = {
+					date: sum.date,
+					loggedTime: {...sum.loggedTime},
+					submissions: [{...sum}],
+				};
+			} else {
+				summary[key].submissions.push(sum);
+				const curMins: number = summary[key].loggedTime.minutes + sum.loggedTime.minutes;
+				summary[key].loggedTime.hours += (sum.loggedTime.hours + Math.floor(curMins / 60));
+				summary[key].loggedTime.minutes = curMins % 60;
+			}
+		}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCJiZWZvcmUiLCBzdW1tYWRkcnlba2V5XS5sb2dnZWRUaW1lKTsK</text>
+        <text encoding="base64">CQkJY29uc3Qgc3RhcnREYXRlOiBNb21lbnQgPSBTdW1tYXJ5LmNvbnZlcnRUb0RhdGUocm93LnN0YXJ0VGltZSk7CgkJCWNvbnN0IGVuZERhdGU6IE1vbWVudCA9IFN1bW1hcnkuY29udmVydFRvRGF0ZShyb3cuZW5kVGltZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCJhZnRlciIsIHN1bW1hcnlba2V5XS5sb2dnZWRUaW1lKTsK</text>
+        <text encoding="base64">aW1wb3J0IHthcnJheX0gZnJvbSAicHJvcC10eXBlcyI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zdCBzdW1tYXJpZXM6IElTdWJtaXNzaW9uW10gPSBbXTsKCQlmb3IgKHJvdyBvZiByZXN1bHRzKSB7Cg==</text>
+        <text encoding="base64">CQljb25zdCBwcmltYXJ5S2V5czoge1trZXk6IHN0cmluZ106IGJvb2xlYW59ID0ge307Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsZXQgcm93OiBhbnk7Cg==</text>
+        <text encoding="base64">CQkJaWYgKCFwcmltYXJ5S2V5ZGRzZGRkZGRkW3Jvdy5zdWJtaXNzaW9uVGltZVN0YW1wXSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
