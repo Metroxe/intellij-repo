@@ -8,12 +8,12 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1558669818914">
-        <mark key="'" line="105" column="54" />
-        <mark key="[" line="57" column="37" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1558670495979">
+        <mark key="'" line="109" column="54" />
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="58" column="16" />
+        <mark key="." line="58" column="16" />
+        <mark key="^" line="58" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" timestamp="1558499532590">
         <mark key="'" line="0" column="0" />
@@ -41,11 +41,11 @@
       <jump line="96" column="54" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlmb3IgKGNvbnN0IHJvdyBvZiByZXN1bHRzKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>newRow.startTime</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>newRow.startTime</text>
       </register>
       <register name="0" type="4">
         <text>object</text>
