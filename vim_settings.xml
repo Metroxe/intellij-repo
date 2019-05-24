@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1558664515804">
@@ -8,12 +8,13 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1558664441279">
-        <mark key="'" line="42" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1558665083268">
+        <mark key="'" line="43" column="16" />
         <mark key="j" line="37" column="19" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="52" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" timestamp="1558499532590">
         <mark key="'" line="0" column="0" />
@@ -35,13 +36,14 @@
       <jump line="42" column="31" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
       <jump line="46" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" />
+      <jump line="43" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHthcnJheX0gZnJvbSAicHJvcC10eXBlcyI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>textFormatter</text>
       </register>
       <register name="-" type="4">
-        <text>primaryKey</text>
+        <text>textFormatter</text>
       </register>
       <register name="0" type="4">
         <text>object</text>
