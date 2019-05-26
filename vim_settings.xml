@@ -15,11 +15,20 @@
         <mark key="." line="93" column="17" />
         <mark key="^" line="93" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/secureTEst/index.js" timestamp="1558850314207">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/website/screens/AdminPortal/AddUser.tsx" timestamp="1558840075449">
         <mark key="[" line="98" column="24" />
         <mark key="]" line="98" column="44" />
         <mark key="." line="98" column="44" />
         <mark key="^" line="98" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/secureTEst/package.json" timestamp="1558850459795">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/website/components/DynamicValueEditor.tsx" timestamp="1558839866096">
         <mark key="[" line="9" column="6" />
@@ -78,10 +87,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CX0=</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CX0=</text>
+        <text>,</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogSVVzZXJQb3N0UmVxdWVzdCwgcmVzOiBJUmVzcG9uc2UsIG5leHQ6IE5leHRGdW5jdGlvbik6IHZvaWQgewoJCWZzLnJlYWRGaWxlKFVzZXIudXNlckRpcmVjdG9yeSwgInV0ZjgiLCAoZXJyOiBOb2RlSlMuRXJybm9FeGNlcHRpb24sIGRhdGE6IHN0cmluZykgPT4gewoJCQljb25zdCB1c2VySlNPTjogYW55ID0gSlNPTi5wYXJzZShkYXRhKTsKCQkJbGV0IGk6IG51bWJlcjsKCQkJZm9yIChpID0gMDsgaSA8IHVzZXJKU09OLnVzZXJzLmxlbmd0aDsgaSsrKSB7CgkJCQlpZiAodXNlckpTT04udXNlcnNbaV0ubmFtZSA9PT0gcmVxLnF1ZXJ5LmZhcm1lcikgewoJCQkJCXVzZXJKU09OLnVzZXJzLnNwbGljZShpLCAxKTsKCQkJCQlicmVhazsKCQkJCX0KCQkJfQoJCQlmcy53cml0ZUZpbGUoVXNlci51c2VyRGlyZWN0b3J5LCBKU09OLnN0cmluZ2lmeSh1c2VySlNPTiwgbnVsbCwgMiksICJ1dGY4IiwgKGVyclc6IGFueSkgPT4gewoJCQkJaWYgKGVyclcpIHsKCQkJCQlyZXMuc3RhdHVzKDQwMCkuc2VuZCgiVW5hYmxlIHRvIGRlbGV0ZSB1c2VyLiIpOwoJCQkJCXJldHVybjsKCQkJCX0KCQkJCXJlcy5zZW5kU3RhdHVzKDIwMCk7CgkJCX0pOwoJCX0pOwoJfQ==</text>
