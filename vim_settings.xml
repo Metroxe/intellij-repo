@@ -33,13 +33,14 @@
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/website/components/DynamicValueEditor.tsx" timestamp="1558839866096">
         <mark key="[" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" timestamp="1558848842281">
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" timestamp="1558851688416">
         <mark key="'" line="55" column="4" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="75" column="0" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="61" column="50" />
+        <mark key="]" line="61" column="54" />
+        <mark key="^" line="61" column="54" />
+        <mark key="." line="61" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/data/users.json" timestamp="1558851614457" />
       <file name="/Dummy.vm" timestamp="1558848761743">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,40 +88,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogSVVzZXJQb3N0UmVxdWVzdCwgcmVzOiBJUmVzcG9uc2UsIG5leHQ6IE5leHRGdW5jdGlvbik6IHZvaWQgewoJCWZzLnJlYWRGaWxlKFVzZXIudXNlckRpcmVjdG9yeSwgInV0ZjgiLCAoZXJyOiBOb2RlSlMuRXJybm9FeGNlcHRpb24sIGRhdGE6IHN0cmluZykgPT4gewoJCQljb25zdCB1c2VySlNPTjogYW55ID0gSlNPTi5wYXJzZShkYXRhKTsKCQkJbGV0IGk6IG51bWJlcjsKCQkJZm9yIChpID0gMDsgaSA8IHVzZXJKU09OLnVzZXJzLmxlbmd0aDsgaSsrKSB7CgkJCQlpZiAodXNlckpTT04udXNlcnNbaV0ubmFtZSA9PT0gcmVxLnF1ZXJ5LmZhcm1lcikgewoJCQkJCXVzZXJKU09OLnVzZXJzLnNwbGljZShpLCAxKTsKCQkJCQlicmVhazsKCQkJCX0KCQkJfQoJCQlmcy53cml0ZUZpbGUoVXNlci51c2VyRGlyZWN0b3J5LCBKU09OLnN0cmluZ2lmeSh1c2VySlNPTiwgbnVsbCwgMiksICJ1dGY4IiwgKGVyclc6IGFueSkgPT4gewoJCQkJaWYgKGVyclcpIHsKCQkJCQlyZXMuc3RhdHVzKDQwMCkuc2VuZCgiVW5hYmxlIHRvIGRlbGV0ZSB1c2VyLiIpOwoJCQkJCXJldHVybjsKCQkJCX0KCQkJCXJlcy5zZW5kU3RhdHVzKDIwMCk7CgkJCX0pOwoJCX0pOwoJfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICB7CiAgICAgICJwYXNzd29yZCI6ICI2NTQ1IiwKICAgICAgInRva2VuIjogIjIwIgogICAgfSwKICAgIHsKICAgICAgInBhc3N3b3JkIjogIjY1NDUiLAogICAgICAidG9rZW4iOiAiMjEiCiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc3QgbmV3VG9rZW46IHN0cmluZyA9IHBhcnNlRmxvYXQodXNlckpTT04udXNlcnNbdXNlckpTT04udXNlcnMubGVuZ3RoIC0gMV0udG9rZW4sIDEwKTsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJY29uc3QgbmV3VG9rZW46IHN0cmluZyA9IHBhcnNlRmxvYXQodXNlckpTT04udXNlcnNbdXNlckpTT04udXNlcnMubGVuZ3RoIC0gMV0udG9rZW4sIDEwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCW5ld1Rva2VuID0gVXNlci5nZW5lcmF0ZU5ld1Rva2VuKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJd2hpbGUgKFVzZXIudmFsaWRUb2tlbihuZXdUb2tlbiwgdXNlckpTT04pKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkJfQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCW5ld1Rva2VuID0gVXNlci5nZW5lcmF0ZU5ld1Rva2VuKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJd2hpbGUgKFVzZXIudmFsaWRUb2tlbihuZXdUb2tlbiwgdXNlckpTT04pKSB7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaWYgKGVyciB8fCAhcmVxLmZhcm1lciB8fCAhcmVxLnRva2VuKSB7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlzdWNjZXNzOiBmYWxzZSwK</text>
+        <text encoding="base64">CQkJaWYgKGVyciB8fCAhcmVxLmZhcm1lciB8fCAhcmVxLnRva2VuKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
