@@ -15,6 +15,25 @@
         <mark key="." line="93" column="17" />
         <mark key="^" line="93" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/website/screens/AdminPortal/AddUser.tsx" timestamp="1558840075449">
+        <mark key="[" line="98" column="24" />
+        <mark key="]" line="98" column="44" />
+        <mark key="." line="98" column="44" />
+        <mark key="^" line="98" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/website/components/DynamicValueEditor.tsx" timestamp="1558839866096">
+        <mark key="[" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" timestamp="1558848842281">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="75" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="/Dummy.vm" timestamp="1558848761743">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" timestamp="1558676579495">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="16" />
@@ -54,93 +73,48 @@
       <jump line="141" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" />
       <jump line="18" column="27" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" />
+      <jump line="55" column="4" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text encoding="base64">CX0=</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text encoding="base64">CX0=</text>
       </register>
       <register name="0" type="4">
-        <text>object</text>
+        <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogSVVzZXJQb3N0UmVxdWVzdCwgcmVzOiBJUmVzcG9uc2UsIG5leHQ6IE5leHRGdW5jdGlvbik6IHZvaWQgewoJCWZzLnJlYWRGaWxlKFVzZXIudXNlckRpcmVjdG9yeSwgInV0ZjgiLCAoZXJyOiBOb2RlSlMuRXJybm9FeGNlcHRpb24sIGRhdGE6IHN0cmluZykgPT4gewoJCQljb25zdCB1c2VySlNPTjogYW55ID0gSlNPTi5wYXJzZShkYXRhKTsKCQkJbGV0IGk6IG51bWJlcjsKCQkJZm9yIChpID0gMDsgaSA8IHVzZXJKU09OLnVzZXJzLmxlbmd0aDsgaSsrKSB7CgkJCQlpZiAodXNlckpTT04udXNlcnNbaV0ubmFtZSA9PT0gcmVxLnF1ZXJ5LmZhcm1lcikgewoJCQkJCXVzZXJKU09OLnVzZXJzLnNwbGljZShpLCAxKTsKCQkJCQlicmVhazsKCQkJCX0KCQkJfQoJCQlmcy53cml0ZUZpbGUoVXNlci51c2VyRGlyZWN0b3J5LCBKU09OLnN0cmluZ2lmeSh1c2VySlNPTiwgbnVsbCwgMiksICJ1dGY4IiwgKGVyclc6IGFueSkgPT4gewoJCQkJaWYgKGVyclcpIHsKCQkJCQlyZXMuc3RhdHVzKDQwMCkuc2VuZCgiVW5hYmxlIHRvIGRlbGV0ZSB1c2VyLiIpOwoJCQkJCXJldHVybjsKCQkJCX0KCQkJCXJlcy5zZW5kU3RhdHVzKDIwMCk7CgkJCX0pOwoJCX0pOwoJfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJaWYgKHN0YXJ0VGltZS5mb3JtYXQoImRkIikgIT09IGVuZFRpbWUuZm9ybWF0KCJkZCIpKSB7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmb3IgKGNvbnN0IHJvdyBvZiByZXN1bHRzKSB7Cg==</text>
+        <text encoding="base64">CQkJY29uc3QgbmV3VG9rZW46IHN0cmluZyA9IHBhcnNlRmxvYXQodXNlckpTT04udXNlcnNbdXNlckpTT04udXNlcnMubGVuZ3RoIC0gMV0udG9rZW4sIDEwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJYWRkVG9OZXdSZXN1bHRzKHJvdyk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCW5ld1Rva2VuID0gVXNlci5nZW5lcmF0ZU5ld1Rva2VuKCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>const summaries: ISubmission[] = [];
-		for (const row of results) {
-			const submissionTimeStamp: Moment = Summary.convertToDate(row.submissionTimeStamp);
-			const startDate: Moment = Summary.convertToDate(row.startTime);
-			const endDate: Moment = Summary.convertToDate(row.endTime);
-			const startString: string = startDate.format(&quot;DD/MM/YYYY&quot;);
-			const endString: string = endDate.format(&quot;DD/MM/YYYY&quot;);
-			const minutes: number = Math.floor(endDate.diff(startDate, &quot;minutes&quot;) % 60);
-			const hours: number = Math.floor(endDate.diff(startDate, &quot;hours&quot;));
-
-			if (startString === endString) {
-				summaries.push({
-					formName: row.form,
-					date: submissionTimeStamp,
-					loggedTime: {hours, minutes},
-				});
-			} else {
-				results.push({
-					startTime: row.startTime,
-					endTime: Summary.textFormatter(moment(startDate).hours(23).minutes(59).toDate()),
-					formName: row.form,
-					submissionTimeStamp: row.submissionTimeStamp,
-				});
-				results.push({
-					startTime: Summary.textFormatter(moment(startDate).hours(0).minutes(0).add(1, &quot;day&quot;).toDate()),
-					endTime: row.endTime,
-					formName: row.form,
-					submissionTimeStamp: row.submissionTimeStamp,
-				});
-			}
-		}
-
-		for (const sum of summaries) {
-			const key: string = sum.date.format(&quot;DD/MM/YYYY&quot;);
-
-			if (!summary.hasOwnProperty(key)) {
-				summary[key] = {
-					date: sum.date,
-					loggedTime: {...sum.loggedTime},
-					submissions: [{...sum}],
-				};
-			} else {
-				summary[key].submissions.push(sum);
-				const curMins: number = summary[key].loggedTime.minutes + sum.loggedTime.minutes;
-				summary[key].loggedTime.hours += (sum.loggedTime.hours + Math.floor(curMins / 60));
-				summary[key].loggedTime.minutes = curMins % 60;
-			}
-		}</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJd2hpbGUgKFVzZXIudmFsaWRUb2tlbihuZXdUb2tlbiwgdXNlckpTT04pKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc3Qgc3RhcnREYXRlOiBNb21lbnQgPSBTdW1tYXJ5LmNvbnZlcnRUb0RhdGUocm93LnN0YXJ0VGltZSk7CgkJCWNvbnN0IGVuZERhdGU6IE1vbWVudCA9IFN1bW1hcnkuY29udmVydFRvRGF0ZShyb3cuZW5kVGltZSk7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHthcnJheX0gZnJvbSAicHJvcC10eXBlcyI7Cg==</text>
+        <text encoding="base64">CQkJaWYgKGVyciB8fCAhcmVxLmZhcm1lciB8fCAhcmVxLnRva2VuKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCBwcmltYXJ5S2V5czoge1trZXk6IHN0cmluZ106IGJvb2xlYW59ID0ge307Cg==</text>
+        <text encoding="base64">CQkJCQlzdWNjZXNzOiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>help</text>
+        <text>d100j</text>
       </register>
     </registers>
     <search>
@@ -151,6 +125,8 @@
       <history-search />
       <history-cmd>
         <entry>help</entry>
+        <entry>d100j</entry>
+        <entry>d$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
