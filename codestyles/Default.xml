@@ -1,5 +1,10 @@
 <code_scheme name="Default" version="173">
-  <JSCodeStyleSettings>
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </value>
+  </option>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
