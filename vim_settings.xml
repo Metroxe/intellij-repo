@@ -30,11 +30,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/RxtoMe/pages/for-pharmacies.tsx" timestamp="1559071768105">
-        <mark key="[" line="82" column="30" />
-        <mark key="]" line="82" column="34" />
-        <mark key="." line="82" column="34" />
-        <mark key="^" line="82" column="34" />
+      <file name="$USER_HOME$/Documents/projects/RxtoMe/pages/for-pharmacies.tsx" timestamp="1559081498769">
+        <mark key="[" line="104" column="73" />
+        <mark key="]" line="104" column="73" />
+        <mark key="." line="104" column="73" />
+        <mark key="^" line="134" column="69" />
       </file>
       <file name="/JavaScript Console" timestamp="1558977558103">
         <mark key="[" line="0" column="0" />
@@ -52,6 +52,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/website/components/DynamicValueEditor.tsx" timestamp="1558839866096">
         <mark key="[" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/RxtoMe/components/SignUpNav.js" timestamp="1559079845361">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/Dummy.vm" timestamp="1558848761743">
         <mark key="[" line="0" column="0" />
@@ -149,46 +154,41 @@
       <jump line="55" column="4" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+      <register name="&quot;" type="4">
+        <text>300</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>300</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogSVVzZXJQb3N0UmVxdWVzdCwgcmVzOiBJUmVzcG9uc2UsIG5leHQ6IE5leHRGdW5jdGlvbik6IHZvaWQgewoJCWZzLnJlYWRGaWxlKFVzZXIudXNlckRpcmVjdG9yeSwgInV0ZjgiLCAoZXJyOiBOb2RlSlMuRXJybm9FeGNlcHRpb24sIGRhdGE6IHN0cmluZykgPT4gewoJCQljb25zdCB1c2VySlNPTjogYW55ID0gSlNPTi5wYXJzZShkYXRhKTsKCQkJbGV0IGk6IG51bWJlcjsKCQkJZm9yIChpID0gMDsgaSA8IHVzZXJKU09OLnVzZXJzLmxlbmd0aDsgaSsrKSB7CgkJCQlpZiAodXNlckpTT04udXNlcnNbaV0ubmFtZSA9PT0gcmVxLnF1ZXJ5LmZhcm1lcikgewoJCQkJCXVzZXJKU09OLnVzZXJzLnNwbGljZShpLCAxKTsKCQkJCQlicmVhazsKCQkJCX0KCQkJfQoJCQlmcy53cml0ZUZpbGUoVXNlci51c2VyRGlyZWN0b3J5LCBKU09OLnN0cmluZ2lmeSh1c2VySlNPTiwgbnVsbCwgMiksICJ1dGY4IiwgKGVyclc6IGFueSkgPT4gewoJCQkJaWYgKGVyclcpIHsKCQkJCQlyZXMuc3RhdHVzKDQwMCkuc2VuZCgiVW5hYmxlIHRvIGRlbGV0ZSB1c2VyLiIpOwoJCQkJCXJldHVybjsKCQkJCX0KCQkJCXJlcy5zZW5kU3RhdHVzKDIwMCk7CgkJCX0pOwoJCX0pOwoJfQ==</text>
+        <text>{</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkgIAo=</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2Ugbm8tZGVmYXVsdC1saWI9InRydWUiLz4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCSAgICA8c3BhbiBjbGFzc05hbWU9ImZvcm0tbmF2aWdhdGlvbi1hcnJvdyBhcnJvdy1wcmV2IiBzdHlsZT17cHJldkFycm93U3R5bGV9IG9uQ2xpY2s9e3RoaXMucHJvcHMucHJldlN0ZXB9Pjwvc3Bhbj4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogSVJlcXVlc3Q8YW55LCBhbnk+LCByZXM6IElSZXNwb25zZTxhbnk+LCBuZXh0OiBOZXh0RnVuY3Rpb24pOiB2b2lkIHsKCQkJCgl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJCSAgICA8c3BhbiBjbGFzc05hbWU9ImZvcm0tbmF2aWdhdGlvbi1hcnJvdyBhcnJvdy1uZXh0IiBzdHlsZT17bmV4dEFycm93U3R5bGV9IG9uQ2xpY2s9e3RoaXMucHJvcHMubmV4dFN0ZXB9Pjwvc3Bhbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-			const year: number = Number(str.split(&quot;/&quot;)[2].split(&quot; &quot;)[0]);
-			const month: number = Number(str.split(&quot;/&quot;)[1]) - 1;
-			const day: number = Number(str.split(&quot;/&quot;)[0]);
-			const hour: number = Number(str.split(&quot;/&quot;)[2].split(&quot; &quot;)[1].split(&quot;:&quot;)[0]);
-			const min: number = Number(str.split(&quot;/&quot;)[2].split(&quot;:&quot;)[1].slice(0, -2));</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CjxhdWRpbyBjb250cm9scyBhdXRvcGxheT4KICAgIDxzb3VyY2Ugc3JjPSJob3JzZS5vZ2ciIHR5cGU9ImF1ZGlvL29nZyI+CiAgICA8c291cmNlIHNyYz0iaG9yc2UubXAzIiB0eXBlPSJhdWRpby9tcGVnIj4KICAgIFlvdXIgYnJvd3NlciBkb2VzIG5vdCBzdXBwb3J0IHRoZSBhdWRpbyBlbGVtZW50Lgo8L2F1ZGlvPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2Ugbm8tZGVmYXVsdC1saWI9InRydWUiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
