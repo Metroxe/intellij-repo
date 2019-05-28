@@ -8,7 +8,7 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1559014190487">
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" timestamp="1559016458007">
         <mark key="'" line="131" column="54" />
         <mark key="[" line="71" column="36" />
         <mark key="]" line="71" column="33" />
@@ -22,6 +22,12 @@
         <mark key="^" line="98" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/screens/DailySummary.tsx" timestamp="1559014004398" />
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/GlobalForm.ts" timestamp="1559017144813">
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="66" column="4" />
+        <mark key="^" line="67" column="4" />
+        <mark key="." line="66" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/secureTEst/index.js" timestamp="1558850314207">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,6 +57,11 @@
       <file name="/Dummy.vm" timestamp="1558848761743">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/database/csv_adapters/DynamicCSVAdapter.ts" timestamp="1559016902884">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" timestamp="1558676579495">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="16" />
@@ -58,7 +69,7 @@
         <mark key="." line="44" column="16" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" timestamp="1558676524326">
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" timestamp="1559016579756">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="134" column="16" />
         <mark key="]" line="135" column="53" />
@@ -95,41 +106,41 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pu</text>
+        <text>protected</text>
       </register>
       <register name="-" type="4">
-        <text>pu</text>
+        <text>protected</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogSVVzZXJQb3N0UmVxdWVzdCwgcmVzOiBJUmVzcG9uc2UsIG5leHQ6IE5leHRGdW5jdGlvbik6IHZvaWQgewoJCWZzLnJlYWRGaWxlKFVzZXIudXNlckRpcmVjdG9yeSwgInV0ZjgiLCAoZXJyOiBOb2RlSlMuRXJybm9FeGNlcHRpb24sIGRhdGE6IHN0cmluZykgPT4gewoJCQljb25zdCB1c2VySlNPTjogYW55ID0gSlNPTi5wYXJzZShkYXRhKTsKCQkJbGV0IGk6IG51bWJlcjsKCQkJZm9yIChpID0gMDsgaSA8IHVzZXJKU09OLnVzZXJzLmxlbmd0aDsgaSsrKSB7CgkJCQlpZiAodXNlckpTT04udXNlcnNbaV0ubmFtZSA9PT0gcmVxLnF1ZXJ5LmZhcm1lcikgewoJCQkJCXVzZXJKU09OLnVzZXJzLnNwbGljZShpLCAxKTsKCQkJCQlicmVhazsKCQkJCX0KCQkJfQoJCQlmcy53cml0ZUZpbGUoVXNlci51c2VyRGlyZWN0b3J5LCBKU09OLnN0cmluZ2lmeSh1c2VySlNPTiwgbnVsbCwgMiksICJ1dGY4IiwgKGVyclc6IGFueSkgPT4gewoJCQkJaWYgKGVyclcpIHsKCQkJCQlyZXMuc3RhdHVzKDQwMCkuc2VuZCgiVW5hYmxlIHRvIGRlbGV0ZSB1c2VyLiIpOwoJCQkJCXJldHVybjsKCQkJCX0KCQkJCXJlcy5zZW5kU3RhdHVzKDIwMCk7CgkJCX0pOwoJCX0pOwoJfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CjxhdWRpbyBjb250cm9scyBhdXRvcGxheT4KICAgIDxzb3VyY2Ugc3JjPSJob3JzZS5vZ2ciIHR5cGU9ImF1ZGlvL29nZyI+CiAgICA8c291cmNlIHNyYz0iaG9yc2UubXAzIiB0eXBlPSJhdWRpby9tcGVnIj4KICAgIFlvdXIgYnJvd3NlciBkb2VzIG5vdCBzdXBwb3J0IHRoZSBhdWRpbyBlbGVtZW50Lgo8L2F1ZGlvPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCWNvbnRpbnVlOwo=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CjxhdWRpbyBjb250cm9scyBhdXRvcGxheT4KICAgIDxzb3VyY2Ugc3JjPSJob3JzZS5vZ2ciIHR5cGU9ImF1ZGlvL29nZyI+CiAgICA8c291cmNlIHNyYz0iaG9yc2UubXAzIiB0eXBlPSJhdWRpby9tcGVnIj4KICAgIFlvdXIgYnJvd3NlciBkb2VzIG5vdCBzdXBwb3J0IHRoZSBhdWRpbyBlbGVtZW50Lgo8L2F1ZGlvPg==</text>
+      </register>
+      <register name="3" type="4">
         <text>; text-orientation: upright;
             writing-mode: vertical-rl</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHdyaXRpbmctbW9kZTogdmVydGljYWwtcmw7</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgfSlkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgpIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICB7CiAgICAgICJwYXNzd29yZCI6ICI2NTQ1IiwKICAgICAgInRva2VuIjogIjIwIgogICAgfSwKICAgIHsKICAgICAgInBhc3N3b3JkIjogIjY1NDUiLAogICAgICAidG9rZW4iOiAiMjEiCiAgICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CX0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJY29uc3QgbmV3VG9rZW46IHN0cmluZyA9IHBhcnNlRmxvYXQodXNlckpTT04udXNlcnNbdXNlckpTT04udXNlcnMubGVuZ3RoIC0gMV0udG9rZW4sIDEwKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
