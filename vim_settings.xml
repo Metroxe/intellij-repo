@@ -26,10 +26,19 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/GlobalForm.ts" timestamp="1559019097458">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/utils/deleteDynamicCSVHandler.ts" timestamp="1559099734172">
+        <mark key="'" line="27" column="40" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/GlobalForm.ts" timestamp="1559099922967">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="14" column="98" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/secureTEst/index.js" timestamp="1558850314207">
         <mark key="[" line="0" column="0" />
@@ -40,6 +49,7 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/database/csv_adapters/GlobalFormAdapter.ts" timestamp="1559098582403" />
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/website/components/DynamicValueEditor.tsx" timestamp="1558839866096">
         <mark key="[" line="9" column="6" />
       </file>
@@ -106,49 +116,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" />
       <jump line="55" column="4" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/utils/deleteDynamicCSVHandler.ts" />
+      <jump line="15" column="73" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/utils/deleteDynamicCSVHandler.ts" />
+      <jump line="14" column="81" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/utils/deleteDynamicCSVHandler.ts" />
+      <jump line="28" column="40" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/utils/deleteDynamicCSVHandler.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/GlobalForm.ts" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/GlobalForm.ts" />
+      <jump line="65" column="65" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/GlobalForm.ts" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/GlobalForm.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogSVVzZXJQb3N0UmVxdWVzdCwgcmVzOiBJUmVzcG9uc2UsIG5leHQ6IE5leHRGdW5jdGlvbik6IHZvaWQgewoJCWZzLnJlYWRGaWxlKFVzZXIudXNlckRpcmVjdG9yeSwgInV0ZjgiLCAoZXJyOiBOb2RlSlMuRXJybm9FeGNlcHRpb24sIGRhdGE6IHN0cmluZykgPT4gewoJCQljb25zdCB1c2VySlNPTjogYW55ID0gSlNPTi5wYXJzZShkYXRhKTsKCQkJbGV0IGk6IG51bWJlcjsKCQkJZm9yIChpID0gMDsgaSA8IHVzZXJKU09OLnVzZXJzLmxlbmd0aDsgaSsrKSB7CgkJCQlpZiAodXNlckpTT04udXNlcnNbaV0ubmFtZSA9PT0gcmVxLnF1ZXJ5LmZhcm1lcikgewoJCQkJCXVzZXJKU09OLnVzZXJzLnNwbGljZShpLCAxKTsKCQkJCQlicmVhazsKCQkJCX0KCQkJfQoJCQlmcy53cml0ZUZpbGUoVXNlci51c2VyRGlyZWN0b3J5LCBKU09OLnN0cmluZ2lmeSh1c2VySlNPTiwgbnVsbCwgMiksICJ1dGY4IiwgKGVyclc6IGFueSkgPT4gewoJCQkJaWYgKGVyclcpIHsKCQkJCQlyZXMuc3RhdHVzKDQwMCkuc2VuZCgiVW5hYmxlIHRvIGRlbGV0ZSB1c2VyLiIpOwoJCQkJCXJldHVybjsKCQkJCX0KCQkJCXJlcy5zZW5kU3RhdHVzKDIwMCk7CgkJCX0pOwoJCX0pOwoJfQ==</text>
+        <text encoding="base64">aWYgKHJlcS5ib2R5LnByaW1hcnlLZXkgJiYgcmVxLmJvZHkuc2Vjb25kYXJ5S2V5KSB7CgkJCUNTVk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5HbG9iYWxGb3JtQWRhcHRlci5yZW1vdmVSb3dzKHJlcS5ib2R5LnByaW1hcnlLZXksIHJlcS5ib2R5LnNlY29uZGFyeUtleSk7CgkJfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogYW55LCByZXM6IGFueSk6IHZvaWQgewo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogSVJlcXVlc3Q8YW55LCBhbnk+LCByZXM6IElSZXNwb25zZTxhbnk+LCBuZXh0OiBOZXh0RnVuY3Rpb24pOiB2b2lkIHsKCQkJCgl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CglwdWJsaWMgc3RhdGljIHZhbGlkYXRlVXNlcih0b2tlbjogc3RyaW5nKTogYm9vbGVhbiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogYW55LCByZXM6IGFueSk6IHZvaWQgewoK</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-			const year: number = Number(str.split(&quot;/&quot;)[2].split(&quot; &quot;)[0]);
-			const month: number = Number(str.split(&quot;/&quot;)[1]) - 1;
-			const day: number = Number(str.split(&quot;/&quot;)[0]);
-			const hour: number = Number(str.split(&quot;/&quot;)[2].split(&quot; &quot;)[1].split(&quot;:&quot;)[0]);
-			const min: number = Number(str.split(&quot;/&quot;)[2].split(&quot;:&quot;)[1].slice(0, -2));</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQljcmVhdGVEZWxldGVIYW5kbGVyKCgpID0+IENTVk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5HbG9iYWxGb3JtQWRhcHRlcikocmVxLCByZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnRpbnVlOwo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CjxhdWRpbyBjb250cm9scyBhdXRvcGxheT4KICAgIDxzb3VyY2Ugc3JjPSJob3JzZS5vZ2ciIHR5cGU9ImF1ZGlvL29nZyI+CiAgICA8c291cmNlIHNyYz0iaG9yc2UubXAzIiB0eXBlPSJhdWRpby9tcGVnIj4KICAgIFlvdXIgYnJvd3NlciBkb2VzIG5vdCBzdXBwb3J0IHRoZSBhdWRpbyBlbGVtZW50Lgo8L2F1ZGlvPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHtHbG9iYWxGb3JtQWRhcHRlcn0gZnJvbSAiLi4vLi4vLi4vZGF0YWJhc2UvY3N2X2FkYXB0ZXJzL0dsb2JhbEZvcm1BZGFwdGVyIjsK</text>
       </register>
-      <register name="8" type="4">
-        <text>; text-orientation: upright;
-            writing-mode: vertical-rl</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHtJVXNlcn0gZnJvbSAiLi4vLi4vLi4vLi4vYXBwL21vZGVsL1VzZXIiOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHdyaXRpbmctbW9kZTogdmVydGljYWwtcmw7</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHtJTG9naW5SZXNwb25zZX0gZnJvbSAiLi4vLi4vLi4vLi4vYXBwL3NlcnZpY2VzL0FQSUFkYXBhdGVyIjsK</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
