@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/secureTEst/index.js" timestamp="1558850314207">
@@ -60,7 +60,6 @@
       <file name="/Dummy.vm" timestamp="1558848761743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/RxToMePHPBackend/api/autocompletedoctorinfo.php" timestamp="1559153107460" />
       <file name="$USER_HOME$/Documents/projects/CPS/cloudbuild.yaml" timestamp="1559071240010">
         <mark key="[" line="9" column="96" />
       </file>
@@ -109,6 +108,9 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/RxtoMe/middleware/isEqual.ts" timestamp="1559233738257">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" timestamp="1559016579756">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="134" column="16" />
@@ -121,7 +123,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/RxtoMe/pages/orderAndTransfer/OrderSummary2.tsx" timestamp="1559070386760" />
       <file name="$USER_HOME$/Documents/projects/CPS/index.js" timestamp="1559071516431">
         <mark key="[" line="15" column="48" />
       </file>
