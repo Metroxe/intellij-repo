@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration" systemNotifications="false">
-    <notification groupId="Profiling" />
-  </component>
-</application>
