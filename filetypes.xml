@@ -1,31 +1,49 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile_backend" type="Dockerfile" />
+      <mapping pattern="Dockerfile_Release" type="Dockerfile" />
+      <mapping pattern="dockerfile_backend" type="Dockerfile" />
+      <mapping pattern="Dockerfile-dev" type="Dockerfile" />
+      <mapping pattern="Dockerfile-local" type="Dockerfile" />
+      <mapping pattern="Dockerfile_downloader" type="Dockerfile" />
+      <mapping pattern=".Dockerfile_demo" type="Dockerfile" />
       <mapping pattern="Dockerfile_website" type="Dockerfile" />
       <mapping pattern="Dockerfile_node-backend" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="Dockerfile_frontend" type="Dockerfile" />
+      <mapping pattern="Dockerfile_admin-portal" type="Dockerfile" />
+      <mapping pattern="Dockerfile_isteward" type="Dockerfile" />
+      <mapping pattern=".nycrc" type="JSON" />
+      <mapping ext="mp4" type="Native" />
+      <mapping ext="wav" type="Native" />
       <mapping pattern="SDK" type="PLAIN_TEXT" />
-      <mapping pattern="styleInitialState" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="timemask" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="RxToMeContainer" type="PLAIN_TEXT" />
-      <mapping pattern="userInitialState" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="userInitialState" type="PLAIN_TEXT" />
+      <mapping pattern="testFile" type="PLAIN_TEXT" />
+      <mapping pattern="timemask" type="PLAIN_TEXT" />
+      <mapping pattern="ENV" type="PLAIN_TEXT" />
+      <mapping pattern="RxToMeContainer" type="PLAIN_TEXT" />
+      <mapping pattern="styleInitialState" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env-sample" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="dot" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="README.md" approved="true" type="Markdown" />
       <mapping ext="s" type="Assembly File" />
     </extensionMap>
   </component>

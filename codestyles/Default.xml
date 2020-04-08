@@ -6,7 +6,6 @@
   </option>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
