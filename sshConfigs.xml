@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="remote.ugrad.cs.ubc.ca" id="ab991c57-3f49-4d91-aef5-c530f2f46e8b" port="22" customName="q7b1b" nameFormat="CUSTOM" username="q7b1b" />
-      <sshConfig authType="PASSWORD" host="remote.ugrad.cs.ubc.ca" id="5bbe20be-26bf-4289-8c25-5c137f931b87" port="22" customName="q7b1b" nameFormat="CUSTOM" username="q7b1b" />
+      <sshConfig authType="PASSWORD" host="remote.ugrad.cs.ubc.ca" id="604625a7-4b12-4729-996d-94dab76b61a8" port="22" customName="q7b1b" nameFormat="CUSTOM" username="q7b1b" />
     </configs>
   </component>
 </application>
