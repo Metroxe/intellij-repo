@@ -53,6 +53,9 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="6" />
       </file>
+      <file name="/" timestamp="1586463137439">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/GlobalForm.ts" timestamp="1559099922967">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="70" column="0" />
@@ -79,12 +82,12 @@
         <mark key="^" line="61" column="54" />
         <mark key="." line="61" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1586462238044">
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1586463505931">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="42" column="6" />
-        <mark key="." line="42" column="5" />
-        <mark key="^" line="42" column="6" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="6" />
+        <mark key="." line="35" column="5" />
+        <mark key="^" line="35" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/nite-nite/index.html" timestamp="1558854603146">
         <mark key="i" line="26" column="34" />
@@ -243,7 +246,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
