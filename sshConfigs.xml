@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="remote.ugrad.cs.ubc.ca" id="ab991c57-3f49-4d91-aef5-c530f2f46e8b" port="22" customName="q7b1b" nameFormat="CUSTOM" username="q7b1b" />
+    </configs>
+  </component>
+</application>
