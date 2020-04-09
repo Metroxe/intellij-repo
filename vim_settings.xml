@@ -79,11 +79,12 @@
         <mark key="^" line="61" column="54" />
         <mark key="." line="61" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1586401218039">
-        <mark key="[" line="87" column="22" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1586462238044">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="6" />
+        <mark key="." line="42" column="5" />
+        <mark key="^" line="42" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/nite-nite/index.html" timestamp="1558854603146">
         <mark key="i" line="26" column="34" />
@@ -188,45 +189,47 @@
       <jump line="90" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/GlobalForm.ts" />
       <jump line="68" column="29" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/NodeBackendAdapter.tsx" />
+      <jump line="40" column="4" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSJzaWduZWRVUkwiOiBzdHJpbmcKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>A</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJzaWduZWRVUkwiOiBzdHJpbmcKfQo=</text>
+        <text encoding="base64">CQkidGVybSI6IDAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkidGVybUxhYmVsIjosCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkiY291bnRyeSI6IHN0cmluZywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNyZWF0ZUNsaWVudEFjY291bnQ6IG1ha2VBUElWMjxJQ2xpZW50QWNjb3VudCwgc3RyaW5nW10+KGNsaWVudFYyICsgImNyZWF0ZUNsaWVudEFjY291bnQiKSwK</text>
+        <text encoding="base64">CQkiYWRkcmVzc0xpbmUxIjogc3RyaW5nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWhhcnZlc3RSZWNvcmRQb3N0OiAoYm9keTogSUhhcnZlc3RSZWNvcmRSZXF1ZXN0KSA9PiBQcm9taXNlPEF4aW9zUmVzcG9uc2U8SUdlbmVyaWNSZXNwb25zZT4+Owo=</text>
+        <text encoding="base64">CQkiYWRkcmVzc0xpbmUyIjogc3RyaW5nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBnZW5lcmljRm9ybURlbGV0ZTsK</text>
+        <text encoding="base64">CQkiY2l0eSI6IHN0cmluZywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkic3RhdGVSZWdpb24iOiBzdHJpbmcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBkZWxldGVIYW5kbGVyKHJlcTogYW55LCByZXM6IGFueSk6IHZvaWQgewo=</text>
+        <text encoding="base64">CQkiemlwUG9zdGFsIjogc3RyaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CglwdWJsaWMgc3RhdGljIHZhbGlkYXRlVXNlcih0b2tlbjogc3RyaW5nKTogYm9vbGVhbiB7Cg==</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
