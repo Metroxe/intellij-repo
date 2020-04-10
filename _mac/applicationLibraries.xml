@@ -36,6 +36,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="d3-voronoi-treemap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawcdn.githack.com_Kcnarf_d3-voronoi-treemap_v1.1.0_build_d3-voronoi-treemap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawcdn.githack.com_Kcnarf_d3-voronoi-treemap_v1.1.0_build_d3-voronoi-treemap.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="d3.v5" type="javaScript">
       <properties>
         <sourceFilesUrls>
