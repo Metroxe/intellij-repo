@@ -36,6 +36,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="d3-voronoi-map" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawcdn.githack.com_Kcnarf_d3-voronoi-map_v1.2.0_build_d3-voronoi-map.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawcdn.githack.com_Kcnarf_d3-voronoi-map_v1.2.0_build_d3-voronoi-map.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="d3-voronoi-treemap" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -44,6 +56,18 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawcdn.githack.com_Kcnarf_d3-voronoi-treemap_v1.1.0_build_d3-voronoi-treemap.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="d3-weighted-voronoi" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawcdn.githack.com_Kcnarf_d3-weighted-voronoi_v1.0.1_build_d3-weighted-voronoi.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawcdn.githack.com_Kcnarf_d3-weighted-voronoi_v1.0.1_build_d3-weighted-voronoi.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -124,6 +148,18 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_socket.io_2.0.3_socket.io.slim.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="topojson.v3" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_d3js.org_topojson.v3.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_d3js.org_topojson.v3.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
