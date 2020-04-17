@@ -38,6 +38,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/ios/IAPPromotionObserver.m" timestamp="1587164004535" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/App.tsx" timestamp="1587158422073">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -50,6 +51,7 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/ios/RNIapIos.m" timestamp="1587164286522" />
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/utils/deleteDynamicCSVHandler.ts" timestamp="1559100155840">
         <mark key="'" line="27" column="40" />
         <mark key="[" line="5" column="1" />
@@ -67,27 +69,11 @@
         <mark key="^" line="14" column="98" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/secureTEst/index.js" timestamp="1558850314207">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/secureTEst/package.json" timestamp="1558850459795">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" timestamp="1587163081222">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
-        <mark key="^" line="21" column="87" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" timestamp="1558851688416">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="61" column="50" />
-        <mark key="]" line="61" column="54" />
-        <mark key="^" line="61" column="54" />
-        <mark key="." line="61" column="54" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/index.js" timestamp="1587164060043" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" timestamp="1587165037759">
+        <mark key="[" line="52" column="76" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/ios/Podfile" timestamp="1587094786538">
         <mark key="[" line="86" column="0" />
@@ -101,7 +87,7 @@
         <mark key="." line="35" column="5" />
         <mark key="^" line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/index.d.ts" timestamp="1587163057770">
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/index.d.ts" timestamp="1587164933203">
         <mark key="[" line="131" column="56" />
         <mark key="]" line="131" column="56" />
         <mark key="." line="131" column="56" />
@@ -216,11 +202,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQdXJjaGFzZUhpc3RvcnlcPg==</text>
@@ -229,68 +215,31 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVjbGFyZSBjb25zdCA6IHsgSGVybWVzSW50ZXJuYWw6IG51bGwgfCB7fSB9Owo=</text>
+        <text encoding="base64">CQlhd2FpdCBjbGVhclRyYW5zYWN0aW9uSU9TKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>&quot;com.grapplearts.bjjgrapplearts.sevendays&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCB7CglIZWFkZXIsCglMZWFybk1vcmVMaW5rcywKCUNvbG9ycywKCURlYnVnSW5zdHJ1Y3Rpb25zLAoJUmVsb2FkSW5zdHJ1Y3Rpb25zLAp9IGZyb20gJ3JlYWN0LW5hdGl2ZS9MaWJyYXJpZXMvTmV3QXBwU2NyZWVuJzs=</text>
+        <text encoding="base64">CQlzZXRQcm9kdWN0cyhwcm9kdWN0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVNhZmVBcmVhVmlldywKCVN0eWxlU2hlZXQsCglTY3JvbGxWaWV3LAoJVmlldywKCVRleHQsCglTdGF0dXNCYXIsCn0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygiZ29pbmciKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVjbGFyZSBjb25zdCA6IHsgSGVybWVzSW50ZXJuYWw6IG51bGwgfCB7fSB9Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>const styles = StyleSheet.create({
-	scrollView: {
-		backgroundColor: Colors.lighter,
-	},
-	engine: {
-		position: 'absolute',
-		right: 0,
-	},
-	body: {
-		backgroundColor: Colors.white,
-	},
-	sectionContainer: {
-		marginTop: 32,
-		paddingHorizontal: 24,
-	},
-	sectionTitle: {
-		fontSize: 24,
-		fontWeight: '600',
-		color: Colors.black,
-	},
-	sectionDescription: {
-		marginTop: 8,
-		fontSize: 18,
-		fontWeight: '400',
-		color: Colors.dark,
-	},
-	highlight: {
-		fontWeight: '700',
-	},
-	footer: {
-		color: Colors.dark,
-		fontSize: 12,
-		fontWeight: '600',
-		padding: 4,
-		paddingRight: 12,
-		textAlign: 'right',
-	},
-});</text>
+        <text encoding="base64">CmltcG9ydCB7CglIZWFkZXIsCglMZWFybk1vcmVMaW5rcywKCUNvbG9ycywKCURlYnVnSW5zdHJ1Y3Rpb25zLAoJUmVsb2FkSW5zdHJ1Y3Rpb25zLAp9IGZyb20gJ3JlYWN0LW5hdGl2ZS9MaWJyYXJpZXMvTmV3QXBwU2NyZWVuJzs=</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
