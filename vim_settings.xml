@@ -38,11 +38,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/App.tsx" timestamp="1587095269097">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="32" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/App.tsx" timestamp="1587158422073">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/v2Apis.ts" timestamp="1586400665243">
         <mark key="[" line="2" column="40" />
@@ -76,11 +76,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" timestamp="1587097060483">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="41" />
-        <mark key="^" line="11" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" timestamp="1587160448482">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="45" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="20" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/User.ts" timestamp="1558851688416">
         <mark key="'" line="55" column="4" />
@@ -101,7 +101,7 @@
         <mark key="." line="35" column="5" />
         <mark key="^" line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/index.d.ts" timestamp="1587095680948">
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/index.d.ts" timestamp="1587159904140">
         <mark key="[" line="131" column="56" />
         <mark key="]" line="131" column="56" />
         <mark key="." line="131" column="56" />
@@ -137,7 +137,6 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="37" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/@types/react-native/index.d.ts" timestamp="1587096093023" />
     </filemarks>
     <jumps>
       <jump line="66" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
@@ -217,11 +216,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>catch</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQdXJjaGFzZUhpc3RvcnlcPg==</text>
@@ -230,31 +229,68 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9ICAoZXJyKSB7Cg==</text>
+        <text encoding="base64">ZGVjbGFyZSBjb25zdCA6IHsgSGVybWVzSW50ZXJuYWw6IG51bGwgfCB7fSB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coImVycm9yIiwgZXJyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CmltcG9ydCB7CglIZWFkZXIsCglMZWFybk1vcmVMaW5rcywKCUNvbG9ycywKCURlYnVnSW5zdHJ1Y3Rpb25zLAoJUmVsb2FkSW5zdHJ1Y3Rpb25zLAp9IGZyb20gJ3JlYWN0LW5hdGl2ZS9MaWJyYXJpZXMvTmV3QXBwU2NyZWVuJzs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coImhpc3RvcnkiKTsK</text>
+        <text encoding="base64">CVNhZmVBcmVhVmlldywKCVN0eWxlU2hlZXQsCglTY3JvbGxWaWV3LAoJVmlldywKCVRleHQsCglTdGF0dXNCYXIsCn0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">aW1wb3J0IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhwdXJjaGFzZUhpc3RvcnkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCBwdXJjaGFzZUhpc3RvcnkgPSBhd2FpdCBnZXRQdXJjaGFzZUhpc3RvcnkoKTsKCQljb25zb2xlLmxvZyhwdXJjaGFzZUhpc3RvcnkpOwoJCXNldFB1cmNoYXNlSGlzdG9yeShwdXJjaGFzZUhpc3RvcnkpOwoJfQoKCWZ1bmN0aW9uIHJlbmRlckl0ZW0oaXRlbTogTGlzdFJlbmRlckl0ZW08U3Vic2NyaXB0aW9uUHVyY2hhc2U+LCBpOiBudW1iZXIpIHsK</text>
+        <text>const styles = StyleSheet.create({
+	scrollView: {
+		backgroundColor: Colors.lighter,
+	},
+	engine: {
+		position: 'absolute',
+		right: 0,
+	},
+	body: {
+		backgroundColor: Colors.white,
+	},
+	sectionContainer: {
+		marginTop: 32,
+		paddingHorizontal: 24,
+	},
+	sectionTitle: {
+		fontSize: 24,
+		fontWeight: '600',
+		color: Colors.black,
+	},
+	sectionDescription: {
+		marginTop: 8,
+		fontSize: 18,
+		fontWeight: '400',
+		color: Colors.dark,
+	},
+	highlight: {
+		fontWeight: '700',
+	},
+	footer: {
+		color: Colors.dark,
+		fontSize: 12,
+		fontWeight: '600',
+		padding: 4,
+		paddingRight: 12,
+		textAlign: 'right',
+	},
+});</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
