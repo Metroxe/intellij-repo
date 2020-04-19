@@ -15,6 +15,7 @@
       <mapping pattern="Dockerfile_downloader" type="Dockerfile" />
       <mapping pattern=".nycrc" type="JSON" />
       <mapping ext="mp4" type="Native" />
+      <mapping ext="indd" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping pattern="SDK" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
