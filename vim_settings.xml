@@ -38,7 +38,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/ios/IAPPromotionObserver.m" timestamp="1587164004535" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/App.tsx" timestamp="1587158422073">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -51,7 +50,6 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/ios/RNIapIos.m" timestamp="1587164286522" />
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/utils/deleteDynamicCSVHandler.ts" timestamp="1559100155840">
         <mark key="'" line="27" column="40" />
         <mark key="[" line="5" column="1" />
@@ -69,7 +67,6 @@
         <mark key="^" line="14" column="98" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/index.js" timestamp="1587164060043" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" timestamp="1587165037759">
         <mark key="[" line="52" column="76" />
         <mark key="]" line="55" column="0" />
@@ -108,6 +105,12 @@
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/components/Footer.tsx" timestamp="1587282142512">
+        <mark key="[" line="35" column="79" />
+        <mark key="]" line="35" column="94" />
+        <mark key="^" line="35" column="94" />
+        <mark key="." line="35" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" timestamp="1559101286517">
         <mark key="'" line="0" column="0" />
@@ -202,11 +205,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>d-block-lg d-flex-md justify-content-start-lg align-items-start-lg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d-block-lg d-flex-md justify-content-start-lg align-items-start-lg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQdXJjaGFzZUhpc3RvcnlcPg==</text>
@@ -215,31 +218,31 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJPGRpdiBjbGFzc05hbWU9IiI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhd2FpdCBjbGVhclRyYW5zYWN0aW9uSU9TKCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJPGJyLz4K</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;com.grapplearts.bjjgrapplearts.sevendays&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkgICAgIGNsYXNzTmFtZT0iIG1iLTQgbWItbGctMCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzZXRQcm9kdWN0cyhwcm9kdWN0cyk7Cg==</text>
+        <text encoding="base64">CQkJCQkJPGJyLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygiZ29pbmciKTsK</text>
+        <text encoding="base64">CQkJCQkJPC9kaXY+CgkJCQkJPC9Db2w+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCTxpbWcKCQkJCQkJCQkKCQkJCQkJCS8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVjbGFyZSBjb25zdCA6IHsgSGVybWVzSW50ZXJuYWw6IG51bGwgfCB7fSB9Owo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhd2FpdCBjbGVhclRyYW5zYWN0aW9uSU9TKCk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CmltcG9ydCB7CglIZWFkZXIsCglMZWFybk1vcmVMaW5rcywKCUNvbG9ycywKCURlYnVnSW5zdHJ1Y3Rpb25zLAoJUmVsb2FkSW5zdHJ1Y3Rpb25zLAp9IGZyb20gJ3JlYWN0LW5hdGl2ZS9MaWJyYXJpZXMvTmV3QXBwU2NyZWVuJzs=</text>
+      <register name="9" type="4">
+        <text>&quot;com.grapplearts.bjjgrapplearts.sevendays&quot;</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
@@ -256,7 +259,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
