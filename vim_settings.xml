@@ -27,6 +27,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/src/index.tsx" timestamp="1587419807851">
+        <mark key="[" line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/server.js" timestamp="1587418869878">
         <mark key="[" line="4" column="54" />
         <mark key="]" line="4" column="55" />
@@ -39,6 +42,12 @@
         <mark key="." line="13" column="41" />
         <mark key="^" line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/App.tsx" timestamp="1587158422073">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/v2Apis.ts" timestamp="1586400665243">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="53" />
@@ -47,33 +56,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/package.json" timestamp="1587421166167">
         <mark key="[" line="32" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/node_modules/@types/react-router-dom/index.d.ts" timestamp="1587419749008" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/ios/Podfile" timestamp="1587094786538">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1586463505931">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="35" column="6" />
-        <mark key="." line="35" column="5" />
-        <mark key="^" line="35" column="6" />
-      </file>
-      <file name="$USER_HOME$/Downloads/tinyDotStarter/src/ui/Main.java" timestamp="1568313976373">
-        <mark key="[" line="11" column="66" />
-        <mark key="]" line="11" column="66" />
-        <mark key="." line="11" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/src/index.tsx" timestamp="1587419807851">
-        <mark key="[" line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/App.tsx" timestamp="1587158422073">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="21" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1587420449917">
         <mark key="[" line="6" column="37" />
@@ -89,21 +71,34 @@
         <mark key="]" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" timestamp="1587165037759">
-        <mark key="[" line="52" column="76" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" timestamp="1587503420596">
+        <mark key="[" line="21" column="47" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="59" column="80" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/node_modules/react-native-iap/index.d.ts" timestamp="1587164933203">
-        <mark key="[" line="131" column="56" />
-        <mark key="]" line="131" column="56" />
-        <mark key="." line="131" column="56" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/ios/Podfile" timestamp="1587094786538">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1586463505931">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="6" />
+        <mark key="." line="35" column="5" />
+        <mark key="^" line="35" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/Dockerfile" timestamp="1587421092748">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Downloads/tinyDotStarter/src/ui/Main.java" timestamp="1568313976373">
+        <mark key="[" line="11" column="66" />
+        <mark key="]" line="11" column="66" />
+        <mark key="." line="11" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/components/Footer.tsx" timestamp="1587282142512">
         <mark key="[" line="35" column="79" />
@@ -120,6 +115,9 @@
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/.gitignore" timestamp="1587419235723">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/package.json" timestamp="1587500125556">
+        <mark key="[" line="14" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -197,15 +195,22 @@
       <jump line="7" column="38" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
       <jump line="8" column="103" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
       <jump line="0" column="1" filename="$USER_HOME$/Documents/Projects/realestate-securities/.gitignore" />
+      <jump line="33" column="37" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
+      <jump line="32" column="53" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>admin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlhd2FpdCBidXlQcm9tb3RlZFByb2R1Y3RJT1MoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZGVhXD4=</text>
@@ -214,86 +219,31 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmltYWdlczoKICAtIGdjci5pby9ncmFwcGxlYXJ0Y29udGFpbmVyL2ltYWdlcy8kVEFHX05BTUUvYWRtaW4K</text>
+        <text encoding="base64">CQlhd2FpdCBidXlQcm9tb3RlZFByb2R1Y3RJT1MoKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text />
       </register>
-      <register name="3" type="2">
-        <text>steps:
-  # build the container image
-  - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/whyzapp-99/images/$TAG_NAME/frontend:$_STAGE',
-           '--build-arg', 'NODE_ENV',
-           '--build-arg', 'PUBLIC_URL',
-           '--build-arg', 'REACT_APP_API_URL',
-           '--build-arg', 'REACT_APP_STRIPE_PUBLIC_KEY',
-           '--build-arg', 'REACT_APP_STRIPE_SUBSCRIPTION_PLAN_ID',
-           '--build-arg', 'REACT_APP_CONTENTFUL_SPACE',
-           '--build-arg', 'REACT_APP_CONTENTFUL_DELIVERY_API',
-           '--build-arg', 'REACT_APP_CONTENTFUL_ENVIRONMENT',
-           '--build-arg', 'REACT_APP_VERSION=$TAG_NAME',
-           '--build-arg', 'REACT_APP_HIDE_VERSION',
-           '--file', './frontend/Dockerfile', '.']
-    env:
-      - 'NODE_ENV=$_NODE_ENV'
-      - 'PUBLIC_URL=$_PUBLIC_URL'
-      - 'REACT_APP_API_URL=$_REACT_APP_API_URL'
-      - 'REACT_APP_STRIPE_PUBLIC_KEY=$_REACT_APP_STRIPE_PUBLIC_KEY'
-      - 'REACT_APP_STRIPE_SUBSCRIPTION_PLAN_ID=$_REACT_APP_STRIPE_SUBSCRIPTION_PLAN_ID'
-      - 'REACT_APP_CONTENTFUL_SPACE=$_REACT_APP_CONTENTFUL_SPACE'
-      - 'REACT_APP_CONTENTFUL_DELIVERY_API=$_REACT_APP_CONTENTFUL_DELIVERY_API'
-      - 'REACT_APP_CONTENTFUL_ENVIRONMENT=$_REACT_APP_CONTENTFUL_ENVIRONMENT'
-      - 'REACT_APP_HIDE_VERSION=$_REACT_APP_HIDE_VERSION'
-
-  - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/whyzapp-99/images/$TAG_NAME/admin-portal:$_STAGE',
-           '--build-arg', 'NODE_ENV',
-           '--build-arg', 'PUBLIC_URL',
-           '--build-arg', 'REACT_APP_API_URL',
-           '--build-arg', 'REACT_APP_FRONTEND_URL',
-           '--file', './admin-portal/Dockerfile', '.']
-    env:
-      - 'NODE_ENV=$_NODE_ENV'
-      - 'PUBLIC_URL=$_ADMIN_PUBLIC_URL'
-      - 'REACT_APP_API_URL=$_REACT_APP_API_URL'
-      - 'REACT_APP_FRONTEND_URL=$_PUBLIC_URL'
-
-  - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/whyzapp-99/images/$TAG_NAME/backend:$_STAGE', '--file', './backend/Dockerfile', '.']
-
-  # save images
-  - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/whyzapp-99/images/$TAG_NAME/frontend:$_STAGE']
-  - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/whyzapp-99/images/$TAG_NAME/admin-portal:$_STAGE']
-  - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/whyzapp-99/images/$TAG_NAME/backend:$_STAGE']
-
-  # Deploy container image to Cloud Run
-  - name: 'gcr.io/cloud-builders/gcloud'
-    args: ['beta', 'run', 'deploy', 'frontend-$_STAGE','--image', 'gcr.io/whyzapp-99/images/$TAG_NAME/frontend:$_STAGE','--region', 'us-central1','--platform', 'managed','--allow-unauthenticated','--max-instances', '100']
-  - name: 'gcr.io/cloud-builders/gcloud'
-    args: ['beta', 'run', 'deploy', 'admin-portal-$_STAGE','--image', 'gcr.io/whyzapp-99/images/$TAG_NAME/admin-portal:$_STAGE','--region', 'us-central1','--platform', 'managed','--allow-unauthenticated','--max-instances', '25']
-  - name: 'gcr.io/cloud-builders/gcloud'</text>
+      <register name="3" type="4">
+        <text>&quot;com.grapplearts.bjjgrapplearts.no_gi_leglocks1&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFyZ3M6IFsnYmV0YScsICdydW4nLCAnZGVwbG95JywgJ2JhY2tlbmQtJF9TVEFHRScsICctLWltYWdlJywgJ2djci5pby93aHl6YXBwLTk5L2ltYWdlcy8kVEFHX05BTUUvYmFja2VuZDokX1NUQUdFJywnLS1yZWdpb24nLCAndXMtY2VudHJhbDEnLCctLXBsYXRmb3JtJywgJ21hbmFnZWQnLCctLWFsbG93LXVuYXV0aGVudGljYXRlZCcsJy0tbWF4LWluc3RhbmNlcycsICcxMDAnXQo=</text>
+      <register name="4" type="4">
+        <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIGdjci5pby9yZWFsLWVzdGF0ZS1zZWN1cml0aWVzL2ltYWdlcy8kVEFHX05BTUUvYWRtaW4tcG9ydGFsCg==</text>
+        <text encoding="base64">CQlzZXRBdmFpbGFibGVQdXJjaGFzZXMoYXZhaWxhYmxlUHVyY2hhc2VzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIGdjci5pby9yZWFsLWVzdGF0ZS1zZWN1cml0aWVzL2ltYWdlcy8kVEFHX05BTUUvYmFja2VuZDokX1NUQUdFCg==</text>
+        <text encoding="base64">CQkJCXsvKjxUZXh0PmF2YWlsYWJsZSBwcm9kdWN0czoge0pTT04uc3RyaW5naWZ5KHByb2R1Y3RzKX08L1RleHQ+Ki99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG5wbSBydW4gYnVpbGQK</text>
+        <text encoding="base64">CQkJCXsvKjxUZXh0PnB1cmNoYXNlIGhpc3Rvcnk6IHtKU09OLnN0cmluZ2lmeShwdXJjaGFzZUhpc3RvcnkpfTwvVGV4dD4qL30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2FkYXB0ZXIvc3JjOi91c3Ivc3JjL2FkYXB0ZXIvc3JjCg==</text>
+        <text encoding="base64">CWNvbnN0IFtwcm9kdWN0cywgc2V0UHJvZHVjdHNdID0gdXNlU3RhdGU8QXJyYXk8YW55Pj4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IG5wbSBydW4gZGV2Cg==</text>
+        <text encoding="base64">CWNvbnN0IFtzdWNjZXNzLCBzZXRTdWNjZXNzXSA9IHVzZVN0YXRlPGJvb2xlYW4+KGZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
