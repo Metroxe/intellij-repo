@@ -27,26 +27,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/src/index.tsx" timestamp="1587419807851">
-        <mark key="[" line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/server.js" timestamp="1587418869878">
-        <mark key="[" line="4" column="54" />
-        <mark key="]" line="4" column="55" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="4" column="54" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/cloudbuild.yaml" timestamp="1587421079004">
         <mark key="[" line="13" column="37" />
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="41" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/App.tsx" timestamp="1587158422073">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="21" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/routes/index.ts" timestamp="1587676220022">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/components/HomePageHero.tsx" timestamp="1587600523398">
         <mark key="[" line="19" column="0" />
@@ -56,6 +47,23 @@
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/package.json" timestamp="1587421166167">
         <mark key="[" line="32" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/routes/health.ts" timestamp="1587676075763" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.dockerignore" timestamp="1587677303651">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/routes/debug.ts" timestamp="1587677171653">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/node_modules/@types/node/http.d.ts" timestamp="1587676641920" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/utils/serveFrontend.ts" timestamp="1587677013379">
+        <mark key="[" line="10" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/utils/generateInvoiceLike.ts" timestamp="1587676198275" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/android/build.gradle" timestamp="1587519808598">
         <mark key="[" line="7" column="28" />
       </file>
@@ -68,10 +76,10 @@
       <file name="/" timestamp="1587518768248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/Dockerfile-local" timestamp="1587418788053">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/README.md" timestamp="1587677292935">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/pages/People.tsx" timestamp="1587670879271">
         <mark key="[" line="24" column="91" />
@@ -88,32 +96,16 @@
       <file name="$USER_HOME$/Documents/Projects/frame-one-software/.dockerignore" timestamp="1587670466765">
         <mark key="[" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/ios/Podfile" timestamp="1587094786538">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/Dockerfile" timestamp="1587421092748">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/components/Footer.tsx" timestamp="1587282142512">
-        <mark key="[" line="35" column="79" />
-        <mark key="]" line="35" column="94" />
-        <mark key="^" line="35" column="94" />
-        <mark key="." line="35" column="93" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/cloudbuild.yml" timestamp="1587420359897">
-        <mark key="[" line="13" column="103" />
-        <mark key="]" line="13" column="108" />
-        <mark key="^" line="13" column="108" />
-        <mark key="." line="13" column="107" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.gitignore" timestamp="1587419235723">
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="0" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/docker-compose.yml" timestamp="1587677030932">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/package.json" timestamp="1587520617550">
         <mark key="[" line="15" column="31" />
@@ -205,11 +197,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KiovUkVBRE1FLm1kCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZGVhXD4=</text>
@@ -218,31 +210,31 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkb2N1bWVudC5yZW1vdmVDaGlsZChhKTsK</text>
+        <text encoding="base64">KiovUkVBRE1FLm1kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJR2V0IGEgZnJlZSBjb25zdWx0YXRpb24K</text>
+        <text encoding="base64">VGhpcyBwcm9qZWN0IHdhcyBib290c3RyYXBwZWQgd2l0aCBbQ3JlYXRlIFJlYWN0IEFwcF0oaHR0cHM6Ly9naXRodWIuY29tL2ZhY2Vib29rL2NyZWF0ZS1yZWFjdC1hcHApLgoKIyMgQXZhaWxhYmxlIFNjcmlwdHMKCkluIHRoZSBwcm9qZWN0IGRpcmVjdG9yeSwgeW91IGNhbiBydW46CgojIyMgYHlhcm4gc3RhcnRgCgpSdW5zIHRoZSBhcHAgaW4gdGhlIGRldmVsb3BtZW50IG1vZGUuPGJyIC8+Ck9wZW4gW2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMF0oaHR0cDovL2xvY2FsaG9zdDozMDAwKSB0byB2aWV3IGl0IGluIHRoZSBicm93c2VyLgoKVGhlIHBhZ2Ugd2lsbCByZWxvYWQgaWYgeW91IG1ha2UgZWRpdHMuPGJyIC8+CllvdSB3aWxsIGFsc28gc2VlIGFueSBsaW50IGVycm9ycyBpbiB0aGUgY29uc29sZS4KCiMjIyBgeWFybiB0ZXN0YAoKTGF1bmNoZXMgdGhlIHRlc3QgcnVubmVyIGluIHRoZSBpbnRlcmFjdGl2ZSB3YXRjaCBtb2RlLjxiciAvPgpTZWUgdGhlIHNlY3Rpb24gYWJvdXQgW3J1bm5pbmcgdGVzdHNdKGh0dHBzOi8vZmFjZWJvb2suZ2l0aHViLmlvL2NyZWF0ZS1yZWFjdC1hcHAvZG9jcy9ydW5uaW5nLXRlc3RzKSBmb3IgbW9yZSBpbmZvcm1hdGlvbi4KCiMjIyBgeWFybiBidWlsZGAKCkJ1aWxkcyB0aGUgYXBwIGZvciBwcm9kdWN0aW9uIHRvIHRoZSBgYnVpbGRgIGZvbGRlci48YnIgLz4KSXQgY29ycmVjdGx5IGJ1bmRsZXMgUmVhY3QgaW4gcHJvZHVjdGlvbiBtb2RlIGFuZCBvcHRpbWl6ZXMgdGhlIGJ1aWxkIGZvciB0aGUgYmVzdCBwZXJmb3JtYW5jZS4KClRoZSBidWlsZCBpcyBtaW5pZmllZCBhbmQgdGhlIGZpbGVuYW1lcyBpbmNsdWRlIHRoZSBoYXNoZXMuPGJyIC8+CllvdXIgYXBwIGlzIHJlYWR5IHRvIGJlIGRlcGxveWVkIQoKU2VlIHRoZSBzZWN0aW9uIGFib3V0IFtkZXBsb3ltZW50XShodHRwczovL2ZhY2Vib29rLmdpdGh1Yi5pby9jcmVhdGUtcmVhY3QtYXBwL2RvY3MvZGVwbG95bWVudCkgZm9yIG1vcmUgaW5mb3JtYXRpb24uCgojIyMgYHlhcm4gZWplY3RgCgoqKk5vdGU6IHRoaXMgaXMgYSBvbmUtd2F5IG9wZXJhdGlvbi4gT25jZSB5b3UgYGVqZWN0YCwgeW91IGNhbuKAmXQgZ28gYmFjayEqKgoKSWYgeW91IGFyZW7igJl0IHNhdGlzZmllZCB3aXRoIHRoZSBidWlsZCB0b29sIGFuZCBjb25maWd1cmF0aW9uIGNob2ljZXMsIHlvdSBjYW4gYGVqZWN0YCBhdCBhbnkgdGltZS4gVGhpcyBjb21tYW5kIHdpbGwgcmVtb3ZlIHRoZSBzaW5nbGUgYnVpbGQgZGVwZW5kZW5jeSBmcm9tIHlvdXIgcHJvamVjdC4KCkluc3RlYWQsIGl0IHdpbGwgY29weSBhbGwgdGhlIGNvbmZpZ3VyYXRpb24gZmlsZXMgYW5kIHRoZSB0cmFuc2l0aXZlIGRlcGVuZGVuY2llcyAod2VicGFjaywgQmFiZWwsIEVTTGludCwgZXRjKSByaWdodCBpbnRvIHlvdXIgcHJvamVjdCBzbyB5b3UgaGF2ZSBmdWxsIGNvbnRyb2wgb3ZlciB0aGVtLiBBbGwgb2YgdGhlIGNvbW1hbmRzIGV4Y2VwdCBgZWplY3RgIHdpbGwgc3RpbGwgd29yaywgYnV0IHRoZXkgd2lsbCBwb2ludCB0byB0aGUgY29waWVkIHNjcmlwdHMgc28geW91IGNhbiB0d2VhayB0aGVtLiBBdCB0aGlzIHBvaW50IHlvdeKAmXJlIG9uIHlvdXIgb3duLgoKWW91IGRvbuKAmXQgaGF2ZSB0byBldmVyIHVzZSBgZWplY3RgLiBUaGUgY3VyYXRlZCBmZWF0dXJlIHNldCBpcyBzdWl0YWJsZSBmb3Igc21hbGwgYW5kIG1pZGRsZSBkZXBsb3ltZW50cywgYW5kIHlvdSBzaG91bGRu4oCZdCBmZWVsIG9ibGlnYXRlZCB0byB1c2UgdGhpcyBmZWF0dXJlLiBIb3dldmVyIHdlIHVuZGVyc3RhbmQgdGhhdCB0aGlzIHRvb2wgd291bGRu4oCZdCBiZSB1c2VmdWwgaWYgeW91IGNvdWxkbuKAmXQgY3VzdG9taXplIGl0IHdoZW4geW91IGFyZSByZWFkeSBmb3IgaXQuCgojIyBMZWFybiBNb3JlCgpZb3UgY2FuIGxlYXJuIG1vcmUgaW4gdGhlIFtDcmVhdGUgUmVhY3QgQXBwIGRvY3VtZW50YXRpb25dKGh0dHBzOi8vZmFjZWJvb2suZ2l0aHViLmlvL2NyZWF0ZS1yZWFjdC1hcHAvZG9jcy9nZXR0aW5nLXN0YXJ0ZWQpLgoKVG8gbGVhcm4gUmVhY3QsIGNoZWNrIG91dCB0aGUgW1JlYWN0IGRvY3VtZW50YXRpb25dKGh0dHBzOi8vcmVhY3Rqcy5vcmcvKS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhd2FpdCBidXlQcm9tb3RlZFByb2R1Y3RJT1MoKTsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCJleSIsIG9yZXEucGF0aCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text />
+      <register name="4" type="2">
+        <text encoding="base64">IyAgICAgIC0gMzAwMDozMDAwCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;com.grapplearts.bjjgrapplearts.no_gi_leglocks1&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvLyBob3N0IHRvIGZvcndhcmQgdG8K</text>
       </register>
-      <register name="6" type="4">
-        <text />
+      <register name="6" type="2">
+        <text encoding="base64">CQkvLyBwb3J0IHRvIGZvcndhcmQgdG8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlzZXRBdmFpbGFibGVQdXJjaGFzZXMoYXZhaWxhYmxlUHVyY2hhc2VzKTsK</text>
+        <text encoding="base64">CQkvLyBwYXRoIHRvIGZvcndhcmQgdG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXsvKjxUZXh0PmF2YWlsYWJsZSBwcm9kdWN0czoge0pTT04uc3RyaW5naWZ5KHByb2R1Y3RzKX08L1RleHQ+Ki99Cg==</text>
+        <text encoding="base64">CQlwYXRoOiAnL2RlYnVnJywKCQltZXRob2Q6ICdHRVQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXsvKjxUZXh0PnB1cmNoYXNlIGhpc3Rvcnk6IHtKU09OLnN0cmluZ2lmeShwdXJjaGFzZUhpc3RvcnkpfTwvVGV4dD4qL30K</text>
+        <text encoding="base64">CQkvLyByZXF1ZXN0IG1ldGhvZAo=</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
