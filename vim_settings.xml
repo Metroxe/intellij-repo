@@ -48,6 +48,11 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/components/HomePageHero.tsx" timestamp="1587600523398">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/package.json" timestamp="1587421166167">
         <mark key="[" line="32" column="50" />
       </file>
@@ -63,7 +68,6 @@
       <file name="/" timestamp="1587518768248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/app/android/local.properties" timestamp="1587520635331" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/Dockerfile-local" timestamp="1587418788053">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="20" />
@@ -98,7 +102,6 @@
         <mark key="^" line="13" column="108" />
         <mark key="." line="13" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/app/connect_reactron.sh" timestamp="1587519786335" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/.gitignore" timestamp="1587419235723">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="4" />
@@ -194,10 +197,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlhd2FpdCBidXlQcm9tb3RlZFByb2R1Y3RJT1MoKTsK</text>
+        <text encoding="base64">CQlkb2N1bWVudC5yZW1vdmVDaGlsZChhKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZGVhXD4=</text>
@@ -206,31 +209,31 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQlkb2N1bWVudC5yZW1vdmVDaGlsZChhKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCQkJR2V0IGEgZnJlZSBjb25zdWx0YXRpb24K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQlhd2FpdCBidXlQcm9tb3RlZFByb2R1Y3RJT1MoKTsK</text>
-      </register>
-      <register name="2" type="4">
-        <text />
-      </register>
-      <register name="3" type="4">
-        <text>&quot;com.grapplearts.bjjgrapplearts.no_gi_leglocks1&quot;</text>
       </register>
       <register name="4" type="4">
         <text />
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlzZXRBdmFpbGFibGVQdXJjaGFzZXMoYXZhaWxhYmxlUHVyY2hhc2VzKTsK</text>
+      <register name="5" type="4">
+        <text>&quot;com.grapplearts.bjjgrapplearts.no_gi_leglocks1&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCXsvKjxUZXh0PmF2YWlsYWJsZSBwcm9kdWN0czoge0pTT04uc3RyaW5naWZ5KHByb2R1Y3RzKX08L1RleHQ+Ki99Cg==</text>
+      <register name="6" type="4">
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXsvKjxUZXh0PnB1cmNoYXNlIGhpc3Rvcnk6IHtKU09OLnN0cmluZ2lmeShwdXJjaGFzZUhpc3RvcnkpfTwvVGV4dD4qL30K</text>
+        <text encoding="base64">CQlzZXRBdmFpbGFibGVQdXJjaGFzZXMoYXZhaWxhYmxlUHVyY2hhc2VzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnN0IFtwcm9kdWN0cywgc2V0UHJvZHVjdHNdID0gdXNlU3RhdGU8QXJyYXk8YW55Pj4oKQo=</text>
+        <text encoding="base64">CQkJCXsvKjxUZXh0PmF2YWlsYWJsZSBwcm9kdWN0czoge0pTT04uc3RyaW5naWZ5KHByb2R1Y3RzKX08L1RleHQ+Ki99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnN0IFtzdWNjZXNzLCBzZXRTdWNjZXNzXSA9IHVzZVN0YXRlPGJvb2xlYW4+KGZhbHNlKQo=</text>
+        <text encoding="base64">CQkJCXsvKjxUZXh0PnB1cmNoYXNlIGhpc3Rvcnk6IHtKU09OLnN0cmluZ2lmeShwdXJjaGFzZUhpc3RvcnkpfTwvVGV4dD4qL30K</text>
       </register>
       <register name=":" type="4">
         <text>d100j</text>
