@@ -73,11 +73,20 @@
         <mark key="]" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/pages/People.tsx" timestamp="1587670879271">
+        <mark key="[" line="24" column="91" />
+        <mark key="]" line="24" column="91" />
+        <mark key="." line="24" column="91" />
+        <mark key="^" line="82" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" timestamp="1587503420596">
         <mark key="[" line="21" column="47" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="59" column="80" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software/.dockerignore" timestamp="1587670466765">
+        <mark key="[" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/ios/Podfile" timestamp="1587094786538">
         <mark key="[" line="86" column="0" />
@@ -196,11 +205,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlkb2N1bWVudC5yZW1vdmVDaGlsZChhKTsK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZGVhXD4=</text>
