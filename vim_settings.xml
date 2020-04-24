@@ -30,7 +30,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/urls.ts" timestamp="1587761510918" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/tsconfig.json" timestamp="1587759921334" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/tsconfig.json" timestamp="1587762670244" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/swagger.ts" timestamp="1587762766093">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+        <mark key="^" line="1" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.dockerignore" timestamp="1587677303651">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -41,12 +47,6 @@
         <mark key="]" line="10" column="25" />
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/routes/debug.ts" timestamp="1587677171653">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="5" />
-        <mark key="^" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1587761172091" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Debug.tsx" timestamp="1587679558792">
@@ -61,10 +61,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587759769426">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587762719037">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1587760181080">
         <mark key="'" line="22" column="10" />
@@ -98,6 +98,9 @@
         <mark key="]" line="2" column="12" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/example/example-api.ts" timestamp="1587762694263">
+        <mark key="[" line="0" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -194,11 +197,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2JhY2tlbmQvcHVibGljOi91c3Ivc3JjL2JhY2tlbmQvcHVibGljCg==</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>alpha</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
@@ -207,28 +210,28 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2JhY2tlbmQvcHVibGljOi91c3Ivc3JjL2JhY2tlbmQvcHVibGljCg==</text>
+        <text>}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVnaXN0ZXJFeGFtcGxlQXBpKGFwcCkK</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVuYWJsZVN3YWdnZXIoYXBwOiBhbnkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVnaXN0ZXJFeGFtcGxlQXBpIH0gZnJvbSAnLi9hcGkvZXhhbXBsZS1hcGknCg==</text>
+        <text encoding="base64">ICAgICAgLSAuL2JhY2tlbmQvcHVibGljOi91c3Ivc3JjL2JhY2tlbmQvcHVibGljCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGhlIGZvbGxvd2luZyBpcyB0aGUgaW50ZXJmYWNlIGZvciB0aGUgaW5mbyBKU09OIG9iamVjdCB0byBiZSBzZW5kIHRocm91Z2guIE1ha2Ugc3VyZSB0byBVUkwgRW5jb2RlIGJlZm9yZSBzZW5kaW5nCg==</text>
+        <text encoding="base64">cmVnaXN0ZXJFeGFtcGxlQXBpKGFwcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhpcyBpcyBhIFBPU1QgcmVxdWVzdCB3aXRoIGEgSlNPTiBvYmplY3QgZW1iZWRkZWQgYXMgYW4gaW5mbyBwYXJhbWV0ZXIK</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVnaXN0ZXJFeGFtcGxlQXBpIH0gZnJvbSAnLi9hcGkvZXhhbXBsZS1hcGknCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhpcyBpcyBhIEdFVCByZXF1ZXN0IHdpdGggYSBKU09OIG9iamVjdCBlbWJlZGRlZCBhcyBhbiBpbmZvIHBhcmFtZXRlcgo=</text>
+        <text encoding="base64">VGhlIGZvbGxvd2luZyBpcyB0aGUgaW50ZXJmYWNlIGZvciB0aGUgaW5mbyBKU09OIG9iamVjdCB0byBiZSBzZW5kIHRocm91Z2guIE1ha2Ugc3VyZSB0byBVUkwgRW5jb2RlIGJlZm9yZSBzZW5kaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhpcyBpcyBhIFBPU1QgcmVxdWVzdCB3aXRoIGEgSlNPTiBvYmplY3QgZW1iZWRkZWQgYXMgYW4gaW5mbyBwYXJhbWV0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgUE8gLyBJbnZvaWNlIFBERnMK</text>
+        <text encoding="base64">VGhpcyBpcyBhIEdFVCByZXF1ZXN0IHdpdGggYSBKU09OIG9iamVjdCBlbWJlZGRlZCBhcyBhbiBpbmZvIHBhcmFtZXRlcgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
