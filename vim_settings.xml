@@ -31,18 +31,18 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/urls.ts" timestamp="1587761510918" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/tsconfig.json" timestamp="1587762670244" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/swagger.ts" timestamp="1587762766093">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/swagger.ts" timestamp="1587763396255">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="31" column="8" />
         <mark key="." line="31" column="8" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.dockerignore" timestamp="1587677303651">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/example.ts" timestamp="1587764040420">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/Dockerfile" timestamp="1587760092588">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/Dockerfile" timestamp="1587763712555">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="25" />
         <mark key="." line="10" column="24" />
@@ -55,46 +55,46 @@
         <mark key="^" line="194" column="38" />
         <mark key="." line="259" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swagger.yml" timestamp="1587764552601" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/public/README.md" timestamp="1587681991057">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587762719037">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/dist/models/example.js" timestamp="1587764174913" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587764590701">
         <mark key="[" line="2" column="36" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1587760181080">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1587763734434">
         <mark key="'" line="22" column="10" />
-        <mark key="[" line="23" column="0" />
+        <mark key="[" line="17" column="37" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/README.md" timestamp="1587677292935">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/Dockerfile" timestamp="1587760744432" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1587759972771">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1587763908150">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/README.md" timestamp="1587678256759">
-        <mark key="b" line="6" column="52" />
-        <mark key="[" line="6" column="70" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swaggerDef.js" timestamp="1587764563391">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/Dockerfile-local" timestamp="1587763714519">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/Dockerfile" timestamp="1587760059253" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/cloudbuild.yaml" timestamp="1587761600001">
         <mark key="[" line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.gitignore" timestamp="1587758298332">
-        <mark key="[" line="1" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.gitignore" timestamp="1587763763672">
+        <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="12" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="11" />
@@ -198,10 +198,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>example</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
@@ -210,31 +210,31 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text>}</text>
+        <text encoding="base64">ZnVuY3Rpb24gc3dhZ2dlckR1bW15RXhhbW1wbGVQYXJhbWV0ZXIoKSB7IH0gLy8gdHJhbnNwaWxhdGlvbiBuZWVkcyBmdW5jdGlvbiB0byBjb3B5IHN3YWdnZXIgYW5ub3RhdGlvbiB0byBkaXN0IGRpcmVjdG9yeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVuYWJsZVN3YWdnZXIoYXBwOiBhbnkpIHsK</text>
+        <text encoding="base64">ZnVuY3Rpb25vbiBzd2FnZ2VyRHVtbXlFeGFtcGxlKCkgeyB9IC8vIHRyYW5zcGlsYXRpb24gbmVlZHMgZnVuY3Rpb24gdG8gY29weSBzd2FnZ2VyIGFubm90YXRpb24gdG8gZGlzdCBkaXJlY3RvcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2JhY2tlbmQvcHVibGljOi91c3Ivc3JjL2JhY2tlbmQvcHVibGljCg==</text>
+        <text encoding="base64">CX0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVnaXN0ZXJFeGFtcGxlQXBpKGFwcCkK</text>
+        <text encoding="base64">CWRlZmluaXRpb246IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVnaXN0ZXJFeGFtcGxlQXBpIH0gZnJvbSAnLi9hcGkvZXhhbXBsZS1hcGknCg==</text>
+        <text encoding="base64">CS8vIHBhdGggdG8gZmlsZXMgd2l0aCBzd2FnZ2VyIGFubm90YXRpb25zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIGZvbGxvd2luZyBpcyB0aGUgaW50ZXJmYWNlIGZvciB0aGUgaW5mbyBKU09OIG9iamVjdCB0byBiZSBzZW5kIHRocm91Z2guIE1ha2Ugc3VyZSB0byBVUkwgRW5jb2RlIGJlZm9yZSBzZW5kaW5nCg==</text>
+        <text encoding="base64">CS8vIE5vdGU6IHJlbGF0aXZlIHRvIHBhY2thZ2UuanNvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhpcyBpcyBhIFBPU1QgcmVxdWVzdCB3aXRoIGEgSlNPTiBvYmplY3QgZW1iZWRkZWQgYXMgYW4gaW5mbyBwYXJhbWV0ZXIK</text>
+        <text encoding="base64">CS8vIE5vdGU6IHNpbmNlIHdlIHRyYW5zcGlsZSBhbmQgdGhlbiBzdGFydCwgcmVmZGRlcmVuY2UgdGhlIGRpc3QgZGlyZWN0b3J5ICsgdHJhbnNwaWxlZCBqcyBmaWxlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhpcyBpcyBhIEdFVCByZXF1ZXN0IHdpdGggYSBKU09OIG9iamVjdCBlbWJlZGRlZCBhcyBhbiBpbmZvIHBhcmFtZXRlcgo=</text>
+        <text>}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVuYWJsZVN3YWdnZXIoYXBwOiBhbnkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
