@@ -27,21 +27,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/public/README.md" timestamp="1587681991057">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587758663026">
+        <mark key="[" line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/routes/index.ts" timestamp="1587676220022">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="1" column="17" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/utils/serveFrontend.ts" timestamp="1587677013379">
+        <mark key="[" line="10" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/components/HomePageHero.tsx" timestamp="1587600523398">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/package.json" timestamp="1587421166167">
-        <mark key="[" line="32" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/README.md" timestamp="1587677292935">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/routes/health.ts" timestamp="1587676075763" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.dockerignore" timestamp="1587677303651">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -53,45 +66,11 @@
         <mark key="." line="10" column="5" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Debug.tsx" timestamp="1587679558792">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="^" line="194" column="38" />
-        <mark key="." line="259" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/node_modules/@types/node/http.d.ts" timestamp="1587676641920" />
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/public/README.md" timestamp="1587681991057">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/utils/serveFrontend.ts" timestamp="1587677013379">
-        <mark key="[" line="10" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/utils/generateInvoiceLike.ts" timestamp="1587678306300" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/android/build.gradle" timestamp="1587519808598">
-        <mark key="[" line="7" column="28" />
-      </file>
-      <file name="/" timestamp="1587518768248">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/README.md" timestamp="1587677292935">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/pages/People.tsx" timestamp="1587670879271">
         <mark key="[" line="24" column="91" />
         <mark key="]" line="24" column="91" />
         <mark key="." line="24" column="91" />
         <mark key="^" line="82" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" timestamp="1587503420596">
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="59" column="80" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software/.dockerignore" timestamp="1587670466765">
         <mark key="[" line="13" column="7" />
@@ -102,6 +81,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Debug.tsx" timestamp="1587679558792">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="^" line="194" column="38" />
+        <mark key="." line="259" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/docker-compose.yml" timestamp="1587677030932">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -109,6 +94,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/package.json" timestamp="1587520617550">
         <mark key="[" line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.gitignore" timestamp="1587758298332">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="11" />
       </file>
     </filemarks>
     <jumps>
