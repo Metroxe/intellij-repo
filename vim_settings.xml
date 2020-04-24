@@ -11,11 +11,13 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxnZXRQdXJjaGFzZUhpc3RvcnlcPg==</entry>
         <entry encoding="base64">XDxpZGVhXD4=</entry>
+        <entry encoding="base64">XDxhbHBoYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
         <entry>d100j</entry>
         <entry>d$</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -27,38 +29,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/public/README.md" timestamp="1587681991057">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587758663026">
-        <mark key="[" line="1" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/routes/index.ts" timestamp="1587676220022">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/utils/serveFrontend.ts" timestamp="1587677013379">
-        <mark key="[" line="10" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/components/HomePageHero.tsx" timestamp="1587600523398">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/README.md" timestamp="1587677292935">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/urls.ts" timestamp="1587761510918" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/tsconfig.json" timestamp="1587759921334" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.dockerignore" timestamp="1587677303651">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/Dockerfile" timestamp="1587760092588">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/routes/debug.ts" timestamp="1587677171653">
         <mark key="[" line="10" column="6" />
@@ -66,14 +48,40 @@
         <mark key="." line="10" column="5" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/frame-one-software/website/src/pages/People.tsx" timestamp="1587670879271">
-        <mark key="[" line="24" column="91" />
-        <mark key="]" line="24" column="91" />
-        <mark key="." line="24" column="91" />
-        <mark key="^" line="82" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1587761172091" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Debug.tsx" timestamp="1587679558792">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="^" line="194" column="38" />
+        <mark key="." line="259" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/frame-one-software/.dockerignore" timestamp="1587670466765">
-        <mark key="[" line="13" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/public/README.md" timestamp="1587681991057">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587759769426">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1587760181080">
+        <mark key="'" line="22" column="10" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/README.md" timestamp="1587677292935">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/Dockerfile" timestamp="1587760744432" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1587759972771">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/README.md" timestamp="1587678256759">
         <mark key="b" line="6" column="52" />
@@ -81,19 +89,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Debug.tsx" timestamp="1587679558792">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="^" line="194" column="38" />
-        <mark key="." line="259" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/docker-compose.yml" timestamp="1587677030932">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/package.json" timestamp="1587520617550">
-        <mark key="[" line="15" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/Dockerfile" timestamp="1587760059253" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/cloudbuild.yaml" timestamp="1587761600001">
+        <mark key="[" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/.gitignore" timestamp="1587758298332">
         <mark key="[" line="1" column="9" />
@@ -186,59 +184,65 @@
       <jump line="32" column="53" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/src/screens/debug/IAPTesting.tsx" />
       <jump line="46" column="62" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Debug.tsx" />
       <jump line="20" column="26" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Debug.tsx" />
+      <jump line="23" column="32" filename="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" />
+      <jump line="3" column="2" filename="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" />
+      <jump line="6" column="20" filename="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" />
+      <jump line="11" column="29" filename="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" />
+      <jump line="12" column="32" filename="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" />
+      <jump line="22" column="10" filename="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VGhlIGZvbGxvd2luZyBpcyB0aGUgaW50ZXJmYWNlIGZvciB0aGUgaW5mbyBKU09OIG9iamVjdCB0byBiZSBzZW5kIHRocm91Z2guIE1ha2Ugc3VyZSB0byBVUkwgRW5jb2RlIGJlZm9yZSBzZW5kaW5nCg==</text>
+        <text encoding="base64">ICAgICAgLSAuL2JhY2tlbmQvcHVibGljOi91c3Ivc3JjL2JhY2tlbmQvcHVibGljCg==</text>
       </register>
       <register name="-" type="4">
-        <text>odel</text>
+        <text>alpha</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZGVhXD4=</text>
+        <text encoding="base64">XDxhbHBoYVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGhlIGZvbGxvd2luZyBpcyB0aGUgaW50ZXJmYWNlIGZvciB0aGUgaW5mbyBKU09OIG9iamVjdCB0byBiZSBzZW5kIHRocm91Z2guIE1ha2Ugc3VyZSB0byBVUkwgRW5jb2RlIGJlZm9yZSBzZW5kaW5nCg==</text>
+        <text encoding="base64">ICAgICAgLSAuL2JhY2tlbmQvcHVibGljOi91c3Ivc3JjL2JhY2tlbmQvcHVibGljCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhpcyBpcyBhIFBPU1QgcmVxdWVzdCB3aXRoIGEgSlNPTiBvYmplY3QgZW1iZWRkZWQgYXMgYW4gaW5mbyBwYXJhbWV0ZXIK</text>
+        <text encoding="base64">cmVnaXN0ZXJFeGFtcGxlQXBpKGFwcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VGhpcyBpcyBhIEdFVCByZXF1ZXN0IHdpdGggYSBKU09OIG9iamVjdCBlbWJlZGRlZCBhcyBhbiBpbmZvIHBhcmFtZXRlcgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVnaXN0ZXJFeGFtcGxlQXBpIH0gZnJvbSAnLi9hcGkvZXhhbXBsZS1hcGknCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhlIGZvbGxvd2luZyBpcyB0aGUgaW50ZXJmYWNlIGZvciB0aGUgaW5mbyBKU09OIG9iamVjdCB0byBiZSBzZW5kIHRocm91Z2guIE1ha2Ugc3VyZSB0byBVUkwgRW5jb2RlIGJlZm9yZSBzZW5kaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMgUE8gLyBJbnZvaWNlIFBERnMK</text>
+        <text encoding="base64">VGhpcyBpcyBhIFBPU1QgcmVxdWVzdCB3aXRoIGEgSlNPTiBvYmplY3QgZW1iZWRkZWQgYXMgYW4gaW5mbyBwYXJhbWV0ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhpcyBpcyBhIEdFVCByZXF1ZXN0IHdpdGggYSBKU09OIG9iamVjdCBlbWJlZGRlZCBhcyBhbiBpbmZvIHBhcmFtZXRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJPENhcmRUZXh0PgoJCQkJCQkJVGhlIGZvbGxvd2luZyBpcyBhIGRlYnVnIHBhZ2UgZm9yIHRoZSBIVEMgQXNzZXQgR2VuZXJhdGlvbiBTZXJ2ZXIuIFVuYXV0aG9yaXplZCBwZXJzb25uZWwgb24KCQkJCQkJCXRoaXMgd2Vic2l0ZSB3aWxsIGJlIHByb3NlY3V0ZWQuCgkJCQkJCTwvQ2FyZFRleHQ+</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgUE8gLyBJbnZvaWNlIFBERnMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>d100j</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpZGVhXD4=</last-search>
+      <last-search encoding="base64">XDxhbHBoYVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZGVhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhbHBoYVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
