@@ -49,12 +49,6 @@
         <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1587761172091" />
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/public/README.md" timestamp="1587681991057">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="5" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/dist/models/example.js" timestamp="1587764174913" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587765705051">
         <mark key="[" line="16" column="2" />
@@ -82,6 +76,7 @@
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/Dockerfile-local" timestamp="1587763714519">
         <mark key="[" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Invoice.tsx" timestamp="1587768097861" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/Dockerfile" timestamp="1587760059253" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/dist/index.js" timestamp="1587765583663" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/cloudbuild.yaml" timestamp="1587761600001">
