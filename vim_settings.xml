@@ -50,11 +50,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1587761172091" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/dist/models/example.js" timestamp="1587764174913" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587765705051">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587777422386">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swagger.json" timestamp="1587777330231" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1587763734434">
         <mark key="'" line="22" column="10" />
         <mark key="[" line="17" column="37" />
@@ -62,22 +63,21 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/Dockerfile" timestamp="1587760744432" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1587763908150">
-        <mark key="[" line="8" column="41" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1587777273001">
+        <mark key="[" line="8" column="68" />
         <mark key="]" line="8" column="41" />
         <mark key="." line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swaggerDef.js" timestamp="1587765599161">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="10" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swaggerDef.js" timestamp="1587777390702">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/Dockerfile-local" timestamp="1587763714519">
         <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Invoice.tsx" timestamp="1587768097861" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/alpha/Dockerfile" timestamp="1587760059253" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/dist/index.js" timestamp="1587765583663" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/cloudbuild.yaml" timestamp="1587761600001">
         <mark key="[" line="18" column="26" />
@@ -187,10 +187,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgZ2V0</text>
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgZ2V0</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
