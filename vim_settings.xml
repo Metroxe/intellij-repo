@@ -39,21 +39,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/Dockerfile" timestamp="1587783342725">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/Dockerfile" timestamp="1587787198180">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/dist/models/example.js" timestamp="1587764174913" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swagger.json" timestamp="1587777330231" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/package.json" timestamp="1587783299095">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/package.json" timestamp="1587787295687">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="6" column="31" />
         <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="27" />
+        <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1587782213225">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1587786564548">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="32" column="19" />
         <mark key="." line="32" column="19" />
@@ -78,10 +77,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/Dockerfile" timestamp="1587782274924">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/Dockerfile" timestamp="1587787204996">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1587782282576">
         <mark key="'" line="32" column="10" />
@@ -90,10 +90,10 @@
         <mark key="." line="21" column="37" />
         <mark key="^" line="20" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swaggerDef.js" timestamp="1587783318783">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swaggerDef.js" timestamp="1587786258560">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Invoice.tsx" timestamp="1587768097861" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/generated-sources/openapi/api.ts" timestamp="1587780586795" />
@@ -198,11 +198,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>adapter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>adapter</text>
+        <text encoding="base64">IG5wbTpjb21waWxlOndhdGNoIG5wbTpnZW5lcmF0ZS1vcGVuLWFwaTp3YXRjaA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
@@ -214,50 +214,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgInR5cGVzY3JpcHQiOiAiMy44LjMiCiAgfSw=</text>
+        <text encoding="base64">IyBKQVZBIERlcGVuZGVuY3kK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGFwayB1cGRhdGUgJiYgYXBrIGFkZCBvcGVuamRrOAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIHN3YWdnZXItanNkb2NANC4wLjAgQG9wZW5hcGl0b29scy9vcGVuYXBpLWdlbmVyYXRvci1jbGlANC4zLjAK</text>
+        <text encoding="base64">RlJPTSBqYXZhOjgtYWxwaW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text>COPY ./backend/</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">UlVOIGV4cG9ydCBKQVZBX0hPTUUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8qKgogKiBAc3dhZ2dlcgogKiBkZWZpbml0aW9uczoKICogICBFeGFtbXBsZVBhcmFtZXRlcjoKICogICAgIHR5cGU6IG9iamVjdAogKiAgICAgcmVxdWlyZWQ6CiAqICAgICAgIC0gdHlwZQogKiAgICAgICAtIHZhbHVlCiAqICAgICBwcm9wZXJ0aWVzOgogKiAgICAgICB0eXBlOgogKiAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICB2YWx1ZToKICogICAgICAgICB0eXBlOiBzdHJpbmcKICovCmV4cG9ydCBpbnRlcmZhY2UgRXhhbW1wbGVQYXJhbWV0ZXIgewoJdHlwZTogc3RyaW5nLAoJdmFsdWU6IHN0cmluZwp9</text>
+        <text encoding="base64">RU5WIEpBVkFfSE9NRSAvdXNyL2xpYi9qdm0vamF2YS04LW9wZW5qZGstYW1kNjQvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8qKgogKiBAc3dhZ2dlcgogKiBkZWZpbml0aW9uczoKICogICBFeGFtbXBsZVBhcmFtZXRlcjoKICogICAgIHR5cGU6IG9iamVjdAogKiAgICAgcmVxdWlyZWQ6CiAqICAgICAgIC0gdHlwZQogKiAgICAgICAtIHZhbHVlCiAqICAgICBwcm9wZXJ0aWVzOgogKiAgICAgICB0eXBlOgogKiAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICB2YWx1ZToKICogICAgICAgICB0eXBlOiBzdHJpbmcKICovCmV4cG9ydCBpbnRlcmZhY2UgRXhhbW1wbGVQYXJhbWV0ZXIgewoJdHlwZTogc3RyaW5nLAoJdmFsdWU6IHN0cmluZwp9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>/**
- * @swagger
- * definitions:
- *   Example:
- *     type: object
- *     required:
- *       - id
- *       - description
- *     properties:
- *       id:
- *         type: number
- *       description:
- *         type: string
- *       parameters:
- *         type: array
- *         items:
- *           $ref: '#/definitions/ExammpleParameter'
- */
-export default interface Example {
-	id: number;
-	description: string;
-	parameters: ExammpleParameter[];
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
