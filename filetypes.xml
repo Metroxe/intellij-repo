@@ -28,6 +28,7 @@
       <mapping pattern="styleInitialState" type="PLAIN_TEXT" />
       <mapping pattern=".env-sample" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
