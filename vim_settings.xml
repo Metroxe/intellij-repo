@@ -44,19 +44,27 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/docs.js" timestamp="1587791410624">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/server.js" timestamp="1587790855180">
+        <mark key="[" line="17" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swagger.json" timestamp="1587777330231" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/package.json" timestamp="1587788928138">
-        <mark key="[" line="8" column="103" />
-        <mark key="]" line="8" column="83" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="8" column="83" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/package.json" timestamp="1587791172429">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1587788826932">
         <mark key="[" line="8" column="41" />
         <mark key="]" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/dist/index.js" timestamp="1587765583663" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/nodemon.json" timestamp="1587783264713">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="2" column="15" />
@@ -76,11 +84,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/Dockerfile" timestamp="1587788710205">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/Dockerfile" timestamp="1587791421210">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
         <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="14" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1587782282576">
         <mark key="'" line="32" column="10" />
@@ -89,7 +97,8 @@
         <mark key="." line="21" column="37" />
         <mark key="^" line="20" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swaggerDef.js" timestamp="1587788923862">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/src/api.ts" timestamp="1587790395757" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/swaggerDef.js" timestamp="1587790327477">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -191,11 +200,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>compile</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4uL2JhY2tlbmQvc3JjLyoqLyoudHM=</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
@@ -204,28 +213,28 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIE5PVEU6IElmIHVzaW5nIHlhbWwgeW91IGNhbiBwcm92aWRlIGEgcGF0aCByZWxhdGl2ZSB0byBwcm9jZXNzLmN3ZCgpIGUuZy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWFwaXM6IFsKCQkiLi4vYmFja2VuZC9zcmMvaW5kZXgudHMiLAoJXQ==</text>
+        <text encoding="base64">CS8vIGFwaURvYzogJy4vYXBpLXYxL2FwaS1kb2MueW1sJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRlcGVuZGVuY2llczogewoJCXdvcmxkc1NlcnZpY2U6IHYxV29ybGRzU2VydmljZQoJfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWFwaXM6IFsKCQkic3JjL2luZGV4LnRzIiwKCV0=</text>
+        <text encoding="base64">aW1wb3J0IHYxV29ybGRzU2VydmljZSBmcm9tICcuL2FwaS12MS9zZXJ2aWNlcy93b3JsZHNTZXJ2aWNlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHYxQXBpRG9jIGZyb20gJy4vYXBpLXYxL2FwaS1kb2MnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBKQVZBIERlcGVuZGVuY3kK</text>
+        <text encoding="base64">ICAgICJidWlsZC1hbmQtc2VydmUiOiAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGFwayB1cGRhdGUgJiYgYXBrIGFkZCBvcGVuamRrOAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RlJPTSBqYXZhOjgtYWxwaW5lCg==</text>
+        <text encoding="base64">CWFwaXM6IFsKCQkiLi4vYmFja2VuZC9zcmMvaW5kZXgudHMiLAoJXQ==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
