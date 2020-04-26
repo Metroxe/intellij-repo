@@ -54,6 +54,11 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/node_modules/typegoose/lib/prop.d.ts" timestamp="1587884013782" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.local_env" timestamp="1587924564339">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Token.ts" timestamp="1587892204034">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="3" column="0" />
@@ -71,9 +76,6 @@
         <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/node_modules/@types/mongoose/index.d.ts" timestamp="1587923591059" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587880198005">
-        <mark key="[" line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/package.json" timestamp="1587887044813">
         <mark key="[" line="10" column="107" />
         <mark key="]" line="9" column="67" />
@@ -210,10 +212,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dbName</text>
+        <text>mongodb</text>
       </register>
       <register name="-" type="4">
-        <text>dbName</text>
+        <text>mongodb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
