@@ -51,11 +51,6 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/User.ts" timestamp="1587892160101">
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/.local_env" timestamp="1587924564339">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -79,10 +74,10 @@
         <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/node_modules/@types/mongoose/index.d.ts" timestamp="1587923591059" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/package.json" timestamp="1587934362319">
-        <mark key="[" line="10" column="99" />
-        <mark key="]" line="9" column="67" />
-        <mark key="." line="9" column="67" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/package.json" timestamp="1587935542150">
+        <mark key="[" line="10" column="106" />
+        <mark key="]" line="10" column="98" />
+        <mark key="." line="10" column="98" />
         <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1587924522340">
@@ -92,22 +87,25 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/src/api.ts" timestamp="1587892824964" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Admin.ts" timestamp="1587892502890">
         <mark key="[" line="21" column="7" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1587933804512">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1587937690253">
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="35" column="24" />
+        <mark key="^" line="35" column="24" />
+        <mark key="." line="35" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/services/db.ts" timestamp="1587924380732">
         <mark key="[" line="16" column="60" />
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/signUp.ts" timestamp="1587935101095">
+        <mark key="[" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1587923074329">
         <mark key="[" line="28" column="24" />
@@ -216,11 +214,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>forms</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9yZXF1ZXN0Qm9kaWVzL1NpZ25VcFJlcXVlc3QnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>forms</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
@@ -229,41 +227,35 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogcGF0aHM6Cg==</text>
+        <text encoding="base64">ICogICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9yZXF1ZXN0Qm9kaWVzL1NpZ25VcFJlcXVlc3QnCg==</text>
       </register>
       <register name="2" type="2">
-        <text>/**
- * @swagger
- * /health:
- *   get:
- *     description: used to check if the server is live
- *     responses:
- *       '200':
- *         description: OK
- *       '500':
- *         $ref: '#/components/responses/UnknownError'
- */</text>
+        <text encoding="base64">ICogICAgICAgICAgIHNjaGVtYToK</text>
       </register>
       <register name="3" type="2">
-        <text>import &quot;./user&quot;</text>
+        <text encoding="base64">ICogICAgICAgICBhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IGRiOiBNb25nb29zZTsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBpbml0RGF0YWJhc2UoKTogUHJvbWlzZTx2b2lkPgoKY29ubmVjdChwcm9jZXNzLmVudi5NT05HT19VUkwsIHsKCXVzZU5ld1VybFBhcnNlcjogdHJ1ZQp9KTs=</text>
+        <text encoding="base64">ICogICAgICAgY29udGVudDoK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIiI7Cg==</text>
+      <register name="5" type="4">
+        <text>properties:
+ *           a:
+ *             type: string
+ *           b:
+ *             type: string</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICBzY2hlbWE6Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIFNpZ25VcFJlcXVlc3QgZXh0ZW5kcyBSZXF1ZXN0IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgc3R5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">ICogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgLSB1c2VyTmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIEFkbWluCg==</text>
+        <text encoding="base64">ICogcGF0aHM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
