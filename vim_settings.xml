@@ -38,8 +38,8 @@
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/nodemon.json" timestamp="1587879901235">
         <mark key="[" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/errorHandler.ts" timestamp="1587880224252">
-        <mark key="[" line="0" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/errorHandler.ts" timestamp="1587882931130">
+        <mark key="[" line="5" column="2" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -214,10 +214,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">d2VudCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">d2VudCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
