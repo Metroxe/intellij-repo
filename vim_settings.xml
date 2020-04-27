@@ -36,6 +36,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/APIError.ts" timestamp="1587942279395">
+        <mark key="[" line="24" column="71" />
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="24" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/User.ts" timestamp="1587940790332">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="11" column="0" />
@@ -57,12 +63,6 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Token.ts" timestamp="1587938441338">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="32" column="13" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/health.ts" timestamp="1587942131541">
         <mark key="[" line="11" column="41" />
         <mark key="]" line="11" column="41" />
@@ -74,6 +74,7 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/node_modules/@types/mongoose/index.d.ts" timestamp="1587945831649" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/passwordEncryption.ts" timestamp="1587941172024" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/package.json" timestamp="1587940272103">
         <mark key="[" line="10" column="106" />
@@ -82,11 +83,11 @@
         <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/src/api.ts" timestamp="1587939333790" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1587942141678">
-        <mark key="[" line="44" column="50" />
-        <mark key="]" line="48" column="41" />
-        <mark key="^" line="35" column="24" />
-        <mark key="." line="48" column="41" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1587946002139">
+        <mark key="[" line="92" column="10" />
+        <mark key="]" line="94" column="19" />
+        <mark key="^" line="94" column="19" />
+        <mark key="." line="94" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/cors.ts" timestamp="1587939047509">
         <mark key="[" line="4" column="0" />
@@ -202,10 +203,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>UnknownError</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>UnknownError</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
@@ -214,9 +215,18 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWlmICghYm9keS5lbWFpbCkgewoJCWVycm9yLgoJfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text>/**
  * @swagger
  * components:
@@ -230,26 +240,17 @@
  *             example: Sorry something went wrong. Please try again.
  */</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0ICIuL2JvZHlQYXJzZXIiOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CXByb2Nlc3MuZW52LkZST05URU5EX1VSTCwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CXByb2Nlc3MuZW52LkFETUlOX1BPUlRBTF9VUkwsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIHVzZXIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIHRva2VuVHlwZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9yZXF1ZXN0Qm9kaWVzL1NpZ25VcFJlcXVlc3QnCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIHNjaGVtYToK</text>
+        <text encoding="base64">ICogICAgICAgICAtIHVzZXIK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
