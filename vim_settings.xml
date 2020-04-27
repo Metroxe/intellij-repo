@@ -101,6 +101,11 @@
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1587948345700">
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/is-my-bae-okay/backend/src/routes/getInfo.ts" timestamp="1588019031403">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Transaction.ts" timestamp="1587957135054">
         <mark key="[" line="53" column="13" />
         <mark key="]" line="53" column="2" />
@@ -117,12 +122,6 @@
         <mark key="[" line="0" column="21" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/services/db.ts" timestamp="1587947265162">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -221,11 +220,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXREQn0gZnJvbSAiQC9zZXJ2aWNlcy9kYiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>I can't wait until you come back from taiwan</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>I can't wait until you come back from taiwan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
