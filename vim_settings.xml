@@ -63,8 +63,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/.local_env" timestamp="1588026474979">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/db.ts" timestamp="1588027682923">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/.local_env" timestamp="1588027563690">
+        <mark key="[" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1587957560316">
         <mark key="'" line="73" column="35" />
@@ -78,9 +84,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/docker-compose.yml" timestamp="1588026418154">
         <mark key="[" line="13" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/createToken.ts" timestamp="1587951061935">
-        <mark key="[" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/node_modules/@typegoose/typegoose/lib/internal/utils.d.ts" timestamp="1587951405165" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/tokenUtils.ts" timestamp="1587954149988">
@@ -222,11 +225,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtBUElFcnJvcn0gZnJvbSAiQC9tb2RlbHMvQVBJRXJyb3IiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>Real Estate Securities Exchange</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHBoYVw+</text>
@@ -235,31 +238,31 @@
         <text encoding="base64">CXByaXZhdGUgc3VtbWFyeTogc3RyaW5nOwoJcHJvdGVjdGVkIGdlbmVyaWNGb3JtRGVsZXRlOiBJRGVsZXRlUmVxdWVzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtBUElFcnJvcn0gZnJvbSAiQC9tb2RlbHMvQVBJRXJyb3IiOwo=</text>
+        <text encoding="base64">Y29uc3QgY2F0ZWdvcnkgPSBkYi5jb2xsZWN0aW9uKCJjYXRlZ29yeSIpLmRvYygiYWxsIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYXNzZXRzID0gZGIuY29sbGVjdGlvbigiYXNzZXRzIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgd2h5emFwcHMgPSBkYi5jb2xsZWN0aW9uKCJ3aHl6YXBwcyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIGNvbm5lY3QgdG8gZGIKCWF3YWl0IGdldERCKCk7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXREQn0gZnJvbSAiQC9zZXJ2aWNlcy9kYiI7Cg==</text>
+        <text encoding="base64">CXVzZXJzLAoJYWRtaW5zLAoJd2h5emFwcHMsCglhc3NldHMsCgljYXRlZ29yeQ==</text>
       </register>
       <register name="6" type="2">
-        <text>import &quot;./forms&quot;;</text>
+        <text encoding="base64">CXdoeXphcHBHZW9sb2NhdGlvbnMsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIm1vbmdvb3NlIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRDbGFzc0ZvckRvY3VtZW50LCBnZXRNb2RlbEZvckNsYXNzfSBmcm9tICJAdHlwZWdvb3NlL3R5cGVnb29zZSI7Cg==</text>
+        <text encoding="base64">Ly8gR2VvRmlyZXN0b3JlIHJlZmVyZW5jZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtVc2VyfSBmcm9tICJAL21vZGVscy9Vc2VyIjsK</text>
+        <text encoding="base64">Y29uc3QgZ2VvZmlyZXN0b3JlOiBHZW9GaXJlc3RvcmUgPSBuZXcgR2VvRmlyZXN0b3JlKGRiIGFzIHVua25vd24gYXMgR2VvRmlyZXN0b3JlVHlwZXMuY2xvdWQuRmlyZXN0b3JlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
