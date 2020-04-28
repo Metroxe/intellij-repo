@@ -31,99 +31,93 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/index.ts" timestamp="1588029359420">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/index.ts" timestamp="1588107963621">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/db.ts" timestamp="1588033694807">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="9" />
-        <mark key="^" line="23" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/unauthenticateToken.ts" timestamp="1588108058249">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/api.ts" timestamp="1588036048187">
-        <mark key="[" line="78" column="7" />
-        <mark key="]" line="78" column="7" />
-        <mark key="^" line="78" column="7" />
-        <mark key="." line="78" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/.local_env" timestamp="1588033761534">
+      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/utils/tokenUpdateCheck.ts" timestamp="1588106196454" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/Dockerfile.local" timestamp="1588108395872">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
+        <mark key="^" line="4" column="21" />
         <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1588032057888">
+      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/middleware/isAdmin.ts" timestamp="1588104926456" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/tokenUpdateCheck.ts" timestamp="1588105066711">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1588106190210">
         <mark key="'" line="73" column="35" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="106" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/utils/checkTokenExpired.ts" timestamp="1588031947704" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/package.json" timestamp="1588029039235">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="19" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="23" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/Dockerfile_local" timestamp="1588109453032">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/routes/admin/login.ts" timestamp="1588032275898" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Admin.ts" timestamp="1588036168003">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/utils/checkTokenExpired.ts" timestamp="1588104704268" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/docker-compose.yml" timestamp="1588108777759">
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="51" column="16" />
+        <mark key="^" line="51" column="52" />
+        <mark key="." line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/package.json" timestamp="1588029161498" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Token.ts" timestamp="1588032576895">
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/middleware/adminAuthentication.ts" timestamp="1588106022123">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="15" column="110" />
+        <mark key="^" line="15" column="110" />
+        <mark key="." line="15" column="109" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Token.ts" timestamp="1588106999066">
         <mark key="'" line="38" column="0" />
         <mark key="k" line="31" column="44" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="22" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/tokenUtils.ts" timestamp="1588029549105">
-        <mark key="'" line="0" column="18" />
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/routes/logout.ts" timestamp="1588108258105" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/package.json" timestamp="1588109507877">
+        <mark key="[" line="21" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/health.ts" timestamp="1588034233566">
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/health.ts" timestamp="1588106508754">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="21" />
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/index.ts" timestamp="1588029847207">
-        <mark key="[" line="0" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/index.ts" timestamp="1588105882754">
+        <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/routes/admin/post.ts" timestamp="1588035690167">
-        <mark key="[" line="72" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/.env" timestamp="1588033307266" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/index.ts" timestamp="1588029343952">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/login.ts" timestamp="1588033906177">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/login.ts" timestamp="1588107599994">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="2" />
+        <mark key="." line="18" column="2" />
         <mark key="^" line="80" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588037658426">
-        <mark key="[" line="36" column="6" />
-        <mark key="]" line="96" column="4" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="96" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588107723910">
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="70" column="84" />
+        <mark key="." line="70" column="84" />
+        <mark key="^" line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/whyzapp/adapter/src/utils/validation.ts" timestamp="1588035849911" />
+      <file name="$USER_HOME$/Documents/Projects/whyzapp/adapter/src/utils/validation.ts" timestamp="1588104192039" />
     </filemarks>
     <jumps>
       <jump line="66" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
@@ -226,11 +220,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ii9hZG1pbi9mb3Jtcy9jcmVhdGVBZG1pbiIsIGFzeW5jICh7Ym9keX06IFJlcXVlc3Q8dW5kZWZpbmVkLCBUb2tlbiB8IEFQSUVycm9yLCBDcmVhdGVBZG1pbkJvZHk+LCByZXMpID0+IHsKCgljb25zdCB7dXNlcm5hbWUsIHBhc3N3b3JkLCBjb25maXJtUGFzc3dvcmQsIHJvbGV9ID0gYm9keTsKCgkvLyBjaGVjayBpZiBhbiBhZG1pbiBhY2NvdW50IHdpdGggdGhlIHVzZXJuYW1lIGFscmVhZHkgZXhpc3RzCglsZXQgYWRtaW5RdWVyeSA9IGF3YWl0IGFkbWlucwoJCS53aGVyZSgidXNlcm5hbWUiLCAiPT0iLCB1c2VybmFtZSkKCQkubGltaXQoMSkKCQkuZ2V0KCk7CgoJaWYgKCFhZG1pblF1ZXJ5LmVtcHR5KSB7CgkJcmVzLnN0YXR1cyg0MDApLnNlbmQoe21lc3NhZ2VzOiBbYEFuIGFkbWluIGFjY291bnQgd2l0aCB0aGUgdXNlcm5hbWUgJHt1c2VybmFtZX0gYWxyZWFkeSBleGlzdHMuYF19KTsKCQlyZXR1cm47Cgl9CgoJLy8gdmFsaWRhdGlvbgoJaWYgKCEvXlx3ezgsMjB9JC8udGVzdChib2R5LnVzZXJuYW1lLnRyaW0oKSkpIHsKCQlyZXMuc3RhdHVzKDQwMCkuc2VuZCh7bWVzc2FnZXM6WyJBbiBhZG1pbiB1c2VybmFtZSBtdXN0IGJlIGJldHdlZW4gOCAmIDIwIGNoYXJhY3RlcnMgbG9uZywgYW5kIGNvbnRhaW4gb25seSBudW1iZXIsIGxldHRlcnMsIGFuZCB1bmRlcnNjb3Jlcy4iXX0pOwoJfQoKCWlmIChwYXNzd29yZCAhPT0gY29uZmlybVBhc3N3b3JkKSB7CgkJcmVzLnN0YXR1cyg0MDApLnNlbmQoe21lc3NhZ2VzOiBbIlRoZSBwYXNzd29yZHMgZG8gbm90IG1hdGNoLiJdfSk7CgkJcmV0dXJuOwoJfQoKCWlmIChwYXNzd29yZC5sZW5ndGggPCA4KSB7CgkJcmVzLnN0YXR1cyg0MDApLnNlbmQoe21lc3NhZ2VzOiBbIlRoZSBwYXNzd29yZCBpcyBub3QgdmFsaWQuIFRoZSBwYXNzd29yZCBtdXN0IGJlIGF0IGxlYXN0IDggY2hhcmFjdGVycyBsb25nLiJdfSk7CgkJcmV0dXJuOwoJfQoKCWlmICghcm9sZSkgewoJCXJlcy5zdGF0dXMoNDAwKS5zZW5kKHttZXNzYWdlczogWyJNaXNzaW5nIGFkbWluIHR5cGUuIl19KTsKCQlyZXR1cm47Cgl9CgoJLy8gY3JlYXRlIHRoZSBwYXNzd29yZCBoYXNoCgljb25zdCBwYXNzd29yZEhhc2ggPSBhd2FpdCBoYXNoUGFzc3dvcmQocGFzc3dvcmQpOwoKCS8vIHNhdmUgYWRtaW4KCWNvbnN0IG5ld0FkbWluID0gYXdhaXQgYWRtaW5zLmFkZCh7CgkJdXNlck5hbWU6IHVzZXJuYW1lLAoJCXBhc3N3b3JkSGFzaCwKCQlhZG1pblJvbGU6IHJvbGUsCgl9IGFzIEFkbWluKTsKCglyZXMuc2VuZFN0YXR1cygyMDApOwp9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q09QWSAuL2FkbWluLXZlcnNpb243IC4vCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IElEQkFkbWlu</text>
+        <text>backend</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -238,32 +232,32 @@
       <register name="0" type="4">
         <text>import {ID} from &quot;@/models/ID&quot;;</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ii9hZG1pbi9mb3Jtcy9jcmVhdGVBZG1pbiIsIGFzeW5jICh7Ym9keX06IFJlcXVlc3Q8dW5kZWZpbmVkLCBUb2tlbiB8IEFQSUVycm9yLCBDcmVhdGVBZG1pbkJvZHk+LCByZXMpID0+IHsKCgljb25zdCB7dXNlcm5hbWUsIHBhc3N3b3JkLCBjb25maXJtUGFzc3dvcmQsIHJvbGV9ID0gYm9keTsKCgkvLyBjaGVjayBpZiBhbiBhZG1pbiBhY2NvdW50IHdpdGggdGhlIHVzZXJuYW1lIGFscmVhZHkgZXhpc3RzCglsZXQgYWRtaW5RdWVyeSA9IGF3YWl0IGFkbWlucwoJCS53aGVyZSgidXNlcm5hbWUiLCAiPT0iLCB1c2VybmFtZSkKCQkubGltaXQoMSkKCQkuZ2V0KCk7CgoJaWYgKCFhZG1pblF1ZXJ5LmVtcHR5KSB7CgkJcmVzLnN0YXR1cyg0MDApLnNlbmQoe21lc3NhZ2VzOiBbYEFuIGFkbWluIGFjY291bnQgd2l0aCB0aGUgdXNlcm5hbWUgJHt1c2VybmFtZX0gYWxyZWFkeSBleGlzdHMuYF19KTsKCQlyZXR1cm47Cgl9CgoJLy8gdmFsaWRhdGlvbgoJaWYgKCEvXlx3ezgsMjB9JC8udGVzdChib2R5LnVzZXJuYW1lLnRyaW0oKSkpIHsKCQlyZXMuc3RhdHVzKDQwMCkuc2VuZCh7bWVzc2FnZXM6WyJBbiBhZG1pbiB1c2VybmFtZSBtdXN0IGJlIGJldHdlZW4gOCAmIDIwIGNoYXJhY3RlcnMgbG9uZywgYW5kIGNvbnRhaW4gb25seSBudW1iZXIsIGxldHRlcnMsIGFuZCB1bmRlcnNjb3Jlcy4iXX0pOwoJfQoKCWlmIChwYXNzd29yZCAhPT0gY29uZmlybVBhc3N3b3JkKSB7CgkJcmVzLnN0YXR1cyg0MDApLnNlbmQoe21lc3NhZ2VzOiBbIlRoZSBwYXNzd29yZHMgZG8gbm90IG1hdGNoLiJdfSk7CgkJcmV0dXJuOwoJfQoKCWlmIChwYXNzd29yZC5sZW5ndGggPCA4KSB7CgkJcmVzLnN0YXR1cyg0MDApLnNlbmQoe21lc3NhZ2VzOiBbIlRoZSBwYXNzd29yZCBpcyBub3QgdmFsaWQuIFRoZSBwYXNzd29yZCBtdXN0IGJlIGF0IGxlYXN0IDggY2hhcmFjdGVycyBsb25nLiJdfSk7CgkJcmV0dXJuOwoJfQoKCWlmICghcm9sZSkgewoJCXJlcy5zdGF0dXMoNDAwKS5zZW5kKHttZXNzYWdlczogWyJNaXNzaW5nIGFkbWluIHR5cGUuIl19KTsKCQlyZXR1cm47Cgl9CgoJLy8gY3JlYXRlIHRoZSBwYXNzd29yZCBoYXNoCgljb25zdCBwYXNzd29yZEhhc2ggPSBhd2FpdCBoYXNoUGFzc3dvcmQocGFzc3dvcmQpOwoKCS8vIHNhdmUgYWRtaW4KCWNvbnN0IG5ld0FkbWluID0gYXdhaXQgYWRtaW5zLmFkZCh7CgkJdXNlck5hbWU6IHVzZXJuYW1lLAoJCXBhc3N3b3JkSGFzaCwKCQlhZG1pblJvbGU6IHJvbGUsCgl9IGFzIEFkbWluKTsKCglyZXMuc2VuZFN0YXR1cygyMDApOwp9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Q09QWSAuL2FkbWluLXZlcnNpb243IC4vCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJlcy5zdGF0dXMoMjAwKS5zZW5kKG5ld0FkbWluLmlkKTsK</text>
+        <text encoding="base64">Q09QWSAuL2FkbWluLXZlcnNpb243IC4vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzdGF0dXMsCg==</text>
+        <text encoding="base64">UlVOIG5wbSBsaW5rIC4uL2NsaWVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmaXJzdE5hbWUsCg==</text>
+        <text encoding="base64">IyBpbnN0YWxsIGxpYnJhcmllcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsYXN0TmFtZSwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">V09SS0RJUiAvdXNyL3NyYy9hZG1pbgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">IyBjb3B5IG92ZXIgZmlsZXMgYW5kIHJ1bgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXMuc3RhdHVzKDQwMCkuc2VuZCgiTXVzdCBoYXZlIGEgdmFsaWQgbGFzdCBuYW1lLiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmICghdmFsaWRhdGlvbi5zaW5nbGVOYW1lKGxhc3ROYW1lKSkgewo=</text>
+        <text encoding="base64">Q09QWSAuL2FwcC9BcHAvRml4dHVyZXMvZ2FfY29udGFpbmVyX3NlY3Rpb25zLmpzb24gLi8K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
