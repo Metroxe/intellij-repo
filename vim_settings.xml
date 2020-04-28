@@ -36,31 +36,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/unauthenticateToken.ts" timestamp="1588108058249">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="26" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/link.sh" timestamp="1588110190864">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/dist/api.d.ts" timestamp="1588111521268">
+        <mark key="[" line="293" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/utils/tokenUpdateCheck.ts" timestamp="1588106196454" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/Dockerfile.local" timestamp="1588108395872">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/middleware/isAdmin.ts" timestamp="1588104926456" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/tokenUpdateCheck.ts" timestamp="1588105066711">
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="49" />
-        <mark key="^" line="2" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1588106190210">
         <mark key="'" line="73" column="35" />
         <mark key="[" line="7" column="0" />
@@ -73,17 +52,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/docker-compose.yml" timestamp="1588108777759">
-        <mark key="[" line="53" column="7" />
-        <mark key="]" line="51" column="16" />
-        <mark key="^" line="51" column="52" />
-        <mark key="." line="51" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/middleware/adminAuthentication.ts" timestamp="1588106022123">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="15" column="110" />
-        <mark key="^" line="15" column="110" />
-        <mark key="." line="15" column="109" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/src/App.tsx" timestamp="1588111468234">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Token.ts" timestamp="1588106999066">
         <mark key="'" line="38" column="0" />
@@ -94,6 +66,57 @@
         <mark key="." line="24" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/routes/logout.ts" timestamp="1588108258105" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/App.tsx" timestamp="1588111256536">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/v7_install.sh" timestamp="1588110110569">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/login.ts" timestamp="1588111629530">
+        <mark key="[" line="35" column="43" />
+        <mark key="]" line="18" column="2" />
+        <mark key="." line="18" column="2" />
+        <mark key="^" line="80" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588107723910">
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="70" column="84" />
+        <mark key="." line="70" column="84" />
+        <mark key="^" line="20" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/unauthenticateToken.ts" timestamp="1588108058249">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="26" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/link.sh" timestamp="1588110190864">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/Dockerfile.local" timestamp="1588108395872">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/docker-compose.yml" timestamp="1588108777759">
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="51" column="16" />
+        <mark key="^" line="51" column="52" />
+        <mark key="." line="51" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/package.json" timestamp="1588111802404">
+        <mark key="[" line="11" column="136" />
+        <mark key="]" line="23" column="19" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="23" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/package.json" timestamp="1588110091063">
         <mark key="[" line="27" column="23" />
         <mark key="]" line="27" column="23" />
@@ -110,29 +133,6 @@
         <mark key="]" line="6" column="21" />
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/index.ts" timestamp="1588105882754">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/v7_install.sh" timestamp="1588110110569">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/login.ts" timestamp="1588107599994">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="2" />
-        <mark key="^" line="80" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588107723910">
-        <mark key="[" line="59" column="37" />
-        <mark key="]" line="70" column="84" />
-        <mark key="." line="70" column="84" />
-        <mark key="^" line="20" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -236,11 +236,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>game</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xpZW50LkFkbWluQXBpRnAoKS5hZG1pbigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>game</text>
+        <text>adminFormsLoginPost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -249,31 +249,31 @@
         <text>import {ID} from &quot;@/models/ID&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I25wbSBsaW5rIC4uL2dhbWUK</text>
+        <text encoding="base64">Y2xpZW50LkFkbWluQXBpRnAoKS5hZG1pbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNkIC4uL2RldmVsb3Blci10b29scyB8fCBleGl0Cm5wbSBsaW5rIC4uL2dhbWUKCmNkIC4uL2Rlc2t0b3AtYXBwIHx8IGV4aXQKbnBtIGxpbmsgLi4vZ2FtZQoKY2QgLi4vY2FudmFzLWdhbWUtcmVuZGVyIHx8IGV4aXQKbnBtIHVuaW5zdGFsbAoKY2QgLi4vZGV2ZWxvcGVyLXRvb2xzIHx8IGV4aXQKbnBtIGxpbmsgLi4vY2FudmFzLWdhbWUtcmVuZGVyCgpjZCAuLi9kZXNrdG9wLWFwcCB8fCBleGl0Cm5wbSBsaW5rIC4uL2NhbnZhcy1nYW1lLXJlbmRlcg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Q09QWSAuL2FkbWluLXZlcnNpb243IC4vCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Q09QWSAuL2FkbWluLXZlcnNpb243IC4vCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">UlVOIG5wbSBsaW5rIC4uL2NsaWVudAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBpbnN0YWxsIGxpYnJhcmllcwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNsaWVudCBmcm9tICJjbGllbnQiOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I25wbSBsaW5rIC4uL2dhbWUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CmNkIC4uL2RldmVsb3Blci10b29scyB8fCBleGl0Cm5wbSBsaW5rIC4uL2dhbWUKCmNkIC4uL2Rlc2t0b3AtYXBwIHx8IGV4aXQKbnBtIGxpbmsgLi4vZ2FtZQoKY2QgLi4vY2FudmFzLWdhbWUtcmVuZGVyIHx8IGV4aXQKbnBtIHVuaW5zdGFsbAoKY2QgLi4vZGV2ZWxvcGVyLXRvb2xzIHx8IGV4aXQKbnBtIGxpbmsgLi4vY2FudmFzLWdhbWUtcmVuZGVyCgpjZCAuLi9kZXNrdG9wLWFwcCB8fCBleGl0Cm5wbSBsaW5rIC4uL2NhbnZhcy1nYW1lLXJlbmRlcg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Q09QWSAuL2FkbWluLXZlcnNpb243IC4vCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">V09SS0RJUiAvdXNyL3NyYy9hZG1pbgo=</text>
+        <text encoding="base64">Q09QWSAuL2FkbWluLXZlcnNpb243IC4vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBjb3B5IG92ZXIgZmlsZXMgYW5kIHJ1bgo=</text>
+        <text encoding="base64">UlVOIG5wbSBsaW5rIC4uL2NsaWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
