@@ -37,16 +37,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588132765909">
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/api.ts" timestamp="1588113443017">
-        <mark key="[" line="78" column="7" />
-        <mark key="]" line="78" column="7" />
-        <mark key="^" line="78" column="7" />
-        <mark key="." line="78" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588134199641">
+        <mark key="'" line="50" column="21" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/apis/AdminApi.ts" timestamp="1588114908954" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin/src/services/getGAContainerJSON.ts" timestamp="1588119058689" />
@@ -66,11 +62,14 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/PurchaseModuleScreenOptions.ts" timestamp="1588132821613">
-        <mark key="[" line="4" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/ModuleEntry.ts" timestamp="1588134349576">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/PurchaseModuleScreenOptions.ts" timestamp="1588134236823">
+        <mark key="[" line="5" column="67" />
         <mark key="]" line="4" column="33" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="24" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/models/IGAContainerSubmoduleApp.ts" timestamp="1588128976806" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588131085273">
@@ -196,12 +195,13 @@
       <jump line="32" column="16" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Token.ts" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Token.ts" />
       <jump line="82" column="118" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createAdmin.ts" />
+      <jump line="50" column="21" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">CWhlYWRlckltYWdlCQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHN0cmluZw==</text>
@@ -213,31 +213,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">CWhlYWRlckltYWdlCQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIGRlc2NyaXB0aW9uOiBTaG93biB0byB0aGUgdXNlciB3aGVuIHRoZSBnbyB0byBwdXJjaGFzZSB0aGlzIG1vZHVsZS4K</text>
+        <text encoding="base64">ICogICAgICAgICBoZWFkZXJJbWFnZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAgICBwdXJjaGFzZVNjcmVlbkRlc2NyaXB0aW9uMjoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICogICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICoK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIGRlc2NyaXB0aW9uOiBhcnJheSBvZiBidXR0b25zIGFuZCBkZXNjcmlwdGlvbiB0byBzaG93IG9uIHRoZSBwdXJjaGFzZSBzY3JlZW4uCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICBwdXJjaGFzZVNjcmVlbkRlc2NyaXB0aW9uOgo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgICBwdXJjaGFzZVNjcmVlbkRlc2NyaXB0aW9uOgogKiAgICAgICAgICAgZGVzY3JpcHRpb246IFNob3duIHRvIHRoZSB1c2VyIHdoZW4gdGhlIGdvIHRvIHB1cmNoYXNlIHRoaXMgbW9kdWxlLgogKiAgICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgcHVyY2hhc2VTY3JlZW5EZXNjcmlwdGlvbjI6CiAqICAgICAgICAgICBkZXNjcmlwdGlvbjogU2hvd24gdG8gdGhlIHVzZXIgd2hlbiB0aGUgZ28gdG8gcHVyY2hhc2UgdGhpcyBtb2R1bGUuCiAqICAgICAgICAgICB0eXBlOiBzdHJpbmc=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogdHJ1ZSwK</text>
+        <text encoding="base64">ICogICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
