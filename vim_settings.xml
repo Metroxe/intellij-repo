@@ -44,7 +44,7 @@
         <mark key="." line="36" column="31" />
         <mark key="^" line="31" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588144140994">
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588148902737">
         <mark key="'" line="51" column="21" />
         <mark key="[" line="54" column="105" />
         <mark key="]" line="54" column="105" />
@@ -121,11 +121,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588148051889">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588149007933">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getModuleContainer.ts" timestamp="1588142678504">
         <mark key="[" line="6" column="10" />
@@ -253,11 +252,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ym9vbGVhbiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9vbGVhbiA=</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -269,28 +268,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZ1bmN0aW9uIGF1dGhlbnRpY2F0ZVB1cmNoYXNlU2NyZWVuT3B0aW9uKFB1cmNoYXNlTW9kdWxlU2NyZWVuLCBpOiBudW1iZXIpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWkK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIChmYWxzZSkgewo=</text>
+        <text encoding="base64">CQljaGVja0V4aXN0c0FuZFR5cGUoZXJyb3JNZXNzYWdlUHJlcGVuZCwgbW9kdWxlLCAidGl0bGUiLCAic3RyaW5nIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljaGVja0V4aXN0c0FuZFR5cGUoYE1vZHVsZSBhdCBpbmRleCAke2l9OiBgLCBtb2R1bGUsICJ0aXRsZSIsICJzdHJpbmciKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQljaGVja0V4aXN0c0FuZFR5cGUoYE1vZHVsZSBhdCBpbmRleCAke2l9OiBgLCBtb2R1bGUsICJ0aXRsZSIsICJzdHJpbmciKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQljaGVja0V4aXN0c0FuZFR5cGUoYE1vZHVsZSBhdCBpbmRleCAke2l9OiBgLCBtb2R1bGUsICJ0aXRsZSIsICJzdHJpbmciKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIHNhdmUgdG8gdGhlIGRhdGFiYXNlCgkvLyBUT0RP</text>
+        <text encoding="base64">CQljaGVja0V4aXN0c0FuZFR5cGUoYE1vZHVsZSBhdCBpbmRleCAke2l9OiBgLCBtb2R1bGUsICJ0aXRsZSIsICJzdHJpbmciKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
