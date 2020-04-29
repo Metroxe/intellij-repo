@@ -127,11 +127,10 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/whyzapp/scrap.html" timestamp="1588177362416">
-        <mark key="[" line="70" column="66" />
-        <mark key="]" line="70" column="66" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="70" column="66" />
+      <file name="$USER_HOME$/Documents/Projects/whyzapp/scrap.html" timestamp="1588179706639">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/health.ts" timestamp="1588145338140">
         <mark key="[" line="9" column="25" />
@@ -253,11 +252,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>- arr[arr.length -1]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>- arr[arr.length -1]</text>
+        <text>floor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -266,31 +265,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gQ291bnQyKG1pc3NpbmdMYXN0LCB0KSAgKyBDb3VudDIobWlzc2luZ0xhc3QsIHQgKyBhcnJheVthcnJheS5sZW5ndGggLTFdKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text>function Count (array, t)</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZyhmaXJzdEhhbGYuc3BsaWNlKDEpLnNwbGljZSgwKSk7</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZ1bmN0aW9uIGF1dGhldGljYXRlUHVyY2hhc2VTY3JlZW5PcHRpb24ocHVyY2hhc2VTY3JlZW4pCg==</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZyhmaXJzdEhhbGYsIHNlY29uZEhhbGYsIGFycikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZ1bmN0aW9uIGF1dGhlbnRpY2F0ZVB1cmNoYXNlU2NyZWVuT3B0aW9uKFB1cmNoYXNlTW9kdWxlU2NyZWVuLCBpOiBudW1iZXIpIHsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhsZWZ0SGFsZiwgcmlnaHRIYWxmLCBBKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljaGVja0V4aXN0c0FuZFR5cGUoZXJyb3JNZXNzYWdlUHJlcGVuZCwgbW9kdWxlLCAidGl0bGUiLCAic3RyaW5nIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
