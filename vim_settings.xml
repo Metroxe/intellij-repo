@@ -37,15 +37,14 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588134199641">
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588138921331">
         <mark key="'" line="50" column="21" />
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="18" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/apis/AdminApi.ts" timestamp="1588114908954" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin/src/services/getGAContainerJSON.ts" timestamp="1588119058689" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin/src/services/getGAContainerJSON.ts" timestamp="1588137151313" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/models/APIError.ts" timestamp="1588117571499" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/src/App.tsx" timestamp="1588117836550">
         <mark key="[" line="5" column="0" />
@@ -53,7 +52,12 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/APIError.ts" timestamp="1588119082510" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/runtime.ts" timestamp="1588115921730" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/middleware/adminAuthentication.ts" timestamp="1588139694366">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="15" column="110" />
+        <mark key="^" line="15" column="110" />
+        <mark key="." line="15" column="109" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/app/App/Fixtures/ga_container_sections.json" timestamp="1588131772663" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Admin.ts" timestamp="1588130939649">
         <mark key="'" line="0" column="27" />
@@ -62,8 +66,18 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/ModuleEntry.ts" timestamp="1588134349576">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588139747929">
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="70" column="84" />
+        <mark key="." line="70" column="84" />
+        <mark key="^" line="20" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/ModuleEntry.ts" timestamp="1588138842937">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/PurchaseModuleScreenOptions.ts" timestamp="1588134236823">
         <mark key="[" line="5" column="67" />
@@ -72,10 +86,10 @@
         <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/models/IGAContainerSubmoduleApp.ts" timestamp="1588128976806" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588131085273">
-        <mark key="[" line="176" column="19" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588138803719">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/models/IGAContainerApp.ts" timestamp="1588125509486">
         <mark key="[" line="0" column="0" />
@@ -91,11 +105,11 @@
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Modules.ts" timestamp="1588130717397">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/health.ts" timestamp="1588117231295">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="56" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/updateModules.ts" timestamp="1588139756927">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="^" line="13" column="91" />
+        <mark key="." line="10" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -196,15 +210,16 @@
       <jump line="57" column="0" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Token.ts" />
       <jump line="82" column="118" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createAdmin.ts" />
       <jump line="50" column="21" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" />
+      <jump line="16" column="6" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/ModuleEntry.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWhlYWRlckltYWdlCQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0cmluZw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -213,31 +228,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWhlYWRlckltYWdlCQo=</text>
+        <text encoding="base64">ICogICAgICAgcmVxdWlyZWQ6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogICAgICAgICBoZWFkZXJJbWFnZToK</text>
+        <text encoding="base64">ICogICAgICAgICAtIGFwcHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">aW1wb3J0IHtJRH0gZnJvbSAiQC9tb2RlbHMvSUQiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogICAgICAgICAtIGljb25VUkwKICogICAgICAgICAtIGhlYWRlclVSTAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CXRpdGxlOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text>}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">ICogICAgICAgICBpZDoKICogICAgICAgICAgICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9JRCc=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
