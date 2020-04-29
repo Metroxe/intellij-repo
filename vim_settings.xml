@@ -37,11 +37,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/dist/api.d.ts" timestamp="1588111521268">
-        <mark key="[" line="293" column="85" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588130755762">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588132765909">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/api.ts" timestamp="1588113443017">
         <mark key="[" line="78" column="7" />
@@ -59,7 +58,7 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/APIError.ts" timestamp="1588119082510" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/runtime.ts" timestamp="1588115921730" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/app/App/Fixtures/ga_container_sections.json" timestamp="1588131407337" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/app/App/Fixtures/ga_container_sections.json" timestamp="1588131772663" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Admin.ts" timestamp="1588130939649">
         <mark key="'" line="0" column="27" />
         <mark key="[" line="29" column="0" />
@@ -67,11 +66,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/login.ts" timestamp="1588111629530">
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="2" />
-        <mark key="^" line="80" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/PurchaseModuleScreenOptions.ts" timestamp="1588132821613">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/models/IGAContainerSubmoduleApp.ts" timestamp="1588128976806" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588131085273">
@@ -202,66 +201,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogdHJ1ZSwK</text>
+        <text encoding="base64">ICogICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICB0eXBl</text>
+        <text encoding="base64">IHN0cmluZw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
       </register>
       <register name="0" type="4">
-        <text>import {ID} from &quot;@/models/ID&quot;;</text>
+        <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogdHJ1ZSwK</text>
+        <text encoding="base64">ICogICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqICAgICAgICAgICBpdGVtczoK</text>
+        <text encoding="base64">ICogICAgICAgICAgIGRlc2NyaXB0aW9uOiBTaG93biB0byB0aGUgdXNlciB3aGVuIHRoZSBnbyB0byBwdXJjaGFzZSB0aGlzIG1vZHVsZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqICAgICAgICAgb25lT2Y6Cg==</text>
+        <text encoding="base64">ICogICAgICAgICBwdXJjaGFzZVNjcmVlbkRlc2NyaXB0aW9uMjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAgIGRlc2NyaXB0aW9uOiBhcnJheSBvZiBidXR0b25zIGFuZCBkZXNjcmlwdGlvbiB0byBzaG93IG9uIHRoZSBwdXJjaGFzZSBzY3JlZW4uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogICAgICAgICBwdXJjaGFzZVNjcmVlbkRlc2NyaXB0aW9uOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>*         title:
- *           type: string
- *         description:
- *           type: string
- *         icon:
- *           type: string
- *         localVideoFile:
- *           type: string
- *         localVideoFileSize:
- *           type: number
- *         downloadVideoLink:
- *           type: string
- *         streamingVideoLink:
- *           type: string
- *         downloaded:
- *           type: boolean
- *         isDownloading:
- *           type: boolean
- *         progress:
- *           type: number
- *         favorite:
- *           type: boolean
- *         streamingVideoLinkAndroid
- *           type: string</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICogICAgICAgICBwdXJjaGFzZVNjcmVlbkRlc2NyaXB0aW9uOgogKiAgICAgICAgICAgZGVzY3JpcHRpb246IFNob3duIHRvIHRoZSB1c2VyIHdoZW4gdGhlIGdvIHRvIHB1cmNoYXNlIHRoaXMgbW9kdWxlLgogKiAgICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgcHVyY2hhc2VTY3JlZW5EZXNjcmlwdGlvbjI6CiAqICAgICAgICAgICBkZXNjcmlwdGlvbjogU2hvd24gdG8gdGhlIHVzZXIgd2hlbiB0aGUgZ28gdG8gcHVyY2hhc2UgdGhpcyBtb2R1bGUuCiAqICAgICAgICAgICB0eXBlOiBzdHJpbmc=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
