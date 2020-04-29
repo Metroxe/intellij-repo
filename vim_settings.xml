@@ -31,11 +31,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/index.ts" timestamp="1588107963621">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/dist/api.d.ts" timestamp="1588111521268">
         <mark key="[" line="293" column="85" />
       </file>
@@ -51,20 +46,14 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/apis/AdminApi.ts" timestamp="1588114908954" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/src/App.tsx" timestamp="1588114129048">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/models/APIError.ts" timestamp="1588117571499" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/src/App.tsx" timestamp="1588117836550">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/runtime.ts" timestamp="1588115240970" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Token.ts" timestamp="1588106999066">
-        <mark key="'" line="38" column="0" />
-        <mark key="k" line="31" column="44" />
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="13" />
-        <mark key="^" line="24" column="16" />
-        <mark key="." line="24" column="13" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/APIError.ts" timestamp="1588117131465" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/runtime.ts" timestamp="1588115921730" />
       <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/routes/logout.ts" timestamp="1588108258105" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/appV7+/App.tsx" timestamp="1588111256536">
         <mark key="[" line="10" column="0" />
@@ -81,18 +70,6 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
         <mark key="^" line="80" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588107723910">
-        <mark key="[" line="59" column="37" />
-        <mark key="]" line="70" column="84" />
-        <mark key="." line="70" column="84" />
-        <mark key="^" line="20" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/unauthenticateToken.ts" timestamp="1588108058249">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="26" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/link.sh" timestamp="1588110190864">
         <mark key="[" line="6" column="0" />
@@ -111,11 +88,11 @@
         <mark key="^" line="51" column="52" />
         <mark key="." line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/package.json" timestamp="1588114179258">
-        <mark key="[" line="11" column="86" />
-        <mark key="]" line="23" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/package.json" timestamp="1588117716989">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="19" column="29" />
-        <mark key="." line="23" column="19" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/package.json" timestamp="1588110091063">
         <mark key="[" line="27" column="23" />
@@ -127,6 +104,12 @@
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/health.ts" timestamp="1588117231295">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="6" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -234,7 +217,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultApiFp</text>
+        <text>DefaultApi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -246,30 +229,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsaWVudC5BZG1pbkFwaUZwKCkuYWRtaW5Gb3Jtc0NyZWF0ZUFkbWluUG9zdCguLi57Cgl1c2VyTmFtZTogImhleSIsCglwYXNzd29yZDogImFzZGZhc2YiLAoJY29uZmlybVBhc3N3b3JkOiAiYXNkZmFzZGYiLAoJcm9sZTogQWRtaW5Sb2xlLkdPRAp9KQ==</text>
+        <text encoding="base64">aW1wb3J0IHtBUElFcnJvcn0gZnJvbSAiY2xpZW50IjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtBZG1pblJvbGV9IGZyb20gIi4uLy4uL2JhY2tlbmQvc3JjL21vZGVscy9BZG1pbiI7Cg==</text>
+        <text encoding="base64">QVBJRXJyb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAidHlwaW5ncyI6ICJkaXN0L2luZGV4LmQudHMiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text>new client.DefaultApi().healthGet()
-client.DefaultApiFp().healthGet()</text>
+        <text encoding="base64">aW1wb3J0IGNsaWVudCBmcm9tICJjbGllbnQiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text>client.AdminApiFp().adminFormsLoginPost()
-client.DefaultApiFp().unauthenticateTokenDelete()</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xpZW50LkFkbWluQXBpRnAoKS5hZG1pbigpCg==</text>
+        <text encoding="base64">QVBJRXJyb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtBUElFcnJvcn0gZnJvbSAiY2xpZW50L2Rpc3QvbW9kZWxzL0FQSUVycm9yIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVBJRXJyb3IK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
