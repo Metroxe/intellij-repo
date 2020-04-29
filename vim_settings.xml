@@ -76,11 +76,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588119914034">
-        <mark key="[" line="90" column="31" />
-        <mark key="]" line="9" column="2" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="9" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588123511204">
+        <mark key="[" line="117" column="13" />
+        <mark key="]" line="258" column="0" />
+        <mark key="^" line="210" column="29" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/docker-compose.yml" timestamp="1588108777759">
         <mark key="[" line="53" column="7" />
@@ -213,11 +213,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgdHlwZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgdHlwZQ==</text>
+        <text encoding="base64">ICAgICAgIHByb3Blcml0ZXM=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -226,31 +226,54 @@
         <text>import {ID} from &quot;@/models/ID&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogICAgICAgZGVzY3JpcHRpb246IEFuIGVycm9yIHRoYXQgd291bGQgYmUgcmV0dXJuZWQgZnJvbSB0aGUgYmFja2VuZC4K</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>*         title:
+ *           type: string
+ *         description:
+ *           type: string
+ *         icon:
+ *           type: string
+ *         localVideoFile:
+ *           type: string
+ *         localVideoFileSize:
+ *           type: number
+ *         downloadVideoLink:
+ *           type: string
+ *         streamingVideoLink:
+ *           type: string
+ *         downloaded:
+ *           type: boolean
+ *         isDownloading:
+ *           type: boolean
+ *         progress:
+ *           type: number
+ *         favorite:
+ *           type: boolean
+ *         streamingVideoLinkAndroid
+ *           type: string</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIGl0ZW1zOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgIGV4YW1wbGU6IFsiVGhlcmUgd2FzIGFuIGVycm9yIHdpdGggeW91ciByZXF1ZXN0LiBQbGVhc2UgdHJ5IGFnYWluLiJd</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ1cmwiOiAiMC4xMS4wIgo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGRlc2NyaXB0aW9uCiAqICAgICAgICAgLSBpY29uCiAqICAgICAgICAgLSBsb2NhbFZpZGVvRmlsZQogKiAgICAgICAgIC0gbG9jYWxWaWRlb0ZpbGVTaXplCiAqICAgICAgICAgLSBkb3dubG9hZFZpZGVvTGluawogKiAgICAgICAgIC0gc3RyZWFtaW5nVmlkZW9MaW5rCiAqICAgICAgICAgLSBkb3dubG9hZGVkCiAqICAgICAgICAgLSBpc0Rvd25sb2FkaW5nCiAqICAgICAgICAgLSBwcm9ncmVzcwogKiAgICAgICAgIC0gZmF2b3JpdGUKICogICAgICAgICAtIHN0cmVhbWluZ1ZpZGVvTGlua0FuZHJvaWQ=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJheGlvcyI6ICIwLjE5LjIiLAo=</text>
+        <text encoding="base64">ICogICAgICAgZGVzY3JpcHRpb246IEFuIGVycm9yIHRoYXQgd291bGQgYmUgcmV0dXJuZWQgZnJvbSB0aGUgYmFja2VuZC4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtBUElFcnJvcn0gZnJvbSAiY2xpZW50IjsK</text>
+        <text encoding="base64">ICogICAgICAgICAgIGl0ZW1zOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgIGV4YW1wbGU6IFsiVGhlcmUgd2FzIGFuIGVycm9yIHdpdGggeW91ciByZXF1ZXN0LiBQbGVhc2UgdHJ5IGFnYWluLiJd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVBJRXJyb3IK</text>
+        <text encoding="base64">ICAgICJ1cmwiOiAiMC4xMS4wIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAidHlwaW5ncyI6ICJkaXN0L2luZGV4LmQudHMiLAo=</text>
+        <text encoding="base64">ICAgICJheGlvcyI6ICIwLjE5LjIiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
