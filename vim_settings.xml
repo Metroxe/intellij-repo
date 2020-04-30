@@ -80,12 +80,6 @@
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Debug.tsx" timestamp="1588196108416">
         <mark key="[" line="206" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/index.ts" timestamp="1588146093059">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/login.ts" timestamp="1588147267028">
         <mark key="[" line="35" column="43" />
         <mark key="]" line="18" column="2" />
@@ -106,6 +100,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/PurchaseModuleScreenOptions.ts" timestamp="1588267256450">
+        <mark key="[" line="5" column="67" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/ModulesContainer.ts" timestamp="1588208378906">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="18" />
@@ -118,10 +118,11 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588149933914">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588268115440">
+        <mark key="[" line="58" column="101" />
+        <mark key="]" line="58" column="101" />
+        <mark key="^" line="69" column="95" />
+        <mark key="." line="58" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/routes/asset/post.ts" timestamp="1588176136944" />
       <file name="$USER_HOME$/Documents/Projects/whyzapp/scrap.html" timestamp="1588182390699">
@@ -239,10 +240,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>REACT_APP_PDF_SERVER_ADDRESS</text>
+        <text encoding="base64">c3VibW9kdWxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>REACT_APP_PDF_SERVER_ADDRESS</text>
+        <text encoding="base64">c3VibW9kdWxlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -251,28 +252,28 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text>import &quot;./authentication&quot;;</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHthcHB9IGZyb20gIi4uL2luZGV4IjsK</text>
+        <text encoding="base64">CQkJZnVuY3Rpb24gYXV0aGVudGljYXRlUHVyY2hhc2VTY3JlZW5PcHRpb25zKG9wdGlvbjogUHVyY2hhc2VNb2R1bGVTY3JlZW5PcHRpb25zLCBqOiBudW1iZXIpOiB2b2lkIHsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3QyKDUpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXRlc3QyKDQpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coVSwgVTEsIFUyKTsK</text>
+        <text encoding="base64">CQkJCWNoZWNrRXhpc3RzQW5kVHlwZShlcnJvck1lc3NhZ2VQcmVwZW5kLCBvcHRpb24sICJwcmljZSIsICJudW1iZXIiKTsKCQkJCWNoZWNrRXhpc3RzQW5kVHlwZShlcnJvck1lc3NhZ2VQcmVwZW5kLCBtb2R1bGUsICJwcmljZSIsICJudW1iZXIiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc3QgVSA9IEEubWFwKCh1bmRlZmluZWQsIGkpID0+IGkpOwo=</text>
+        <text>import &quot;./authentication&quot;;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHthcHB9IGZyb20gIi4uL2luZGV4IjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
