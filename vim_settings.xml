@@ -118,11 +118,11 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588268115440">
-        <mark key="[" line="58" column="101" />
-        <mark key="]" line="58" column="101" />
-        <mark key="^" line="69" column="95" />
-        <mark key="." line="58" column="101" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588268700282">
+        <mark key="[" line="75" column="74" />
+        <mark key="]" line="74" column="52" />
+        <mark key="^" line="43" column="48" />
+        <mark key="." line="74" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/whyzapp/backend/src/routes/asset/post.ts" timestamp="1588176136944" />
       <file name="$USER_HOME$/Documents/Projects/whyzapp/scrap.html" timestamp="1588182390699">
@@ -240,10 +240,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3VibW9kdWxlIA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VibW9kdWxlIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -252,31 +252,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZnVuY3Rpb24gYXV0aGVudGljYXRlUHVyY2hhc2VTY3JlZW5PcHRpb25zKG9wdGlvbjogUHVyY2hhc2VNb2R1bGVTY3JlZW5PcHRpb25zLCBqOiBudW1iZXIpOiB2b2lkIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJZnVuY3Rpb24gYXV0aGVudGljYXRlUHVyY2hhc2VTY3JlZW5PcHRpb25zKG9wdGlvbjogUHVyY2hhc2VNb2R1bGVTY3JlZW5PcHRpb25zLCBqOiBudW1iZXIpOiB2b2lkIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWNoZWNrRXhpc3RzQW5kVHlwZShlcnJvck1lc3NhZ2VQcmVwZW5kLCBvcHRpb24sICJwcmljZSIsICJudW1iZXIiKTsKCQkJCWNoZWNrRXhpc3RzQW5kVHlwZShlcnJvck1lc3NhZ2VQcmVwZW5kLCBtb2R1bGUsICJwcmljZSIsICJudW1iZXIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>import &quot;./authentication&quot;;</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHthcHB9IGZyb20gIi4uL2luZGV4IjsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNoZWNrRXhpc3RzQW5kVHlwZShlcnJvck1lc3NhZ2VQcmVwZW5kLCBvcHRpb24sICJwcmljZSIsICJudW1iZXIiKTsKCQkJCWNoZWNrRXhpc3RzQW5kVHlwZShlcnJvck1lc3NhZ2VQcmVwZW5kLCBtb2R1bGUsICJwcmljZSIsICJudW1iZXIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
