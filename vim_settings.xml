@@ -50,16 +50,21 @@
         <mark key="." line="36" column="31" />
         <mark key="^" line="31" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/Dockerfile" timestamp="1588284514256">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/db.ts" timestamp="1588276920898">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/middleware/authentication.ts" timestamp="1588280613204">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation/src/middleware/authentication.ts" timestamp="1588284314854">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="19" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/.local_env" timestamp="1588277950930">
         <mark key="[" line="5" column="0" />
@@ -67,17 +72,11 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/APIError.ts" timestamp="1588279267599" />
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1588280677870">
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1588284330244">
         <mark key="[" line="16" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/asset-generation-frontend/src/pages/Debug.tsx" timestamp="1588276785624">
         <mark key="[" line="209" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getModulesContainer.ts" timestamp="1588276111802">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="13" />
-        <mark key="^" line="38" column="35" />
-        <mark key="." line="38" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/index.ts" timestamp="1588277913067">
         <mark key="[" line="2" column="35" />
@@ -87,11 +86,8 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/node_modules/@types/express/index.d.ts" timestamp="1588276229578" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/docker-compose.yml" timestamp="1588280344721" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/ModulesContainer.ts" timestamp="1588276090593">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="19" />
-        <mark key="^" line="18" column="128" />
-        <mark key="." line="23" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/cloudbuild.yaml" timestamp="1588284517767">
+        <mark key="[" line="62" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/storage.ts" timestamp="1588277079068">
         <mark key="[" line="1" column="0" />
@@ -224,7 +220,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmV4cG9ydCB7cmVxdWlyZXNTZWNyZXR9</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -236,31 +232,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmV4cG9ydCB7cmVxdWlyZXNTZWNyZXR9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIGdldCB0b2tlbklECg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWNvbnN0IHNlY3JldCA9IHJlcS5oZWFkZXJzWyJhcGlfa2V5Il0ucmVwbGFjZSgiQmVhcmVyICIsICIiKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogICAgIHJlc3BvbnNlQm9keToK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CS8vIGdldCB0b2tlbklECg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWNvbnN0IHNlY3JldCA9IHJlcS5oZWFkZXJzWyJhcGlfa2V5Il0ucmVwbGFjZSgiQmVhcmVyICIsICIiKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogICAgIHJlc3BvbnNlQm9keToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICogICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtIGluOiBwYXRoCiAgICAgICAgICBuYW1lOiBpZAogICAgICAgICAgcmVxdWlyZWQ6IHRydWU=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0eWxlOiBzaW1wbGUK</text>
+        <text encoding="base64">ICAgICAgICAtIGluOiBwYXRoCiAgICAgICAgICBuYW1lOiBpZAogICAgICAgICAgcmVxdWlyZWQ6IHRydWU=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
