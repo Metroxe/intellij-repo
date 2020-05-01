@@ -44,8 +44,11 @@
         <mark key="." line="21" column="13" />
         <mark key="^" line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertLegacyDatabaseToNewDatabase.ts" timestamp="1588308541127">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertLegacyDatabaseToNewDatabase.ts" timestamp="1588313031346">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/getAssetList.ts" timestamp="1588293040549">
         <mark key="[" line="12" column="15" />
@@ -230,11 +233,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>const convertDatabaseToLegacyVersion()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>const convertDatabaseToLegacyVersion()</text>
+        <text encoding="base64">IGFwcHM=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -243,31 +246,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gdHMtaWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
+        <text encoding="base64">Ly8gdHMtaWdub3JlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGFwcF90aXRsZQo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGlhcE1vZGFsVHlwZQo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGFwcF90aXRsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXdpc2hsaXN0OiBib29sZWFuOwo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGlhcE1vZGFsVHlwZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIHdpc2hsaXN0Cg==</text>
+        <text encoding="base64">CXdpc2hsaXN0OiBib29sZWFuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGJ1bmRsZQo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIHdpc2hsaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAtIGJ1bmRsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
