@@ -33,6 +33,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/Request.java" timestamp="1588375402650">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588375244663">
         <mark key="'" line="51" column="39" />
         <mark key="[" line="19" column="27" />
@@ -74,11 +79,6 @@
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/sandbox.ts" timestamp="1588308571447">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Token.ts" timestamp="1588365628295">
         <mark key="[" line="58" column="11" />
         <mark key="]" line="66" column="0" />
@@ -92,12 +92,6 @@
         <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/node_modules/@types/mongoose/index.d.ts" timestamp="1588366419899" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/legacyDatabase.ts" timestamp="1588308694041">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="16" />
-        <mark key="^" line="3" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertLegacyDatabaseToNewDatabase.ts" timestamp="1588313031346">
         <mark key="[" line="12" column="41" />
         <mark key="]" line="12" column="38" />
@@ -115,22 +109,27 @@
         <mark key="." line="36" column="2" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1588375167508">
-        <mark key="[" line="37" column="112" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1588375266667">
+        <mark key="[" line="106" column="21" />
         <mark key="]" line="108" column="6" />
         <mark key="." line="108" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/services/db.ts" timestamp="1588366819497">
         <mark key="[" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" timestamp="1588371271865">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" timestamp="1588375469964">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="17" column="121" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/index.ts" timestamp="1588375138730">
         <mark key="[" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/global.d.ts" timestamp="1588375419088">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -239,10 +238,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Admin</text>
+        <text>isAuthenticated</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -251,31 +250,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogICAgIHRhZ3M6CiAqICAgICAgIC0gYWRtaW4=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtBZG1pbn0gZnJvbSAiQC9tb2RlbHMvQWRtaW4iOwo=</text>
+        <text encoding="base64">CQlhZG1pblNuYXBzaG90PzogRG9jdW1lbnRTbmFwc2hvdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhZG1pblJlZmVyZW5jZT86IERvY3VtZW50UmVmZXJlbmNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl1c2VyU25hcHNob3Q/OiBEb2N1bWVudFNuYXBzaG90Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmICghYm9keS5maXJzdE5hbWUpIHsKCQllcnJvci5tZXNzYWdlcy5wdXNoKCJNaXNzaW5nZmllbGQuIikKCX0KCglpZiAoIWJvZHkubGFzdE5hbWUpIHsKCQllcnJvci5tZXNzYWdlcy5wdXNoKCJNaXNzaW5nIGNvbmZpcm0gcGFzc3dvcmQgZmllbGQuIikKCX0KCglpZiAoIWJvZHkuZW1haWwpIHsKCQllcnJvci5tZXNzYWdlcy5wdXNoKCJNaXNzaW5nIGNvbmZpcm0gcGFzc3dvcmQgZmllbGQuIikKCX0=</text>
+        <text encoding="base64">CQl1c2VyUmVmZXJlbmNlPzogRG9jdW1lbnRSZWZlcmVuY2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CQl1c2VySUQ/OiBzdHJpbmc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhZG1pbklEPzogc3RyaW5nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0b2tlbjogc3RyaW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
