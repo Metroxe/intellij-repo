@@ -33,12 +33,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588371320778">
-        <mark key="'" line="40" column="39" />
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="58" column="38" />
-        <mark key="." line="58" column="38" />
-        <mark key="^" line="58" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588375244663">
+        <mark key="'" line="51" column="39" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="111" column="20" />
+        <mark key="." line="111" column="20" />
+        <mark key="^" line="111" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/index.ts" timestamp="1588357049097">
         <mark key="[" line="1" column="17" />
@@ -56,16 +56,20 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/adminLogin.ts" timestamp="1588371311722">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/adminLogin.ts" timestamp="1588374960304">
         <mark key="'" line="78" column="1" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="67" column="30" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/userLogin.ts" timestamp="1588368093180" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/tokenUtils.ts" timestamp="1588370477441">
-        <mark key="[" line="46" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/userLogin.ts" timestamp="1588375221971">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/tokenUtils.ts" timestamp="1588374041610">
+        <mark key="[" line="38" column="40" />
         <mark key="]" line="12" column="60" />
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="73" />
@@ -81,11 +85,11 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Security.ts" timestamp="1588356887601">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Security.ts" timestamp="1588374788097">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/node_modules/@types/mongoose/index.d.ts" timestamp="1588366419899" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/legacyDatabase.ts" timestamp="1588308694041">
@@ -111,26 +115,22 @@
         <mark key="." line="36" column="2" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1588367251954">
-        <mark key="[" line="107" column="19" />
-        <mark key="]" line="106" column="6" />
-        <mark key="." line="106" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1588375167508">
+        <mark key="[" line="37" column="112" />
+        <mark key="]" line="108" column="6" />
+        <mark key="." line="108" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/services/db.ts" timestamp="1588366819497">
         <mark key="[" line="20" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertDatabaseToLegacyVersion.ts" timestamp="1588308494876">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="34" column="86" />
-        <mark key="]" line="40" column="44" />
-        <mark key="." line="40" column="44" />
-        <mark key="^" line="84" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" timestamp="1588371271865">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/index.ts" timestamp="1588375138730">
+        <mark key="[" line="0" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -238,11 +238,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgcGFzc3dvcmRIYXNo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgcGFzc3dvcmRIYXNo</text>
+        <text>Admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -254,28 +254,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgIHRhZ3M6CiAqICAgICAgIC0gYWRtaW4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKHBhc3N3b3JkSGFzaCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtBZG1pbn0gZnJvbSAiQC9tb2RlbHMvQWRtaW4iOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzZWxlY3Q6IGZhbHNlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGJvZHkudXNlcm5hbWUpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWlmICghYm9keS5maXJzdE5hbWUpIHsKCQllcnJvci5tZXNzYWdlcy5wdXNoKCJNaXNzaW5nZmllbGQuIikKCX0KCglpZiAoIWJvZHkubGFzdE5hbWUpIHsKCQllcnJvci5tZXNzYWdlcy5wdXNoKCJNaXNzaW5nIGNvbmZpcm0gcGFzc3dvcmQgZmllbGQuIikKCX0KCglpZiAoIWJvZHkuZW1haWwpIHsKCQllcnJvci5tZXNzYWdlcy5wdXNoKCJNaXNzaW5nIGNvbmZpcm0gcGFzc3dvcmQgZmllbGQuIikKCX0=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
