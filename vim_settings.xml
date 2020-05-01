@@ -31,23 +31,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/index.ts" timestamp="1588278673894">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/getAsset.ts" timestamp="1588290665194">
         <mark key="[" line="17" column="2" />
         <mark key="]" line="17" column="2" />
         <mark key="." line="17" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createNewModuleContainer.ts" timestamp="1588277999437">
-        <mark key="'" line="36" column="31" />
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="36" column="31" />
-        <mark key="." line="36" column="31" />
-        <mark key="^" line="31" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588293522115">
         <mark key="'" line="52" column="21" />
@@ -74,9 +61,14 @@
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/getAssetList.ts" timestamp="1588293040549">
         <mark key="[" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/APIError.ts" timestamp="1588279267599" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1588284330244">
         <mark key="[" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getModulesContainer.ts" timestamp="1588294481503">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="38" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/login.ts" timestamp="1588292078496">
         <mark key="[" line="35" column="43" />
@@ -84,7 +76,6 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="80" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/docker-compose.yml" timestamp="1588280344721" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/middleware/cors.ts" timestamp="1588289644904">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="16" />
@@ -105,13 +96,25 @@
         <mark key="]" line="34" column="9" />
         <mark key="." line="34" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588293882776">
-        <mark key="[" line="49" column="95" />
-        <mark key="]" line="49" column="95" />
-        <mark key="^" line="43" column="48" />
-        <mark key="." line="49" column="95" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588294583643">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getLegacyDatabase.ts" timestamp="1588294588837">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588295782228">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/viewAsset.ts" timestamp="1588292028956" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertDatabaseToLegacyVersion.ts" timestamp="1588294653867">
+        <mark key="[" line="14" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/index.ts" timestamp="1588293029121">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="10" />
@@ -228,11 +231,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>iconID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJY2hlY2tFeGlzdHNBbmRUeXBlKGVycm9yTWVzc2FnZVByZXBlbmQsIG1vZHVsZSwgInB1cmNoYXNlU2NyZWVuT3B0aW9uIiwgImFycmF5Iik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>iconID</text>
+        <text>ModulesContainer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -241,31 +244,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY2hlY2tFeGlzdHNBbmRUeXBlKGVycm9yTWVzc2FnZVByZXBlbmQsIG1vZHVsZSwgInB1cmNoYXNlU2NyZWVuT3B0aW9uIiwgImFycmF5Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcHJvbWlzZUFyci5wdXNoKGNoZWNrVVJMUmVzcG9uc2UobW9kdWxlLmljb25JRCkpCgkJCXByb21pc2VBcnIucHVzaChjaGVja1VSTFJlc3BvbnNlKG1vZHVsZS5oZWFkZXJVUkwpKQ==</text>
+        <text encoding="base64">aW1wb3J0IHtJR0FDb250YWluZXJBcHAsIElHQUNvbnRhaW5lckpTT059IGZyb20gIkAvbW9kZWxzL0xlZ2FjeURhdGFiYXNlIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAgJzQwMCc6CiAqICAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9yZXNwb25zZXMvQVBJRXJyb3In</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgc2NoZW1hOgo=</text>
+        <text encoding="base64">CWNvbnN0IGxhdGVzdENvbnRhaW5lcjogTW9kdWxlc0NvbnRhaW5lciA9IGxhdGVzdENvbnRhaW5lclF1ZXJ5LmRvY3NbMF0uZGF0YSgpIGFzIE1vZHVsZXNDb250YWluZXI7CglsYXRlc3RDb250YWluZXIuY3JlYXRpb25EYXRlID0gKGxhdGVzdENvbnRhaW5lci5jcmVhdGlvbkRhdGUgYXMgdW5rbm93biBhcyBUaW1lc3RhbXApLnRvTWlsbGlzKCkKCXJlcy5zZW5kKGxhdGVzdENvbnRhaW5lcik7</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgIHJlcXVlc3RCb2R5OgogKiAgICAgICBjb250ZW50OgogKiAgICAgICAgIGFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZDoK</text>
+        <text encoding="base64">CQkJcHJvbWlzZUFyci5wdXNoKGNoZWNrVVJMUmVzcG9uc2UobW9kdWxlLmljb25JRCkpCgkJCXByb21pc2VBcnIucHVzaChjaGVja1VSTFJlc3BvbnNlKG1vZHVsZS5oZWFkZXJVUkwpKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgJzQwMCc6CiAqICAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9yZXNwb25zZXMvQVBJRXJyb3In</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIHNjaGVtYToKICogICAgICAgICAgICAgdHlwZQ==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgc2NoZW1hOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9zY2hlbWFzL0FkbWluTG9naW5Cb2R5Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
