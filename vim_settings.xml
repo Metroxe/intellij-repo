@@ -53,15 +53,15 @@
         <mark key="[" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin/src/services/getGAContainerJSON.ts" timestamp="1588305217545" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/app/App/Fixtures/ga_container_sections.json" timestamp="1588305103060" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/app/App/Fixtures/ga_container_sections.json" timestamp="1588305409349" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getModulesContainer.ts" timestamp="1588294481503">
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="13" />
         <mark key="^" line="38" column="35" />
         <mark key="." line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/legacyDatabase.ts" timestamp="1588305239201">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/legacyDatabase.ts" timestamp="1588306540959">
+        <mark key="[" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/.gitignore" timestamp="1588304892758">
         <mark key="[" line="0" column="0" />
@@ -87,11 +87,10 @@
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/sandbox.ts" timestamp="1588304937893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588305262569">
-        <mark key="[" line="160" column="12" />
-        <mark key="]" line="117" column="19" />
-        <mark key="." line="117" column="19" />
-        <mark key="^" line="228" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588306488104">
+        <mark key="[" line="262" column="11" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getLegacyDatabase.ts" timestamp="1588294588837">
         <mark key="[" line="7" column="0" />
@@ -104,12 +103,12 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/viewAsset.ts" timestamp="1588292028956" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertDatabaseToLegacyVersion.ts" timestamp="1588304637052">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="83" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertDatabaseToLegacyVersion.ts" timestamp="1588305471377">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="34" column="86" />
+        <mark key="]" line="40" column="44" />
+        <mark key="." line="40" column="44" />
+        <mark key="^" line="84" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/index.ts" timestamp="1588293029121">
         <mark key="[" line="0" column="19" />
@@ -229,10 +228,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN1Yk1vZHVsZQ==</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -241,28 +240,28 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IHRlY2huaXF1ZXM6IEFycmF5PElHQUNvbnRhaW5lclRlY2huaXF1ZSB8IElHQUNvbnRhaW5lckhlYWRlcj4gPSAgc3ViTW9kdWxlLmVudHJpZXMubWFwKHRlY2huaXF1ZU1hcCk7Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAtIGFwcF90aXRsZQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KGVudHJ5LCBqKTogSUdBQ29udGFpbmVyVGVjaG5pcXVlIHwgSUdBQ29udGFpbmVySGVhZGVyID0+IHsKCQkJCQlpZiAoT2JqZWN0LmtleXMoZW50cnkpLmxlbmd0aCA9PT0gMSkgewoJCQkJCQlyZXR1cm4gewoJCQkJCQkJc2VjdGlvblRpdGxlOiBlbnRyeS50aXRsZSwKCQkJCQkJCWlkOiBqLAoJCQkJCQkJa2V5OiBqLAoJCQkJCQl9CgkJCQkJfSBlbHNlIHsKCQkJCQkJcmV0dXJuIHsKCQkJCQkJCXRpdGxlOiBlbnRyeS50aXRsZSwKCQkJCQkJCWlkOiBqLAoJCQkJCQkJa2V5OiBqLAoJCQkJCQkJZGVzY3JpcHRpb246IChlbnRyeSBhcyBJR0FDb250YWluZXJUZWNobmlxdWUpLmRlc2NyaXB0aW9uLAoJCQkJCQkJaWNvbjogIiIsCgkJCQkJCQlsb2NhbFZpZGVvRmlsZTogIiIsCgkJCQkJCQlsb2NhbFZpZGVvRmlsZVNpemU6ICIxMDAwMDAwMCIsIC8vIGZpbmQgd2F5IHRvIHJlcGxhY2UKCQkJCQkJCWRvd25sb2FkVmlkZW9MaW5rOiAoZW50cnkgYXMgSUdBQ29udGFpbmVyVGVjaG5pcXVlKS5kb3dubG9hZFZpZGVvTGluaywKCQkJCQkJCXN0cmVhbWluZ1ZpZGVvTGluazogKGVudHJ5IGFzIElHQUNvbnRhaW5lclRlY2huaXF1ZSkuc3RyZWFtaW5nVmlkZW9MaW5rLAoJCQkJCQkJZG93bmxvYWRlZDogZmFsc2UsCgkJCQkJCQlpc0Rvd25sb2FkaW5nOiBmYWxzZSwKCQkJCQkJCXByb2dyZXNzOiAwLAoJCQkJCQkJZmF2b3JpdGU6IGZhbHNlLAoJCQkJCQkJc3RyZWFtaW5nVmlkZW9MaW5rQW5kcm9pZDogKGVudHJ5IGFzIElHQUNvbnRhaW5lclRlY2huaXF1ZSkuc3RyZWFtaW5nVmlkZW9MaW5rQW5kcm9pZCwKCQkJCQkJfQoJCQkJCX0KCQkJCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICogICAgICAgICAtIGlhcE1vZGFsVHlwZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXdpc2hsaXN0OiBib29sZWFuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlpYXBJbnRyb0JvZHlPcHRpb24xOiBzdWJNb2R1bGUucHVyY2hhc2VTY3JlZW5PcHRpb25bMF0uZGVzY3JpcHRpb24s</text>
+        <text encoding="base64">ICogICAgICAgICAtIHdpc2hsaXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IHJlZ3VsYXJQcmljZSA9IE1hdGguY2VpbChzdWJNb2R1bGUucHVyY2hhc2VTY3JlZW5PcHRpb25bMF0ucHJpY2UgKiAxLjMpIC0gMC4wMTsK</text>
+        <text encoding="base64">ICogICAgICAgICAtIGJ1bmRsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IHNhdmVkUHJpY2UgPSByZWd1bGFyUHJpY2UgLSBzdWJNb2R1bGUucHVyY2hhc2VTY3JlZW5PcHRpb25bMF0ucHJpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
