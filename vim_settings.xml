@@ -37,17 +37,15 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/getAsset.ts" timestamp="1588290665194">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="2" />
-        <mark key="." line="17" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588296536546">
         <mark key="'" line="58" column="21" />
         <mark key="[" line="23" column="19" />
         <mark key="]" line="21" column="13" />
         <mark key="." line="21" column="13" />
         <mark key="^" line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertLegacyDatabaseToNewDatabase.ts" timestamp="1588308541127">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/getAssetList.ts" timestamp="1588293040549">
         <mark key="[" line="12" column="15" />
@@ -60,8 +58,11 @@
         <mark key="^" line="38" column="35" />
         <mark key="." line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/legacyDatabase.ts" timestamp="1588306540959">
-        <mark key="[" line="18" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/legacyDatabase.ts" timestamp="1588308694041">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/.gitignore" timestamp="1588304892758">
         <mark key="[" line="0" column="0" />
@@ -84,8 +85,10 @@
         <mark key="]" line="34" column="9" />
         <mark key="." line="34" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/sandbox.ts" timestamp="1588304937893">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/sandbox.ts" timestamp="1588308571447">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588306488104">
         <mark key="[" line="262" column="11" />
@@ -103,7 +106,7 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/viewAsset.ts" timestamp="1588292028956" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertDatabaseToLegacyVersion.ts" timestamp="1588305471377">
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertDatabaseToLegacyVersion.ts" timestamp="1588308494876">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="34" column="86" />
         <mark key="]" line="40" column="44" />
@@ -227,11 +230,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>const convertDatabaseToLegacyVersion()</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>const convertDatabaseToLegacyVersion()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -240,28 +243,28 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
+        <text encoding="base64">Ly8gdHMtaWdub3JlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGFwcF90aXRsZQo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGlhcE1vZGFsVHlwZQo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGFwcF90aXRsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXdpc2hsaXN0OiBib29sZWFuOwo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGlhcE1vZGFsVHlwZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIHdpc2hsaXN0Cg==</text>
+        <text encoding="base64">CXdpc2hsaXN0OiBib29sZWFuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGJ1bmRsZQo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIHdpc2hsaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAtIGJ1bmRsZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
