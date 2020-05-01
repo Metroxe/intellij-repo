@@ -105,11 +105,11 @@
         <mark key="]" line="34" column="9" />
         <mark key="." line="34" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588293556729">
-        <mark key="[" line="38" column="61" />
-        <mark key="]" line="38" column="61" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588293882776">
+        <mark key="[" line="49" column="95" />
+        <mark key="]" line="49" column="95" />
         <mark key="^" line="43" column="48" />
-        <mark key="." line="38" column="61" />
+        <mark key="." line="49" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/viewAsset.ts" timestamp="1588292028956" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/index.ts" timestamp="1588293029121">
@@ -229,10 +229,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>iconURL</text>
+        <text>iconID</text>
       </register>
       <register name="-" type="4">
-        <text>iconURL</text>
+        <text>iconID</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
