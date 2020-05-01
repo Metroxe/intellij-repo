@@ -33,11 +33,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588367986356">
-        <mark key="'" line="39" column="39" />
-        <mark key="[" line="109" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588371320778">
+        <mark key="'" line="40" column="39" />
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="58" column="38" />
+        <mark key="." line="58" column="38" />
+        <mark key="^" line="58" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/index.ts" timestamp="1588357049097">
         <mark key="[" line="1" column="17" />
@@ -54,15 +55,16 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/adminLogin.ts" timestamp="1588368556457">
-        <mark key="'" line="69" column="1" />
-        <mark key="[" line="66" column="13" />
-        <mark key="]" line="66" column="13" />
-        <mark key="." line="66" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/adminLogin.ts" timestamp="1588371311722">
+        <mark key="'" line="78" column="1" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="67" column="30" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/userLogin.ts" timestamp="1588368093180" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/tokenUtils.ts" timestamp="1588365489048">
-        <mark key="[" line="32" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/tokenUtils.ts" timestamp="1588370477441">
+        <mark key="[" line="46" column="30" />
         <mark key="]" line="12" column="60" />
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="73" />
@@ -107,10 +109,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Admin.ts" timestamp="1588363488975">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Admin.ts" timestamp="1588371084070">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/signUp.ts" timestamp="1588367251954">
         <mark key="[" line="107" column="19" />
@@ -127,12 +129,11 @@
         <mark key="." line="40" column="44" />
         <mark key="^" line="84" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" timestamp="1588367995030">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" timestamp="1588371271865">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="40" column="18" />
-        <mark key="]" line="28" column="78" />
-        <mark key="^" line="35" column="15" />
-        <mark key="." line="28" column="78" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -240,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>userDoc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>userDoc</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -253,31 +254,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtVc2VyfSBmcm9tICJAL21vZGVscy9Vc2VyIjsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKHBhc3N3b3JkSGFzaCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzZWxlY3Q6IGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGJvZHkudXNlcm5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coInZhbGlkYXRlZCIsIGVycikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtEb2N1bWVudCwgTW9uZ29vc2VEb2N1bWVudH0gZnJvbSAibW9uZ29vc2UiOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFRva2VuTW9kZWwgPSBnZXRNb2RlbEZvckNsYXNzKFRva2VuKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
