@@ -37,6 +37,48 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/index.ts" timestamp="1588357049097">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/index.ts" timestamp="1588357031132">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/ModuleEntry.ts" timestamp="1588293358900">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/index.ts" timestamp="1588357116319">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/sandbox.ts" timestamp="1588308571447">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Security.ts" timestamp="1588356887601">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getModulesContainer.ts" timestamp="1588294481503">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="38" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/legacyDatabase.ts" timestamp="1588308694041">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/Module.ts" timestamp="1588296536546">
         <mark key="'" line="58" column="21" />
         <mark key="[" line="23" column="19" />
@@ -50,49 +92,6 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/getAssetList.ts" timestamp="1588293040549">
-        <mark key="[" line="12" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin/src/services/getGAContainerJSON.ts" timestamp="1588305217545" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/app/App/Fixtures/ga_container_sections.json" timestamp="1588305409349" />
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getModulesContainer.ts" timestamp="1588294481503">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="13" />
-        <mark key="^" line="38" column="35" />
-        <mark key="." line="38" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/services/legacyDatabase.ts" timestamp="1588308694041">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="16" />
-        <mark key="^" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/.gitignore" timestamp="1588304892758">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/login.ts" timestamp="1588292078496">
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="2" />
-        <mark key="^" line="80" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/modules/ModuleEntry.ts" timestamp="1588293358900">
-        <mark key="'" line="42" column="6" />
-        <mark key="[" line="38" column="12" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="8" />
-        <mark key="^" line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/Asset.ts" timestamp="1588292580896">
-        <mark key="[" line="54" column="1" />
-        <mark key="]" line="34" column="9" />
-        <mark key="." line="34" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/sandbox.ts" timestamp="1588308571447">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/models/LegacyDatabase.ts" timestamp="1588306488104">
         <mark key="[" line="262" column="11" />
         <mark key="]" line="218" column="0" />
@@ -103,12 +102,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588295782228">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/viewAsset.ts" timestamp="1588292028956" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Admin.ts" timestamp="1588356884758" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertDatabaseToLegacyVersion.ts" timestamp="1588308494876">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="34" column="86" />
@@ -116,20 +110,23 @@
         <mark key="." line="40" column="44" />
         <mark key="^" line="84" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/assets/index.ts" timestamp="1588293029121">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/.gitignore" timestamp="1588304892758">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/uploadAsset.ts" timestamp="1588291984502">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="8" column="7" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588295782228">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" timestamp="1588357403070">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="26" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
       <jump line="82" column="56" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
@@ -229,15 +226,16 @@
       <jump line="35" column="31" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createNewModuleContainer.ts" />
       <jump line="32" column="19" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertDatabaseToLegacyVersion.ts" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/convertDatabaseToLegacyVersion.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Token.findOne</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFwcHM=</text>
+        <text>Token.findOne</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -249,28 +247,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gdHMtaWdub3JlCg==</text>
+        <text>interface Sec</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
+        <text encoding="base64">Ly8gdHMtaWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGFwcF90aXRsZQo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGlhcE1vZGFsVHlwZQo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGZhdm9yaXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXdpc2hsaXN0OiBib29sZWFuOwo=</text>
+        <text encoding="base64">ICogICAgICAgICAtIGFwcF90aXRsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIHdpc2hsaXN0Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAtIGlhcE1vZGFsVHlwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIGJ1bmRsZQo=</text>
+        <text encoding="base64">CXdpc2hsaXN0OiBib29sZWFuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
