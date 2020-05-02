@@ -40,6 +40,12 @@
         <mark key="." line="111" column="20" />
         <mark key="^" line="111" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/index.ts" timestamp="1588390999106">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/index.ts" timestamp="1588385448684">
         <mark key="[" line="0" column="16" />
       </file>
@@ -48,12 +54,13 @@
         <mark key="]" line="17" column="6" />
         <mark key="." line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.local_env" timestamp="1588384379982">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.local_env" timestamp="1588391538348">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/health.ts" timestamp="1588385550342" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/node_modules/@types/mongoose/index.d.ts" timestamp="1588391134179" />
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/admin-version7/src/Pages/Login.tsx" timestamp="1588383738370">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -65,11 +72,6 @@
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/Request.java" timestamp="1588375402650">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="8" />
-        <mark key="." line="5" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/adminLogin.ts" timestamp="1588383847062">
         <mark key="'" line="78" column="1" />
@@ -83,37 +85,33 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/changePassword.ts" timestamp="1588388009536">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/changePassword.ts" timestamp="1588390666014">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/init.ts" timestamp="1588391624378">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Transaction.ts" timestamp="1588385315362">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="19" column="2" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Admin.ts" timestamp="1588383003715">
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="36" column="2" />
-        <mark key="." line="36" column="2" />
-        <mark key="^" line="36" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/cors.ts" timestamp="1588384325758">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/deleteAdmin.ts" timestamp="1588386222904">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/deleteAdmin.ts" timestamp="1588391104391">
         <mark key="[" line="53" column="33" />
         <mark key="]" line="53" column="33" />
         <mark key="." line="53" column="33" />
         <mark key="^" line="53" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" timestamp="1588383181874">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="48" column="15" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/forms/deleteAdmin.ts" timestamp="1588385394689">
         <mark key="[" line="0" column="0" />
@@ -226,10 +224,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>{username: req.body.us}</text>
+        <text>christopher</text>
       </register>
       <register name="-" type="4">
-        <text>{username: req.body.us}</text>
+        <text>christopher</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
