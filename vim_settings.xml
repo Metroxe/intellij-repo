@@ -61,17 +61,21 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/health.ts" timestamp="1588385550342" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/node_modules/@types/mongoose/index.d.ts" timestamp="1588391134179" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/client/package.json" timestamp="1588384792005" />
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/prepareModuleContainer.ts" timestamp="1588395629940">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/utils/AuthenticateModuleContainer.ts" timestamp="1588395803533">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/client/src/apis/AdminApi.ts" timestamp="1588389462102" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/global.d.ts" timestamp="1588385901849">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/userLogin.ts" timestamp="1588383936737">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/utils/tokenUtils.ts" timestamp="1588392533975">
         <mark key="[" line="46" column="0" />
@@ -90,15 +94,16 @@
         <mark key="." line="32" column="10" />
         <mark key="^" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getModulesContainer.ts" timestamp="1588395590698">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="35" />
+        <mark key="." line="38" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/models/Transaction.ts" timestamp="1588385315362">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="19" column="2" />
         <mark key="." line="19" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/cors.ts" timestamp="1588384325758">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/admin/deleteAdmin.ts" timestamp="1588391104391">
         <mark key="[" line="53" column="33" />
@@ -224,7 +229,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>const documen</text>
       </register>
       <register name="-" type="4">
         <text>is expired. Please login again to get another token.</text>
@@ -236,31 +241,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>const documen</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vVE9ETwo=</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vVE9ETwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICAtIHBhc3N3b3JkCiAqICAgICAgICAgLSBjb25maXJtUGFzc3dvcmQKICogICAgICAgICAtIHJvbGU=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICogICAgICAgICAtIHBhc3N3b3JkCiAqICAgICAgICAgLSBjb25maXJtUGFzc3dvcmQKICogICAgICAgICAtIHJvbGU=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgICBwYXNzd29yZDoKICogICAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICAgIGNvbmZpcm1QYXNzd29yZDoKICogICAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICAgIGZpcnN0TmFtZToKICogICAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICAgIGxhc3ROYW1lOgogKiAgICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgZW1haWw6CiAqICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICByb2xlOgogKiAgICAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9zY2hlbWFzL0FkbWluUm9sZSc=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtVc2VyfSBmcm9tICJAL21vZGVscy9Vc2VyIjsK</text>
+        <text encoding="base64">ICogICAgICAgICBwYXNzd29yZDoKICogICAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICAgIGNvbmZpcm1QYXNzd29yZDoKICogICAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICAgIGZpcnN0TmFtZToKICogICAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICAgIGxhc3ROYW1lOgogKiAgICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgZW1haWw6CiAqICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICByb2xlOgogKiAgICAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9zY2hlbWFzL0FkbWluUm9sZSc=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
