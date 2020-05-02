@@ -117,11 +117,11 @@
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/services/db.ts" timestamp="1588366819497">
         <mark key="[" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" timestamp="1588375469964">
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/middleware/adminAuthentication.ts" timestamp="1588379357713">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="17" column="121" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/routes/forms/index.ts" timestamp="1588375138730">
         <mark key="[" line="0" column="18" />
@@ -238,10 +238,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
-        <text>isAuthenticated</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -250,31 +250,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWlmIChhZG1pbkRvYykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhZG1pblNuYXBzaG90PzogRG9jdW1lbnRTbmFwc2hvdDsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlhZG1pblJlZmVyZW5jZT86IERvY3VtZW50UmVmZXJlbmNlOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl1c2VyU25hcHNob3Q/OiBEb2N1bWVudFNuYXBzaG90Owo=</text>
+        <text encoding="base64">CQlhZG1pblNuYXBzaG90PzogRG9jdW1lbnRTbmFwc2hvdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl1c2VyUmVmZXJlbmNlPzogRG9jdW1lbnRSZWZlcmVuY2U7Cg==</text>
+        <text encoding="base64">CQlhZG1pblJlZmVyZW5jZT86IERvY3VtZW50UmVmZXJlbmNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl1c2VySUQ/OiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">CQl1c2VyU25hcHNob3Q/OiBEb2N1bWVudFNuYXBzaG90Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlhZG1pbklEPzogc3RyaW5nOwo=</text>
+        <text encoding="base64">CQl1c2VyUmVmZXJlbmNlPzogRG9jdW1lbnRSZWZlcmVuY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0b2tlbjogc3RyaW5nOwo=</text>
+        <text encoding="base64">CQl1c2VySUQ/OiBzdHJpbmc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
