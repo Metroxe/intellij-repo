@@ -33,6 +33,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.local_env" timestamp="1588479369541">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/tsconfig.json" timestamp="1588405713215">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="29" />
@@ -40,49 +45,46 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/node_modules/csstype/index.d.ts" timestamp="1588409016985" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1588404985689" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/public/index.html" timestamp="1588407614211">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/public/index.html" timestamp="1588479555165">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/redux/meta/MetaReducer.ts" timestamp="1588406219186">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/bootstrap-override.scss" timestamp="1588411125347">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/bootstrap-override.scss" timestamp="1588479772680">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/App.tsx" timestamp="1588406820165">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-        <mark key="^" line="1" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/App.tsx" timestamp="1588478847788">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="20" column="63" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/pages/Login.tsx" timestamp="1588411704582">
-        <mark key="[" line="75" column="26" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="72" column="64" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/pages/NotFound.tsx" timestamp="1588478299320">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/Dockerfile-local" timestamp="1588404309370">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/pages/Login.tsx" timestamp="1588479894331">
+        <mark key="[" line="70" column="27" />
+        <mark key="]" line="66" column="66" />
+        <mark key="." line="66" column="65" />
+        <mark key="^" line="66" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/tsconfig.json" timestamp="1588404913478" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/components/Header.tsx" timestamp="1588406497410">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/components/AuthenticatedRoute.tsx" timestamp="1588478125412">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/getModulesContainer.ts" timestamp="1588401094075">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="26" column="9" />
-        <mark key="^" line="38" column="35" />
-        <mark key="." line="26" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/components/Header.tsx" timestamp="1588478676580">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1588404967290" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/package.json" timestamp="1588405073677">
@@ -90,23 +92,22 @@
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1588404502707">
-        <mark key="[" line="53" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1588476636119">
+        <mark key="[" line="58" column="17" />
         <mark key="]" line="53" column="25" />
         <mark key="." line="53" column="25" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/index.tsx" timestamp="1588407732226">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/index.tsx" timestamp="1588478880444">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/pages/AuthenticatedRoute.tsx" timestamp="1588405827348">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/GrappleArtContainer/backend/src/routes/admin/forms/createAdmin.ts" timestamp="1588402844116" />
     </filemarks>
     <jumps>
       <jump line="35" column="33" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
@@ -214,10 +215,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>href=&quot;&quot;</text>
+        <text>UBLIC_UR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -226,46 +227,33 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZm9udApAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU9wZW4rU2Fuczo0MDAsNjAwJmRpc3BsYXk9c3dhcCcpOwokZm9udC1mYW1pbHktYmFzZTogIk9wZW5TYW5zIiwgc2Fucy1zZXJpZiAhZGVmYXVsdDsKLy8kZm9udC1zaXplLWJhc2U6IC44NXJlbTs=</text>
       </register>
       <register name="3" type="2">
-        <text>$black: #000;
-$box-shadow: 0 20rem 1rem rgba($black, .15) !default;
-$box-shadow-sm: 0 .125rem .25rem rgba($black, .075) !default;
-$box-shadow-lg: 0 1rem 3rem rgba($black, .175) !default;
-$box-shadow-inset: inset 0 1px 2px rgba($black, .075) !default;</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9Imh0dHBzOi8vZnJhbWVvbmVzb2Z0d2FyZS5jb20vaWNvbnMvc2l0ZS53ZWJtYW5pZmVzdD92PTcwQnpFbk1SdnEiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9IiVQVUJMSUNfVVJMJS9tYW5pZmVzdC5qc29uIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text>//// Our Variables
-//$radius: 5px;
-//
-//// input
-//$input-bg: transparent;
-//$input-border-width: 2px;
-//$input-border-radius: $radius;
-//$input-btn-focus-width: 0.05rem;
-//
-//// button
-//$btn-border-radius: $radius;
-//$btn-border-radius-lg: $radius;</text>
+        <text encoding="base64">QQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">JGJvZHktY29sb3I6ICNGREZERkY7Cg==</text>
+      <register name="6" type="4">
+        <text>// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PW</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gRm9udCBpbXBvcnQK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGxvY2F0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1PcGVuK1NhbnM6NDAwLDYwMCZkaXNwbGF5PXN3YXAnKTsKQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Nb250c2VycmF0OjQwMCw2MDAmZGlzcGxheT1zd2FwJyk7CgovLyRmb250LWZhbWlseS1iYXNlOiAiT3BlbiBTYW5zIiwgc2Fucy1zZXJpZiAhZGVmYXVsdDsKJGZvbnQtZmFtaWx5LWJhc2U6ICJvcGVuc2FucyIsIHNhbnMtc2VyaWYgIWRlZmF1bHQ7</text>
+        <text encoding="base64">aW1wb3J0IHtJU3RvcmV9IGZyb20gIi4uL3JlZHV4L2RlZmF1bHRTdG9yZSI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
