@@ -55,10 +55,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/bootstrap-override.scss" timestamp="1588479772680">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/bootstrap-override.scss" timestamp="1588619086665">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/App.tsx" timestamp="1588478847788">
         <mark key="[" line="10" column="0" />
@@ -230,30 +230,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gZm9udApAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU9wZW4rU2Fuczo0MDAsNjAwJmRpc3BsYXk9c3dhcCcpOwokZm9udC1mYW1pbHktYmFzZTogIk9wZW5TYW5zIiwgc2Fucy1zZXJpZiAhZGVmYXVsdDsKLy8kZm9udC1zaXplLWJhc2U6IC44NXJlbTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9Imh0dHBzOi8vZnJhbWVvbmVzb2Z0d2FyZS5jb20vaWNvbnMvc2l0ZS53ZWJtYW5pZmVzdD92PTcwQnpFbk1SdnEiPgo=</text>
+        <text encoding="base64">Ly8gZm9udApAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU9wZW4rU2Fuczo0MDAsNjAwJmRpc3BsYXk9c3dhcCcpOwokZm9udC1mYW1pbHktYmFzZTogIk9wZW5TYW5zIiwgc2Fucy1zZXJpZiAhZGVmYXVsdDsKLy8kZm9udC1zaXplLWJhc2U6IC44NXJlbTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9IiVQVUJMSUNfVVJMJS9tYW5pZmVzdC5qc29uIiAvPgo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9Imh0dHBzOi8vZnJhbWVvbmVzb2Z0d2FyZS5jb20vaWNvbnMvc2l0ZS53ZWJtYW5pZmVzdD92PTcwQnpFbk1SdnEiPgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9IiVQVUJMSUNfVVJMJS9tYW5pZmVzdC5qc29uIiAvPgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">QQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>// If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PW</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGxvY2F0aW9uKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtJU3RvcmV9IGZyb20gIi4uL3JlZHV4L2RlZmF1bHRTdG9yZSI7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGxvY2F0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
