@@ -38,24 +38,36 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/urls.ts" timestamp="1588628027531">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/App.tsx" timestamp="1588478847788">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="20" column="63" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/pages/NotFound.tsx" timestamp="1588478299320">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/backend/src/index.ts" timestamp="1588624432679">
         <mark key="[" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/.local_env" timestamp="1588623953791" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/v2Apis.ts" timestamp="1588628659369">
+        <mark key="[" line="70" column="67" />
+        <mark key="]" line="70" column="67" />
+        <mark key="." line="70" column="67" />
+        <mark key="^" line="70" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/pages/Login.tsx" timestamp="1588479894331">
         <mark key="[" line="70" column="27" />
         <mark key="]" line="66" column="66" />
         <mark key="." line="66" column="65" />
         <mark key="^" line="66" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadLogo.tsx" timestamp="1588627724453">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/backend/package.json" timestamp="1588624194405">
         <mark key="[" line="13" column="0" />
@@ -68,27 +80,18 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/components/AuthenticatedRoute.tsx" timestamp="1588478125412">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1588628620906">
+        <mark key="[" line="520" column="1" />
+        <mark key="]" line="514" column="10" />
+        <mark key="." line="514" column="9" />
+        <mark key="^" line="514" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/.local_env" timestamp="1588479369541">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/components/Header.tsx" timestamp="1588478676580">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1588476636119">
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="53" column="25" />
-        <mark key="." line="53" column="25" />
-        <mark key="^" line="19" column="27" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/pages/Dashboard.tsx" timestamp="1588627528584" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/index.tsx" timestamp="1588478880444">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -99,16 +102,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/redux/meta/MetaReducer.ts" timestamp="1588406219186">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/bootstrap-override.scss" timestamp="1588619086665">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" timestamp="1588627681905" />
       <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/admin/package.json" timestamp="1588624279311" />
       <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/admin/src/components/Header.tsx" timestamp="1588624319591">
         <mark key="[" line="32" column="58" />
@@ -222,43 +221,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Real Estate Securities</text>
+        <text>getClientDocumentUploadURL</text>
       </register>
       <register name="-" type="4">
-        <text>Real Estate Securities</text>
+        <text>getClientDocumentUploadURL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>PurchaseModuleScreenOptions</text>
+        <text>fileid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL0ZyYW1lLU9uZS1Tb2Z0d2FyZS9yZWFsZXN0YXRlLXNlY3VyaXRpZXMjcmVhZG1lIiwK</text>
+        <text encoding="base64">CXNpZ25lZFVSTDogc3RyaW5nOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL0ZyYW1lLU9uZS1Tb2Z0d2FyZS9yZWFsZXN0YXRlLXNlY3VyaXRpZXMjcmVhZG1lIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL0ZyYW1lLU9uZS1Tb2Z0d2FyZS9yZWFsZXN0YXRlLXNlY3VyaXRpZXMvaXNzdWVzIgogIH0s</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL0ZyYW1lLU9uZS1Tb2Z0d2FyZS9yZWFsZXN0YXRlLXNlY3VyaXRpZXMvaXNzdWVzIgogIH0s</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vRnJhbWUtT25lLVNvZnR3YXJlL3JlYWxlc3RhdGUtc2VjdXJpdGllcy5naXQiCiAgfSw=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vRnJhbWUtT25lLVNvZnR3YXJlL3JlYWxlc3RhdGUtc2VjdXJpdGllcy5naXQiCiAgfSw=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vTWV0cm94ZS9yZWFsZXN0YXRlLXNlY3VyaXRpZXMtYWxwaGEuZ2l0IgogIH0s</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL01ldHJveGUvcmVhbGVzdGF0ZS1zZWN1cml0aWVzLWFscGhhI3JlYWRtZSIsCg==</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vTWV0cm94ZS9yZWFsZXN0YXRlLXNlY3VyaXRpZXMtYWxwaGEuZ2l0IgogIH0s</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL01ldHJveGUvcmVhbGVzdGF0ZS1zZWN1cml0aWVzLWFscGhhI3JlYWRtZSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
