@@ -33,32 +33,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.local_env" timestamp="1588479369541">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/tsconfig.json" timestamp="1588405713215">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/node_modules/csstype/index.d.ts" timestamp="1588409016985" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/package.json" timestamp="1588404985689" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/public/index.html" timestamp="1588479555165">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/redux/meta/MetaReducer.ts" timestamp="1588406219186">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/bootstrap-override.scss" timestamp="1588619086665">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/client/package.json" timestamp="1588624205275">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/App.tsx" timestamp="1588478847788">
         <mark key="[" line="10" column="0" />
@@ -69,28 +47,40 @@
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/pages/NotFound.tsx" timestamp="1588478299320">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/backend/src/index.ts" timestamp="1588624432679">
+        <mark key="[" line="30" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/.local_env" timestamp="1588623953791" />
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/pages/Login.tsx" timestamp="1588479894331">
         <mark key="[" line="70" column="27" />
         <mark key="]" line="66" column="66" />
         <mark key="." line="66" column="65" />
         <mark key="^" line="66" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/tsconfig.json" timestamp="1588404913478" />
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/backend/package.json" timestamp="1588624194405">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/backend/swaggerDef.js" timestamp="1588624132137">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/components/AuthenticatedRoute.tsx" timestamp="1588478125412">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/.local_env" timestamp="1588479369541">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/components/Header.tsx" timestamp="1588478676580">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/backend/src/index.ts" timestamp="1588404967290" />
-      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/package.json" timestamp="1588405073677">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/realestate-securities/docker-compose.yml" timestamp="1588476636119">
         <mark key="[" line="58" column="17" />
@@ -107,6 +97,27 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/public/index.html" timestamp="1588479555165">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/redux/meta/MetaReducer.ts" timestamp="1588406219186">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/realestate-securities/admin/src/bootstrap-override.scss" timestamp="1588619086665">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/admin/package.json" timestamp="1588624279311" />
+      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/admin/src/components/Header.tsx" timestamp="1588624319591">
+        <mark key="[" line="32" column="58" />
+        <mark key="]" line="32" column="58" />
+        <mark key="." line="32" column="58" />
       </file>
     </filemarks>
     <jumps>
@@ -214,11 +225,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Real Estate Securities</text>
       </register>
       <register name="-" type="4">
-        <text>UBLIC_UR</text>
+        <text>Real Estate Securities</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -227,33 +238,31 @@
         <text>PurchaseModuleScreenOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL0ZyYW1lLU9uZS1Tb2Z0d2FyZS9yZWFsZXN0YXRlLXNlY3VyaXRpZXMjcmVhZG1lIiwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZm9udApAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU9wZW4rU2Fuczo0MDAsNjAwJmRpc3BsYXk9c3dhcCcpOwokZm9udC1mYW1pbHktYmFzZTogIk9wZW5TYW5zIiwgc2Fucy1zZXJpZiAhZGVmYXVsdDsKLy8kZm9udC1zaXplLWJhc2U6IC44NXJlbTs=</text>
+        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL0ZyYW1lLU9uZS1Tb2Z0d2FyZS9yZWFsZXN0YXRlLXNlY3VyaXRpZXMvaXNzdWVzIgogIH0s</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9Imh0dHBzOi8vZnJhbWVvbmVzb2Z0d2FyZS5jb20vaWNvbnMvc2l0ZS53ZWJtYW5pZmVzdD92PTcwQnpFbk1SdnEiPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ibWFuaWZlc3QiIGhyZWY9IiVQVUJMSUNfVVJMJS9tYW5pZmVzdC5qc29uIiAvPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PW</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vRnJhbWUtT25lLVNvZnR3YXJlL3JlYWxlc3RhdGUtc2VjdXJpdGllcy5naXQiCiAgfSw=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vTWV0cm94ZS9yZWFsZXN0YXRlLXNlY3VyaXRpZXMtYWxwaGEuZ2l0IgogIH0s</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL01ldHJveGUvcmVhbGVzdGF0ZS1zZWN1cml0aWVzLWFscGhhI3JlYWRtZSIsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGxvY2F0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
