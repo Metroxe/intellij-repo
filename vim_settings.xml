@@ -34,10 +34,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/Header.tsx" timestamp="1588644417818">
-        <mark key="[" line="39" column="21" />
-        <mark key="]" line="70" column="36" />
-        <mark key="." line="70" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/Header.tsx" timestamp="1588645912072">
+        <mark key="[" line="95" column="53" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="77" column="21" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/redux/meta/MetaActions.ts" timestamp="1588645042466">
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="15" />
+        <mark key="." line="55" column="15" />
+        <mark key="^" line="55" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/package.json" timestamp="1588636367561">
         <mark key="[" line="6" column="25" />
@@ -53,23 +60,13 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/backend/src/index.ts" timestamp="1588624432679">
-        <mark key="[" line="30" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/v2Apis.ts" timestamp="1588638609707">
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="72" column="4" />
-        <mark key="." line="72" column="4" />
-        <mark key="^" line="73" column="79" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/CreateInvoiceFormFull.tsx" timestamp="1588646270316" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/pages/Login.tsx" timestamp="1588632683158" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadLogo.tsx" timestamp="1588627724453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/backend/swaggerDef.js" timestamp="1588625734415">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1588646393311">
+        <mark key="[" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1588628620906">
         <mark key="[" line="520" column="1" />
@@ -90,19 +87,22 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/redux/meta/InitialMetaStore.ts" timestamp="1588632878531" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/redux/meta/InitialMetaStore.ts" timestamp="1588644632330">
+        <mark key="[" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadFile.ts" timestamp="1588634453215" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/redux/meta/MetaReducer.ts" timestamp="1588644779699">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" timestamp="1588643471982">
         <mark key="'" line="148" column="11" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/admin/src/components/Header.tsx" timestamp="1588624319591">
-        <mark key="[" line="32" column="58" />
-        <mark key="]" line="32" column="58" />
-        <mark key="." line="32" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/admin/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1588631245310" />
     </filemarks>
@@ -211,11 +211,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>tokenV2 ? tokenV2 : {})</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT0RPXD4=</text>
@@ -224,31 +224,31 @@
         <text encoding="base64">IHNldEltYWdlVVJM</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJPGltZwoJCQkJCQkJCQkJc3JjPXtsb2dvVVJMfQoJCQkJCQkJCQkJYWx0PSJIYXJib3VyIFRyYWRlIENyZWRpdCBMb2dvIgoJCQkJCQkJCQkJY2xhc3NOYW1lPSJoZWFkZXItbG9nbyIKCQkJCQkJCQkJLz4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZ1bmN0aW9uIGdldExvZ28oKTogdm9pZCB7CgkJCgl9</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PGltZwoJCQkJCQkJCQkJCQlzcmM9e2xvZ29VUkx9CgkJCQkJCQkJCQkJCWFsdD0iSGFyYm91ciBUcmFkZSBDcmVkaXQgTG9nbyIKCQkJCQkJCQkJCQkJY2xhc3NOYW1lPSJoZWFkZXItbG9nbyIKCQkJCQkJCQkJCQkvPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyh0b2tlblYyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZ1bmN0aW9uIGdldExvZ28oKTogdm9pZCB7CgkJCgl9</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCJkaXNwYXRjaCB2MiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhwcm9wcy50b2tlblYyLCB1cGxvYWRVUkxSZXMuZGF0YS5maWxlaWQpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJc3lzdGVtTXNnOiAiU29tZXRoaW5nIHdlbnQgd3JvbmcgZHVyaW5nIHRoZSB1cGxvYWQuIFBsZWFzZSB0cnkgYWdhaW4uIgo=</text>
+        <text encoding="base64">CWZ1bmN0aW9uIGdldExvZ28oKTogdm9pZCB7CgkJCgl9</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
