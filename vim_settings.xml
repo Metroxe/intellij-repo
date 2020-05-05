@@ -61,7 +61,6 @@
         <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/CreateInvoiceFormFull.tsx" timestamp="1588646270316" />
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/pages/Login.tsx" timestamp="1588632683158" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/backend-v2/api/routers/invoice.py" timestamp="1588648429562">
         <mark key="[" line="78" column="26" />
         <mark key="]" line="71" column="56" />
@@ -80,6 +79,9 @@
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/backend-v2/api/routers/clientlink.py" timestamp="1588648226150" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/admin/src/pages/Investors.tsx" timestamp="1588633259830">
         <mark key="[" line="721" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/App.tsx" timestamp="1588651557549">
+        <mark key="[" line="21" column="28" />
       </file>
       <file name="/" timestamp="1588633661951">
         <mark key="[" line="0" column="0" />
@@ -108,7 +110,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/admin/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1588631245310" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/TokenManagement.tsx" timestamp="1588651674271">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="43" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
