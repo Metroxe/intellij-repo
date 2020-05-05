@@ -40,6 +40,11 @@
         <mark key="^" line="77" column="21" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/backend-v2/api/services/data/clientlinkaccess.py" timestamp="1588648822414">
+        <mark key="[" line="56" column="51" />
+        <mark key="]" line="56" column="51" />
+        <mark key="." line="56" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/redux/meta/MetaActions.ts" timestamp="1588645042466">
         <mark key="[" line="55" column="15" />
         <mark key="]" line="55" column="15" />
@@ -54,7 +59,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/urls.ts" timestamp="1588628027531">
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/urls.ts" timestamp="1588647138018">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
@@ -62,18 +67,16 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/CreateInvoiceFormFull.tsx" timestamp="1588646270316" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/pages/Login.tsx" timestamp="1588632683158" />
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadLogo.tsx" timestamp="1588627724453">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/backend-v2/api/routers/invoice.py" timestamp="1588648429562">
+        <mark key="[" line="78" column="26" />
+        <mark key="]" line="71" column="56" />
+        <mark key="^" line="71" column="56" />
+        <mark key="." line="71" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1588646393311">
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1588647129568">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1588628620906">
-        <mark key="[" line="520" column="1" />
-        <mark key="]" line="514" column="10" />
-        <mark key="." line="514" column="9" />
-        <mark key="^" line="514" column="10" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/backend-v2/api/routers/clientlink.py" timestamp="1588648226150" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/admin/src/pages/Investors.tsx" timestamp="1588633259830">
         <mark key="[" line="721" column="49" />
       </file>
@@ -211,11 +214,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>registeredAddress</text>
       </register>
       <register name="-" type="4">
-        <text>tokenV2 ? tokenV2 : {})</text>
+        <text>registeredAddress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT0RPXD4=</text>
