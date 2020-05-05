@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/backend/src/index.ts" timestamp="1588624432679">
         <mark key="[" line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/v2Apis.ts" timestamp="1588636161843">
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/v2Apis.ts" timestamp="1588638609707">
         <mark key="[" line="64" column="35" />
         <mark key="]" line="72" column="4" />
         <mark key="." line="72" column="4" />
@@ -78,16 +78,16 @@
       <file name="/" timestamp="1588633661951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadToSignedURL.ts" timestamp="1588636125297">
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadToSignedURL.ts" timestamp="1588638882740">
         <mark key="'" line="1" column="35" />
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="32" />
-        <mark key="^" line="24" column="33" />
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/redux/meta/InitialMetaStore.ts" timestamp="1588632878531" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadFile.ts" timestamp="1588634453215" />
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" timestamp="1588636417354">
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" timestamp="1588638613353">
         <mark key="'" line="68" column="15" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -206,11 +206,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>post</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT0RPXD4=</text>
