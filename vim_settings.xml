@@ -34,6 +34,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/Header.tsx" timestamp="1588644417818">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="70" column="36" />
+        <mark key="." line="70" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/package.json" timestamp="1588636367561">
         <mark key="[" line="6" column="25" />
       </file>
@@ -87,12 +92,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/redux/meta/InitialMetaStore.ts" timestamp="1588632878531" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadFile.ts" timestamp="1588634453215" />
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" timestamp="1588638613353">
-        <mark key="'" line="68" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" timestamp="1588643471982">
+        <mark key="'" line="148" column="11" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
-        <mark key="^" line="66" column="32" />
+        <mark key="^" line="61" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/admin/src/components/Header.tsx" timestamp="1588624319591">
         <mark key="[" line="32" column="58" />
@@ -102,7 +107,6 @@
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/admin/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1588631245310" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" />
       <jump line="43" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
       <jump line="43" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
       <jump line="36" column="43" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
@@ -202,15 +206,16 @@
       <jump line="7" column="21" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" />
       <jump line="1" column="35" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadToSignedURL.ts" />
       <jump line="68" column="15" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" />
+      <jump line="148" column="11" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>post</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT0RPXD4=</text>
@@ -219,31 +224,31 @@
         <text encoding="base64">IHNldEltYWdlVVJM</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJc3lzdGVtTXNnOiAiU29tZXRoaW5nIHdlbnQgd3JvbmcgZHVyaW5nIHRoZSB1cGxvYWQuIFBsZWFzZSB0cnkgYWdhaW4uIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnN0IGltYWdlZmlsZSA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNmaWxlJyk7Cg==</text>
+        <text encoding="base64">CWZ1bmN0aW9uIGdldExvZ28oKTogdm9pZCB7CgkJCgl9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyh1cGxvYWRVUkxSZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zdCBmaWxlTmFtZSA9bG9nby5uYW1lLnN1YnN0cmluZygwLCBsYXN0RG90KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZ1bmN0aW9uIGdldExvZ28oKTogdm9pZCB7CgkJCgl9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhwcm9wcy50b2tlblYyLCB1cGxvYWRVUkxSZXMuZGF0YS5maWxlaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlhZGFwdGVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>import adapter from &quot;../utils/ad&quot;</text>
+        <text encoding="base64">CQkJc3lzdGVtTXNnOiAiU29tZXRoaW5nIHdlbnQgd3JvbmcgZHVyaW5nIHRoZSB1cGxvYWQuIFBsZWFzZSB0cnkgYWdhaW4uIgo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
