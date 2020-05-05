@@ -15,6 +15,7 @@
         <entry encoding="base64">XDxJRFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVBZG1pbkJvZHlcPg==</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
+        <entry encoding="base64">XDxUT0RPXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
@@ -33,8 +34,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/package.json" timestamp="1588629465365">
-        <mark key="[" line="22" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/package.json" timestamp="1588636367561">
+        <mark key="[" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/install_dependencies.sh" timestamp="1588629459808">
         <mark key="[" line="12" column="0" />
@@ -50,11 +51,11 @@
       <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/backend/src/index.ts" timestamp="1588624432679">
         <mark key="[" line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/v2Apis.ts" timestamp="1588634355520">
-        <mark key="[" line="69" column="4" />
-        <mark key="]" line="69" column="4" />
-        <mark key="." line="69" column="4" />
-        <mark key="^" line="70" column="79" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/v2Apis.ts" timestamp="1588636161843">
+        <mark key="[" line="64" column="35" />
+        <mark key="]" line="72" column="4" />
+        <mark key="." line="72" column="4" />
+        <mark key="^" line="73" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/pages/Login.tsx" timestamp="1588632683158" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadLogo.tsx" timestamp="1588627724453">
@@ -77,7 +78,7 @@
       <file name="/" timestamp="1588633661951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadToSignedURL.ts" timestamp="1588634818365">
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadToSignedURL.ts" timestamp="1588636125297">
         <mark key="'" line="1" column="35" />
         <mark key="[" line="22" column="1" />
         <mark key="]" line="24" column="33" />
@@ -86,12 +87,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/redux/meta/InitialMetaStore.ts" timestamp="1588632878531" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadFile.ts" timestamp="1588634453215" />
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" timestamp="1588634394562">
-        <mark key="'" line="7" column="21" />
-        <mark key="[" line="57" column="18" />
-        <mark key="]" line="63" column="19" />
-        <mark key="." line="63" column="18" />
-        <mark key="^" line="63" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" timestamp="1588636417354">
+        <mark key="'" line="68" column="15" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="66" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/frame-one-software-boilerplate-mongo-openapi/admin/src/components/Header.tsx" timestamp="1588624319591">
         <mark key="[" line="32" column="58" />
@@ -101,7 +102,6 @@
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/admin/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1588631245310" />
     </filemarks>
     <jumps>
-      <jump line="46" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/app/services/APIAdapater.tsx" />
       <jump line="43" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
       <jump line="43" column="16" filename="$USER_HOME$/Documents/Projects/fraser-land-farms/src/server/routes/root/forms/Summary.ts" />
@@ -201,48 +201,49 @@
       <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" />
       <jump line="7" column="21" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" />
       <jump line="1" column="35" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/uploadToSignedURL.ts" />
+      <jump line="68" column="15" filename="$USER_HOME$/Documents/Projects/harbour-trade-credit/portal/src/components/UploadLogo.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyXD4=</text>
+        <text encoding="base64">XDxUT0RPXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHNldEltYWdlVVJM</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJc3lzdGVtTXNnOiAiU29tZXRoaW5nIHdlbnQgd3JvbmcgZHVyaW5nIHRoZSB1cGxvYWQuIFBsZWFzZSB0cnkgYWdhaW4uIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnN0IGltYWdlZmlsZSA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNmaWxlJyk7Cg==</text>
+        <text encoding="base64">CQkJc3lzdGVtTXNnOiAiU29tZXRoaW5nIHdlbnQgd3JvbmcgZHVyaW5nIHRoZSB1cGxvYWQuIFBsZWFzZSB0cnkgYWdhaW4uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyh1cGxvYWRVUkxSZXMpOwo=</text>
+        <text encoding="base64">CWNvbnN0IGltYWdlZmlsZSA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNmaWxlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zdCBmaWxlTmFtZSA9bG9nby5uYW1lLnN1YnN0cmluZygwLCBsYXN0RG90KTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyh1cGxvYWRVUkxSZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb25zdCBmaWxlTmFtZSA9bG9nby5uYW1lLnN1YnN0cmluZygwLCBsYXN0RG90KTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhZGFwdGVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>import adapter from &quot;../utils/ad&quot;</text>
+        <text encoding="base64">CQlhZGFwdGVyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text>import adapter from &quot;../utils/ad&quot;</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
@@ -251,9 +252,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx1c2VyXD4=</last-search>
+      <last-search encoding="base64">XDxUT0RPXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUT0RPXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
