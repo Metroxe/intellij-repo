@@ -54,11 +54,6 @@
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/package.json" timestamp="1588636367561">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/install_dependencies.sh" timestamp="1588629459808">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/urls.ts" timestamp="1588647138018">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="35" />
@@ -75,6 +70,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/.env" timestamp="1588647129568">
         <mark key="[" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/adapter/src/initialAdapter/modelsV2.ts" timestamp="1588650495521">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="514" column="10" />
+        <mark key="." line="514" column="9" />
+        <mark key="^" line="514" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/backend-v2/api/routers/clientlink.py" timestamp="1588648226150" />
       <file name="$USER_HOME$/Documents/Projects/harbour-trade-credit/admin/src/pages/Investors.tsx" timestamp="1588633259830">
